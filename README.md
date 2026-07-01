@@ -5,6 +5,8 @@
 **🔎 Live searchable glossary:** <https://gasyoun.github.io/SanskritRussian/>
 — type an SLP1 root/word (`gam`, `BU`) or a Russian word and browse the ranked translations.
 
+**See also:** [USE_CASES.md](USE_CASES.md) · [INTERLINKS.md](INTERLINKS.md) (upstream/downstream repos) · [CHANGELOG.md](CHANGELOG.md)
+
 A full inventory of **how every Sanskrit word is rendered into Russian** in the aligned
 corpus, at three granularities:
 

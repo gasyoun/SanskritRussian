@@ -8,6 +8,14 @@ All notable changes to this project are documented here. Format follows
 
 ## [Unreleased]
 
+## [1.0.1] — 2026-07-01
+
+### Added
+- [`INTERLINKS.md`](https://github.com/gasyoun/SanskritRussian/blob/main/INTERLINKS.md) — how the
+  glossary connects upstream (corpus_lexicon, VisualDCS, vidyut) and to potential downstream
+  consumers (PWG/MW→RU kits, WhitneyRoots root crosswalk, VisualDCS, SanskritKaraoke, BookIndex,
+  VedaWeb, csl-atlas). Registered in the cross-repo hub `Uprava/PROJECT_INTERLINKS.md`.
+
 ## [1.0.0] — 2026-07-01
 
 Initial public release — the three-layer Sanskrit→Russian glossary, data + live site.
@@ -36,7 +44,8 @@ Initial public release — the three-layer Sanskrit→Russian glossary, data + l
 - Windows case-insensitive-filesystem collision in per-letter bucketing (was losing 23,007 of
   190,838 records); bucket names are now case-folded to upper. Split verified lossless.
 
-[Unreleased]: https://github.com/gasyoun/SanskritRussian/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/gasyoun/SanskritRussian/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/gasyoun/SanskritRussian/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/gasyoun/SanskritRussian/releases/tag/v1.0.0
 
 <p align="right"><sub>Dr. Mārcis Gasūns</sub></p>
