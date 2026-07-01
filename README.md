@@ -2,7 +2,7 @@
 
 <p align="right"><sub>Created: 01-07-2026 · Last updated: 01-07-2026</sub></p>
 
-**🔎 Live searchable glossary:** <https://gasyoun.github.io/sanskrit-russian-glossary/>
+**🔎 Live searchable glossary:** <https://gasyoun.github.io/SanskritRussian/>
 — type an SLP1 root/word (`gam`, `BU`) or a Russian word and browse the ranked translations.
 
 A full inventory of **how every Sanskrit word is rendered into Russian** in the aligned
