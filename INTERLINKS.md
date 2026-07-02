@@ -1,6 +1,6 @@
 # Interlinks — where this glossary sits in the ecosystem
 
-<p align="right"><sub>Created: 01-07-2026 · Last updated: 01-07-2026</sub></p>
+_Created: 01-07-2026 · Last updated: 01-07-2026_
 
 This repo is a **derived data asset**: it consumes three upstream sources through a pipeline
 that lives in another repo, and it can feed several downstream consumers. Registered in the
@@ -57,4 +57,4 @@ Before deriving *another* Sa→Ru signal (alignment table, root gloss index, fre
 equivalents), **query this repo's TSVs first** — that's the point of registering it in the hub.
 The join keys are SLP1 throughout, matching the rest of the ecosystem.
 
-<p align="right"><sub>Dr. Mārcis Gasūns</sub></p>
+_Dr. Mārcis Gasūns_

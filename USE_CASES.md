@@ -1,6 +1,6 @@
 # Use cases — Sanskrit → Russian glossary
 
-<p align="right"><sub>Created: 01-07-2026 · Last updated: 01-07-2026</sub></p>
+_Created: 01-07-2026 · Last updated: 01-07-2026_
 
 What the three-layer glossary ([root](https://github.com/gasyoun/SanskritRussian/blob/main/root_glossary.tsv)
 · [lemma](https://github.com/gasyoun/SanskritRussian/blob/main/lemma_glossary.tsv) ·
@@ -50,4 +50,4 @@ occasional errors), roots are attached by an automated DCS/Vidyut join (homograp
 the dominant lemma). Treat frequencies as evidence, not ground truth — see the
 [method + typology](https://github.com/gasyoun/SanskritRussian/blob/main/README.md).
 
-<p align="right"><sub>Dr. Mārcis Gasūns</sub></p>
+_Dr. Mārcis Gasūns_
