@@ -1,6 +1,6 @@
 # Sanskrit → Russian glossary (surface · lemma · root)
 
-<p align="right"><sub>Created: 01-07-2026 · Last updated: 01-07-2026</sub></p>
+_Created: 01-07-2026 · Last updated: 01-07-2026_
 
 **🔎 Live searchable glossary:** <https://gasyoun.github.io/SanskritRussian/>
 — type an SLP1 root/word (`gam`, `BU`) or a Russian word and browse the ranked translations.
@@ -136,4 +136,4 @@ before the Vidyut supplement), so the second pass does not disturb the Vidyut in
 Vidyut data: `python -c "import vidyut; vidyut.download_data('vidyut_data')"` then pass
 `vidyut_data/kosha` to the fallback. Transcoding uses `indic_transliteration`; both are pip-installable.
 
-<p align="right"><sub>Dr. Mārcis Gasūns</sub></p>
+_Dr. Mārcis Gasūns_
