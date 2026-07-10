@@ -287,7 +287,7 @@
 - не знает  · n=6  · bhagavadgita-1914, bhagavadgity, ramanuja_gitabhashya, bhagavadgita-erman
 - не узнает  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - не знают  · n=2  · gitarthasamgraha-abhinavagupta, bhagavadgita-sharma
-- не познаёт  · n=2  · bhagavadgita-smirnov
+- не познает  · n=2  · bhagavadgita-smirnov
 - не может познать  · n=1  · mahabharata-udyogaparva
 - не усматриваетъ  · n=1  · bhagavadgita-1788
 - не вѣдаетъ  · n=1  · bhagavadgita-1788
@@ -5506,7 +5506,7 @@
 
 ### `nAnyatkiYcit` — nānyatkiñcit  (n=1)
 
-- ничего ещё не было  · n=1  · devi-gita
+- ничего еще не было  · n=1  · devi-gita
 
 ### `nAnyatra` — nānyatra  (n=1)
 
@@ -5815,7 +5815,7 @@
 - железною стрелою  · n=1  · mahabharata-bhishmaparva
 - железными остриями  · n=1  · mahabharata-bhishmaparva
 - тяжелыми  · n=1  · mahabharata-bhishmaparva
-- тяжёлыми  · n=1  · mahabharata-bhishmaparva
+- тяжелыми  · n=1  · mahabharata-bhishmaparva
 - лютыми стрелами  · n=1  · mahabharata-dronaparva
 - длинной железной стрелою  · n=1  · mahabharata-dronaparva
 - снабженными наконечником в виде полумесяца  · n=1  · mahabharata-dronaparva
@@ -6083,7 +6083,7 @@
 - подруги  · n=1  · ramayana-ayodhyakanda
 - к женщине  · n=1  · manavadharmashastra
 - Жена  · n=1  · mahabharata-aranyakaparva
-- жёны  · n=1  · rigveda
+- жены  · n=1  · rigveda
 - юные жены  · n=1  · rigveda
 - то  · n=1  · kama-sutra
 - не  · n=1  · kama-sutra
@@ -6196,7 +6196,7 @@
 ### `nArIzu` — nārīṣu  (n=2)
 
 - среди женщин  · n=1  · mahabharata-udyogaparva
-- для жён  · n=1  · mahabharata-ashvamedhikaparva
+- для жен  · n=1  · mahabharata-ashvamedhikaparva
 
 ### `nArTakAmyayA` — nārthakāmyayā  (n=1)
 
@@ -8562,7 +8562,7 @@
 ### `nIlAmbudapraKya` — nīlāmbudaprakhya  (n=2)
 
 - темной туче подобный  · n=1  · mahabharata-bhishmaparva
-- тёмной туче подобный  · n=1  · mahabharata-bhishmaparva
+- темной туче подобный  · n=1  · mahabharata-bhishmaparva
 
 ### `nIlAmbudasamapraKya` — nīlāmbudasamaprakhya  (n=1)
 
@@ -9117,7 +9117,7 @@
 
 - увезена  · n=4  · mahabharata-udyogaparva
 - привели  · n=1  · mahabharata-adiparva
-- приведённая  · n=1  · mahabharata-adiparva
+- приведенная  · n=1  · mahabharata-adiparva
 - приведена  · n=1  · mahabharata-adiparva
 - подверг  · n=1  · ramayana-aranyakanda
 - подвергли  · n=1  · ramayana-aranyakanda
@@ -9136,7 +9136,7 @@
 
 ### `nItAm` — nītām  (n=3)
 
-- приведённую  · n=1  · mahabharata-adiparva
+- приведенную  · n=1  · mahabharata-adiparva
 - вводили  · n=1  · mahabharata-aranyakaparva
 - Уведенную  · n=1  · atharvaveda
 
@@ -9157,7 +9157,7 @@
 
 - приведена  · n=2  · mahabharata-adiparva, mahabharata-virataparva
 - ведомые  · n=2  · ramayana-aranyakanda
-- приведённую  · n=1  · mahabharata-adiparva
+- приведенную  · n=1  · mahabharata-adiparva
 - заведен  · n=1  · mahabharata-adiparva
 - Последовал  · n=1  · ramayana-ayodhyakanda
 - отвез  · n=1  · ramayana-ayodhyakanda
@@ -10968,7 +10968,7 @@
 
 ### `naSyadvalitritayalakzitaromarAjIm` — naśyadvalitritayalakṣitaromarājīm  (n=1)
 
-- линия пушка на исчезающих трёх складках  · n=1  · chaurapanchashika
+- линия пушка на исчезающих трех складках  · n=1  · chaurapanchashika
 
 ### `naSyant` — naśyant  (n=1)
 
@@ -12431,7 +12431,7 @@
 
 - о Владыка гор  · n=4  · devi-gita
 - царь  · n=2  · devi-gita
-- царём гор  · n=1  · devi-gita
+- царем гор  · n=1  · devi-gita
 - о владыка гор  · n=1  · devi-gita
 - Владыка гор  · n=1  · devi-gita
 
@@ -15538,7 +15538,7 @@
 
 ### `namama` — na mama  (n=2)
 
-- не моё  · n=1  · mahabharata-ashvamedhikaparva
+- не мое  · n=1  · mahabharata-ashvamedhikaparva
 - не мое  · n=1  · pai-up
 
 ### `namamarza` — na mamarṣa  (n=1)
@@ -23745,7 +23745,7 @@
 
 ### `netram` — netram  (n=6)
 
-- верёвку  · n=1  · mahabharata-adiparva
+- веревку  · n=1  · mahabharata-adiparva
 - веревку  · n=1  · mahabharata-adiparva
 - веревкой  · n=1  · mahabharata-adiparva
 - глазами  · n=1  · mahabharata-adiparva
@@ -25319,7 +25319,7 @@
 - величайший из царей  · n=3  · mahabharata-aranyakaparva
 - наилучшего из царей  · n=1  · mahabharata-adiparva
 - лучшим из царей  · n=1  · mahabharata-adiparva
-- царём  · n=1  · mahabharata-adiparva
+- царем  · n=1  · mahabharata-adiparva
 - государя  · n=1  · ramayana-aranyakanda
 - лучшего из государей  · n=1  · ramayana-balakanda
 - достойнейший из царей  · n=1  · mahabharata-aranyakaparva
@@ -27538,7 +27538,7 @@
 - не имеющий симпатии  · n=1  · bhagavadgita-burba
 - свободный от вожделений  · n=1  · bhagavadgita-1914
 - свободная от всех вожделений  · n=1  · bhagavadgita-1914
-- отрешённый  · n=1  · bhagavadgity
+- отрешенный  · n=1  · bhagavadgity
 - без вожделений  · n=1  · bhagavadgita-sementsov
 - успокоил желанья  · n=1  · bhagavadgita-sementsov
 - без алчности  · n=1  · bhagavadgita-sharma
@@ -27556,7 +27556,7 @@
 - нечувствительный  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - не соприкасаясь с желаниями  · n=1  · gitarthasamgraha-abhinavagupta
 - не вожделеющий  · n=1  · bhagavadgita-burba
-- отрешённый  · n=1  · bhagavadgita-smirnov
+- отрешенный  · n=1  · bhagavadgita-smirnov
 - не имѣя безпорядочныхъ вожделѣній  · n=1  · bhagavadgita-1788
 - избавленъ отъ всякой похоти  · n=1  · bhagavadgita-1788
 - Свободный  · n=1  · bhagavadgita-1909
@@ -28734,7 +28734,7 @@
 - решил  · n=3  · ramayana-sundarakanda, ramayana-aranyakanda, amaru-shataka
 - решительное  · n=3  · mahabharata-bhishmaparva, bhagavadgita-erman, bhagavadgita-smirnov
 - определенно  · n=3  · ramanuja_gitabhashya, bhagavadgity, hatha-yoga-pradipika
-- определённо  · n=3  · devi-gita
+- определенно  · n=3  · devi-gita
 - решение  · n=2  · ramayana-sundarakanda, mahabharata-udyogaparva
 - думают  · n=2  · mahabharata-aranyakaparva, gitarthasamgraha-abhinavagupta
 - решено  · n=2  · mahabharata-adiparva, mahabharata-udyogaparva
@@ -30317,7 +30317,7 @@
 - достигает  · n=6  · bhagavadgita-burba, mahabharata-udyogaparva, ramanuja_gitabhashya, bhagavadgita-1909, bhagavadgita-prabhupada
 - обретает  · n=3  · mahabharata-bhishmaparva, bhagavadgita-erman, bhagavadgita-sharma
 - достигнет  · n=3  · gitarthasamgraha-abhinavagupta, bhagavadgita-1914, bhagavadgita-sementsov
-- войдёт  · n=2  · bhagavadgity, bhagavadgita-smirnov
+- войдет  · n=2  · bhagavadgity, bhagavadgita-smirnov
 - обрѣтаетъ  · n=2  · bhagavadgity, bhagavadgita-1788
 - добивается  · n=1  · manavadharmashastra
 - достигают  · n=1  · mahabharata-bhishmaparva
@@ -31904,7 +31904,7 @@
 - своя  · n=1  · mahabharata-aranyakaparva
 - сама  · n=1  · kama-sutra
 - своего собственного  · n=1  · mahabharata-adiparva
-- своё  · n=1  · shatakatrayam
+- свое  · n=1  · shatakatrayam
 - себя  · n=1  · shatakatrayam
 - свойственной  · n=1  · gitagovinda
 - родные  · n=1  · mahabharata-ashramavasikaparva
@@ -32383,8 +32383,8 @@
 ### `nikfntata` — nikṛntata  (n=4)
 
 - режьте  · n=2  · mahabharata-shalyaparva
-- да будет отсечён  · n=1  · mahabharata-ashvamedhikaparva
-- отсёк  · n=1  · mahabharata-ashvamedhikaparva
+- да будет отсечен  · n=1  · mahabharata-ashvamedhikaparva
+- отсек  · n=1  · mahabharata-ashvamedhikaparva
 
 ### `nikfntati` — nikṛntati  (n=1)
 
@@ -33824,7 +33824,7 @@
 - низ  · n=1  · kumarasambhava
 - в низине  · n=1  · rigveda
 - ямы и капканы  · n=1  · mahabharata-ashvamedhikaparva
-- устремлённое  · n=1  · yoga-sutry
+- устремленное  · n=1  · yoga-sutry
 - склонность  · n=1  · yoga-sutry_sharma
 - овраг  · n=1  · mahabharata-striparva
 - глубокимъ  · n=1  · megha-duta
@@ -35389,7 +35389,7 @@
 ### `nirASis` — nirāśis  (n=2)
 
 - превыше тревожной надежды  · n=1  · kumarasambhava
-- лишённый желаний  · n=1  · mahabharata-ashvamedhikaparva
+- лишенный желаний  · n=1  · mahabharata-ashvamedhikaparva
 
 ### `nirASitva` — nirāśitva  (n=1)
 
@@ -35494,7 +35494,7 @@
 - лишенного пищи  · n=1  · ramanuja_gitabhashya
 - не дает им питания  · n=1  · bhagavadgita-1914
 - отрешившегося  · n=1  · bhagavadgity
-- отрешённый  · n=1  · bhagavadgita-smirnov
+- отрешенный  · n=1  · bhagavadgita-smirnov
 - без питания  · n=1  · bhagavadgita-smirnov
 - Голодный  · n=1  · bhagavadgita-1788
 - лишен ощущений  · n=1  · bhagavadgita-sementsov
@@ -35872,7 +35872,7 @@
 
 - высвечивается  · n=4  · yoga-sutry_vyasa-bhashya
 - высвечивающее  · n=2  · yoga-sutry_vyasa-bhashya, yoga-sutry
-- предстаёт  · n=1  · yoga-sutry
+- предстает  · n=1  · yoga-sutry
 - отражает  · n=1  · yoga-sutry_sharma
 - воспринимается  · n=1  · yoga-sutry_sharma
 - освещает  · n=1  · yoga-sutry_zagumennov
@@ -38449,7 +38449,7 @@
 
 ### `nirgrAhya` — nirgrāhya  (n=3)
 
-- познаётся  · n=1  · yoga-sutry
+- познается  · n=1  · yoga-sutry
 - схватываются  · n=1  · yoga-sutry_sharma
 - познаваемый  · n=1  · yoga-sutry_zagumennov
 
@@ -38485,7 +38485,7 @@
 - свободный от гун  · n=1  · bhagavadgita-radha
 - не имеет свойств  · n=1  · mahabharata-ashvamedhikaparva
 - лишенный гун  · n=1  · mahabharata-ashvamedhikaparva
-- лишён гун  · n=1  · mahabharata-ashvamedhikaparva
+- лишен гун  · n=1  · mahabharata-ashvamedhikaparva
 - без гун  · n=1  · sankhya-karika
 - негунного  · n=1  · sankhya-karika
 - не обладающий качествами  · n=1  · vedartha-samgraha_ramanuja
@@ -38911,8 +38911,8 @@
 - потерпев поражение  · n=2  · buddhacharita, mahabharata-udyogaparva
 - покоренной  · n=2  · mahabharata-ashvamedhikaparva
 - отвоеван обратно  · n=2  · mahabharata-virataparva
-- побеждённый  · n=1  · mahabharata-adiparva
-- побеждённого  · n=1  · mahabharata-adiparva
+- побежденный  · n=1  · mahabharata-adiparva
+- побежденного  · n=1  · mahabharata-adiparva
 - разбиты  · n=1  · ramayana-sundarakanda
 - долговой  · n=1  · manavadharmashastra
 - Принадлежавшая  · n=1  · ramayana-aranyakanda
@@ -39024,7 +39024,7 @@
 
 - воплощение  · n=1  · buddhacharita
 - творения  · n=1  · gitarthasamgraha-abhinavagupta
-- сотворённый  · n=1  · yoga-sutry
+- сотворенный  · n=1  · yoga-sutry
 - создает  · n=1  · yoga-sutry_sharma
 - сотворенные  · n=1  · yoga-sutry_zagumennov
 - составлять правила  · n=1  · shiva-sutry_sharma
@@ -39333,11 +39333,11 @@
 - свободным от чувства обладания  · n=1  · bhagavadgita-radha
 - свободен от чувства обладания  · n=1  · bhagavadgita-radha
 - свободный от чувства собственности  · n=1  · bhagavadgita-radha
-- не знающий слова «моё»  · n=1  · mahabharata-ashvamedhikaparva
+- не знающий слова «мое»  · n=1  · mahabharata-ashvamedhikaparva
 - отрешившиеся от собственности  · n=1  · mahabharata-ashvamedhikaparva
 - не знает собственности  · n=1  · mahabharata-ashvamedhikaparva
 - Не знающий чувства собственности  · n=1  · mahabharata-ashvamedhikaparva
-- чуждый понятию «моё»  · n=1  · mahabharata-ashvamedhikaparva
+- чуждый понятию «мое»  · n=1  · mahabharata-ashvamedhikaparva
 - чужд чувства собственности  · n=1  · mahabharata-ashvamedhikaparva
 - равнодушный  · n=1  · raghuvamsha
 - не имеющий забот  · n=1  · jabala-up
@@ -39950,7 +39950,7 @@
 - достигнулъ  · n=1  · bhagavadgita-1909
 - преградил путь  · n=1  · mahabharata-karnaparva
 - прекращается  · n=1  · nyaya-bhashya
-- скреплённого  · n=1  · mahabharata-ashvamedhikaparva
+- скрепленного  · n=1  · mahabharata-ashvamedhikaparva
 - прекращенное  · n=1  · yoga-sutry_vyasa-bhashya
 - остановлено  · n=1  · yoga-sutry_vyasa-bhashya
 - скрывавшиеся  · n=1  · amaru-shataka
@@ -41829,7 +41829,7 @@
 - Внетрехгунный  · n=1  · bhagavadgita-burba
 - внетрехгунный  · n=1  · bhagavadgita-burba
 - отрешись от триады качеств  · n=1  · ramanuja_gitabhashya
-- отрешись от трёх гун  · n=1  · bhagavadgity
+- отрешись от трех гун  · n=1  · bhagavadgity
 - свободенъ отъ троякаго свойства  · n=1  · bhagavadgita-1788
 - свободенъ  · n=1  · bhagavadgita-1909
 - превзойти их  · n=1  · bhagavadgita-sharma
@@ -41843,7 +41843,7 @@
 
 ### `nistraiguRyo` — nistraiguṇyo  (n=2)
 
-- отрешись от трёх гун  · n=2  · bhagavadgita-smirnov
+- отрешись от трех гун  · n=2  · bhagavadgita-smirnov
 
 ### `nistriMSAH` — nistriṃśāḥ  (n=1)
 
@@ -42974,7 +42974,7 @@
 
 ### `nityasannyAsin` — nityasannyāsin  (n=9)
 
-- постоянно отрешённый  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
+- постоянно отрешенный  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - утвердившимся в отрешении  · n=1  · mahabharata-bhishmaparva
 - утвердившийся в отрешении  · n=1  · bhagavadgita-erman
 - стойким санньясином  · n=1  · bhagavadgita-smirnov
@@ -44374,7 +44374,7 @@
 
 ### `nivasanAYcalamekapArSvAt` — nivasanāñcalamekapārśvāt  (n=1)
 
-- подол её платья с одной стороны  · n=1  · chaurapanchashika
+- подол ее платья с одной стороны  · n=1  · chaurapanchashika
 
 ### `nivasanam` — nivasanam  (n=1)
 
@@ -44493,7 +44493,7 @@
 ### `nivasizyasi` — nivasiṣyasi  (n=15)
 
 - обретешь пребывание  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
-- обретёшь пребывание  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
+- обретешь пребывание  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - внидешь  · n=2  · bhagavadgity, bhagavadgita-1788
 - будешь пребывать  · n=2  · bhagavadgita-smirnov, bhagavadgita-sharma
 - будешь жить  · n=2  · bhagavadgita-prabhupada, bhagavadgita-radha
@@ -46944,7 +46944,7 @@
 - привяжет/направит  · n=1  · bhagavadgita-burba
 - Природа понудит  · n=1  · bhagavadgita-burba
 - понудит  · n=1  · bhagavadgity
-- вовлечёт  · n=1  · bhagavadgita-smirnov
+- вовлечет  · n=1  · bhagavadgita-smirnov
 - понудятъ  · n=1  · bhagavadgita-1788
 - побудитъ  · n=1  · bhagavadgita-1909
 - вовлечешься  · n=1  · bhagavadgita-sharma

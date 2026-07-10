@@ -10,7 +10,7 @@ Everything below is answerable from the committed data or the
 
 ## 1. Bilingual lexicography — draft a Sa→Ru dictionary entry
 Look up a root and get its **full ranked set of Russian equivalents** across every attested
-form and prefixed verb. `√gam` → пришёл (196) · отправился (177) · ушёл (141) · достигает (99)
+form and prefixed verb. `√gam` → пришел (196) · отправился (177) · ушел (141) · достигает (99)
 · явился (92) … (678 forms, 44 lemmas, 7,116 occurrences). The frequency ranking gives the
 lead gloss and the long tail in one view — the skeleton of a dictionary sense list.
 

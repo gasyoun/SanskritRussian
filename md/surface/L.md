@@ -783,7 +783,7 @@
 
 ### `lIyeta` — līyeta  (n=2)
 
-- прильнёт  · n=1  · yotat-up
+- прильнет  · n=1  · yotat-up
 - разбивается  · n=1  · brb-up
 
 ### `lUnAH` — lūnāḥ  (n=1)
@@ -1235,7 +1235,7 @@
 - быстро  · n=1  · hatha-yoga-pradipika
 - несет  · n=1  · shatakatrayam
 - легкой  · n=1  · sankhya-karika
-- лёгким  · n=1  · yoga-sutry
+- легким  · n=1  · yoga-sutry
 - невесомость  · n=1  · yoga-sutry_sharma
 
 ### `laGu-ASin` — laghu-āśin  (n=3)
@@ -1431,7 +1431,7 @@
 
 ### `laGvAhAra` — laghvāhāra  (n=3)
 
-- Лёгкая пища  · n=2  · yotat-up
+- Легкая пища  · n=2  · yotat-up
 - умерен в пище  · n=1  · mahabharata-aranyakaparva
 
 ### `laGvI` — laghvī  (n=3)
@@ -2273,7 +2273,7 @@
 
 ### `lajjAvilakzahasitAM` — lajjāvilakṣahasitāṃ  (n=1)
 
-- натянутым стал её смех  · n=1  · chaurapanchashika
+- натянутым стал ее смех  · n=1  · chaurapanchashika
 
 ### `lajjAyAm` — lajjāyām  (n=1)
 
@@ -3152,7 +3152,7 @@
 - кажется  · n=3  · mahabharata-adiparva, mahabharata-dronaparva, mahabharata-ashvamedhikaparva
 - характеризуется  · n=3  · nyaya-bhashya, mahabharata-ashvamedhikaparva, yoga-sutry_vyasa-bhashya
 - видно  · n=2  · mahabharata-aranyakaparva, mahabharata-ashvamedhikaparva
-- познаётся  · n=2  · mahabharata-ashvamedhikaparva
+- познается  · n=2  · mahabharata-ashvamedhikaparva
 - затрепетало  · n=1  · ramayana-ayodhyakanda
 - вижу  · n=1  · ramayana-ayodhyakanda
 - признака не было  · n=1  · ramayana-ayodhyakanda
@@ -3608,7 +3608,7 @@
 
 ### `lambikAyAm` — lambikāyām  (n=2)
 
-- нёба  · n=2  · devi-gita
+- неба  · n=2  · devi-gita
 
 ### `lambin` — lambin  (n=1)
 
@@ -4000,7 +4000,7 @@
 
 - Соленого моря  · n=2  · mahabharata-adiparva
 - океане  · n=2  · ramayana-sundarakanda
-- Солёного океана  · n=1  · mahabharata-adiparva
+- Соленого океана  · n=1  · mahabharata-adiparva
 - Соленого океана  · n=1  · mahabharata-adiparva
 - соленое море  · n=1  · mahabharata-adiparva
 - Соленое море  · n=1  · mahabharata-adiparva
@@ -4038,7 +4038,7 @@
 - солеными  · n=1  · ramayana-sundarakanda
 - пересоленную  · n=1  · ramayana-aranyakanda
 - соленье  · n=1  · kama-sutra
-- Солёный  · n=1  · mahabharata-bhishmaparva
+- Соленый  · n=1  · mahabharata-bhishmaparva
 - соленой  · n=1  · bhagavadgita-1914
 - солона  · n=1  · bhagavadgity
 - с солью  · n=1  · bhagavadgita-sementsov
@@ -4046,7 +4046,7 @@
 - демона  · n=1  · raghuvamsha
 - Лавану  · n=1  · raghuvamsha
 - Лаваной  · n=1  · raghuvamsha
-- солёную  · n=1  · yotat-up
+- соленую  · n=1  · yotat-up
 
 ### `lavaRa-jala` — lavaṇa-jala  (n=1)
 
@@ -4224,7 +4224,7 @@
 - знала  · n=1  · buddhacharita
 - стал  · n=1  · buddhacharita
 - создал  · n=1  · buddhacharita
-- нашёл  · n=1  · buddhacharita
+- нашел  · n=1  · buddhacharita
 - Обрел  · n=1  · buddhacharita
 - нашел  · n=1  · mahabharata-udyogaparva
 - возвысила  · n=1  · raghuvamsha
@@ -5211,7 +5211,7 @@
 ### `loBopahata-cetasaH` — lobhopahata-cetasaḥ  (n=4)
 
 - чей ум поражен жадностью  · n=1  · bhagavadgita-burba
-- поражённые корыстью  · n=1  · bhagavadgity
+- пораженные корыстью  · n=1  · bhagavadgity
 - в корыстном ослепленьи  · n=1  · bhagavadgita-1909
 - ослепленные алчностью  · n=1  · bhagavadgita-radha
 
@@ -7162,7 +7162,7 @@
 - трех мирах  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - тройственный мир  · n=2  · mahabharata-udyogaparva
 - в трех мирах  · n=2  · gitarthasamgraha-abhinavagupta
-- трёх мирах  · n=2  · bhagavadgity, bhagavadgita-smirnov
+- трех мирах  · n=2  · bhagavadgity, bhagavadgita-smirnov
 - Три мира  · n=1  · gitarthasamgraha-abhinavagupta
 - триаду миров  · n=1  · shatakatrayam
 
@@ -7839,8 +7839,8 @@
 
 ### `lomavAhin` — lomavāhin  (n=6)
 
-- оперёнными  · n=1  · mahabharata-bhishmaparva
-- оперёнными стрелами  · n=1  · mahabharata-bhishmaparva
+- оперенными  · n=1  · mahabharata-bhishmaparva
+- оперенными стрелами  · n=1  · mahabharata-bhishmaparva
 - волос рассекающую  · n=1  · mahabharata-bhishmaparva
 - волос рассекающими  · n=1  · mahabharata-bhishmaparva
 - снабженных оперением  · n=1  · mahabharata-virataparva
@@ -8168,7 +8168,7 @@
 
 - лишенных подношений воды и пищи  · n=1  · bhagavadgita-burba
 - от недостатка приношения риса и воды  · n=1  · bhagavadgita-1914
-- лишённые жертвенных галушек и возлияний  · n=1  · bhagavadgity
+- лишенные жертвенных галушек и возлияний  · n=1  · bhagavadgity
 - лишены будучи обрядовъ приношенія душамъ ихъ пироговъ и воды  · n=1  · bhagavadgita-1788
 
 ### `lupta-piRqodaka-kriyAH` — lupta-piṇḍodaka-kriyāḥ  (n=2)
@@ -8193,7 +8193,7 @@
 - прекращены подношения пищи и воды  · n=2  · bhagavadgita-prabhupada
 - лишенные приношений и возлияний  · n=1  · mahabharata-bhishmaparva
 - прекращаются обряды поднесения пиндодаки  · n=1  · gitarthasamgraha-abhinavagupta
-- лишённые жертвенных галушек и возлияний  · n=1  · bhagavadgita-smirnov
+- лишенные жертвенных галушек и возлияний  · n=1  · bhagavadgita-smirnov
 - «Жертвенные галушки»  · n=1  · bhagavadgita-smirnov
 
 ### `luptapiRqodakakriyAH` — luptapiṇḍodakakriyāḥ  (n=3)

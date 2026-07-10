@@ -211,7 +211,7 @@
 - козел  · n=2  · mahabharata-ashvamedhikaparva
 - козла  · n=1  · mahabharata-aranyakaparva
 - коза  · n=1  · kama-sutra
-- козёл  · n=1  · mahabharata-ashvamedhikaparva
+- козел  · n=1  · mahabharata-ashvamedhikaparva
 
 ### `CAgalam` — chāgalam  (n=2)
 
@@ -1896,7 +1896,7 @@
 ### `Cinnapakza` — chinnapakṣa  (n=3)
 
 - без крыльев  · n=1  · mahabharata-aranyakaparva
-- с отсечёнными крыльями  · n=1  · mahabharata-bhishmaparva
+- с отсеченными крыльями  · n=1  · mahabharata-bhishmaparva
 - лишенные крыльев  · n=1  · mahabharata-shalyaparva
 
 ### `CinnapfzWa` — chinnapṛṣṭha  (n=1)
@@ -4061,7 +4061,7 @@
 
 ### `cAturhotraviDAna` — cāturhotravidhāna  (n=1)
 
-- обряд четырёх жрецов  · n=1  · mahabharata-ashvamedhikaparva
+- обряд четырех жрецов  · n=1  · mahabharata-ashvamedhikaparva
 
 ### `cAturmAsya` — cāturmāsya  (n=9)
 
@@ -4109,7 +4109,7 @@
 - Четыре варны  · n=1  · gitarthasamgraha-abhinavagupta
 - варны  · n=1  · gitarthasamgraha-abhinavagupta
 - четырехварновость  · n=1  · bhagavadgita-burba
-- распределение четырёх каст  · n=1  · bhagavadgita-smirnov
+- распределение четырех каст  · n=1  · bhagavadgita-smirnov
 
 ### `cAturvarRyasya` — cāturvarṇyasya  (n=6)
 
@@ -10899,8 +10899,8 @@
 - не распространяются  · n=1  · bhagavadgita-radha
 - приходит  · n=1  · ch-up
 - пришли  · n=1  · ch-up
-- да живёт  · n=1  · mahabharata-ashvamedhikaparva
-- пусть живёт  · n=1  · mahabharata-ashvamedhikaparva
+- да живет  · n=1  · mahabharata-ashvamedhikaparva
+- пусть живет  · n=1  · mahabharata-ashvamedhikaparva
 - пусть  · n=1  · devi-gita
 - исполняет  · n=1  · br-up
 - причинит  · n=1  · mahabharata-virataparva
@@ -12126,17 +12126,17 @@
 
 ### `caturBujAkAram` — caturbhujākāram  (n=1)
 
-- четырёхрукого  · n=1  · yotat-up
+- четырехрукого  · n=1  · yotat-up
 
 ### `caturBuja` — caturbhuja  (n=15)
 
 - четырехрукий  · n=6  · mahabharata-mausalaparva, mahabharata-udyogaparva, gitarthasamgraha-abhinavagupta, bhagavadgita-smirnov, bhagavadgita-sharma
 - четырехдланный  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
-- четырёхдланный  · n=1  · mahabharata-bhishmaparva
+- четырехдланный  · n=1  · mahabharata-bhishmaparva
 - четырехрукая форма  · n=1  · gitarthasamgraha-abhinavagupta
-- четырёхрукий  · n=1  · bhagavadgity
-- Четырёхдланный  · n=1  · bhagavadgita-erman
-- четырёхруком  · n=1  · bhagavadgita-smirnov
+- четырехрукий  · n=1  · bhagavadgity
+- Четырехдланный  · n=1  · bhagavadgita-erman
+- четырехруком  · n=1  · bhagavadgita-smirnov
 - четырехруком  · n=1  · mahabharata-sabhaparva
 - с четырьмя руками  · n=1  · mahabharata-sabhaparva
 
@@ -12235,7 +12235,7 @@
 - четвертую часть  · n=1  · mahabharata-udyogaparva
 - Четвертую  · n=1  · nyaya-bhashya
 - Четвертым  · n=1  · mahabharata-ashvamedhikaparva
-- четвёртая  · n=1  · yoga-sutry
+- четвертая  · n=1  · yoga-sutry
 - четвертым  · n=1  · atharvaveda
 
 ### `caturTa-aDyAya` — caturtha-adhyāya  (n=1)
@@ -12332,7 +12332,7 @@
 - четырехчастного  · n=2  · ramayana-aranyakanda
 - четырехчленный  · n=2  · rigveda
 - четырех родов оружия  · n=1  · mahabharata-bhishmaparva
-- войско четырёх родов оружия  · n=1  · mahabharata-bhishmaparva
+- войско четырех родов оружия  · n=1  · mahabharata-bhishmaparva
 - четырех родов войск  · n=1  · mahabharata-shalyaparva
 - четыре рода войск  · n=1  · mahabharata-shalyaparva
 
@@ -12507,7 +12507,7 @@
 
 ### `caturasram` — caturasram  (n=1)
 
-- четырёхугольник  · n=1  · yotat-up
+- четырехугольник  · n=1  · yotat-up
 
 ### `caturavANmuktAPalodanvati` — caturavāṅmuktāphalodanvati  (n=1)
 
@@ -12527,7 +12527,7 @@
 
 ### `caturbAhu` — caturbāhu  (n=1)
 
-- четырёхрукого  · n=1  · yotat-up
+- четырехрукого  · n=1  · yotat-up
 
 ### `caturbilam` — caturbilam  (n=1)
 
@@ -12655,8 +12655,8 @@
 
 ### `caturdikzu` — caturdikṣu  (n=2)
 
-- С четырёх сторон  · n=1  · devi-gita
-- с четырёх сторон  · n=1  · devi-gita
+- С четырех сторон  · n=1  · devi-gita
+- с четырех сторон  · n=1  · devi-gita
 
 ### `caturdvAram` — caturdvāram  (n=1)
 
@@ -12757,7 +12757,7 @@
 
 ### `caturvaktram` — caturvaktram  (n=1)
 
-- четырёхликого  · n=1  · yotat-up
+- четырехликого  · n=1  · yotat-up
 
 ### `caturvarRAni` — caturvarṇāni  (n=1)
 
@@ -12801,7 +12801,7 @@
 ### `caturvedaiH` — caturvedaiḥ  (n=2)
 
 - четырьмя олицетворенными Ведами  · n=1  · devi-gita
-- четырьмя олицетворёнными Ведами  · n=1  · devi-gita
+- четырьмя олицетворенными Ведами  · n=1  · devi-gita
 
 ### `caturvfza` — caturvṛṣa  (n=1)
 
@@ -15989,7 +15989,7 @@
 - тревогами  · n=1  · bhagavadgita-sharma
 - замысел  · n=1  · mahabharata-shalyaparva
 - осмысление  · n=1  · nyaya-bhashya
-- отвлёкся мыслью  · n=1  · mahabharata-ashvamedhikaparva
+- отвлекся мыслью  · n=1  · mahabharata-ashvamedhikaparva
 - мыслью  · n=1  · mahabharata-ashvamedhikaparva
 - Забота  · n=1  · devi-gita
 - забота  · n=1  · devi-gita
@@ -18294,7 +18294,7 @@
 - с красивым оперением  · n=2  · mahabharata-dronaparva
 - с различными оперениями  · n=1  · mahabharata-adiparva
 - разноцветными стрелами  · n=1  · mahabharata-adiparva
-- пёстрыми стрелами  · n=1  · mahabharata-adiparva
+- пестрыми стрелами  · n=1  · mahabharata-adiparva
 - стрелами с разноцветным оперением  · n=1  · mahabharata-adiparva
 
 ### `citrapuzpaDarAH` — citrapuṣpadharāḥ  (n=1)
@@ -19495,7 +19495,7 @@
 - подгоняемое  · n=2  · mahabharata-dronaparva
 - понукаемые  · n=2  · mahabharata-udyogaparva, mahabharata-virataparva
 - попросил  · n=1  · mahabharata-adiparva
-- побуждённый  · n=1  · mahabharata-adiparva
+- побужденный  · n=1  · mahabharata-adiparva
 - побуждаемая  · n=1  · mahabharata-adiparva
 - по  · n=1  · mahabharata-adiparva
 - просьб  · n=1  · ramayana-ayodhyakanda

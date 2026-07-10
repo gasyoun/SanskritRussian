@@ -2242,7 +2242,7 @@
 
 ### `DAtubadDa` — dhātubaddha  (n=1)
 
-- сплетённое из составляющих  · n=1  · yotat-up
+- сплетенное из составляющих  · n=1  · yotat-up
 
 ### `DAtudrumamfgARqaja` — dhātudrumamṛgāṇḍaja  (n=1)
 
@@ -6283,7 +6283,7 @@
 
 - концом лука  · n=1  · mahabharata-adiparva
 - острием лука  · n=1  · mahabharata-adiparva
-- остриём лука  · n=1  · mahabharata-adiparva
+- острием лука  · n=1  · mahabharata-adiparva
 - древком лука  · n=1  · mahabharata-aranyakaparva
 - Концом лука  · n=1  · mahabharata-sauptikaparva
 - концом своего лука  · n=1  · mahabharata-mausalaparva
@@ -12483,7 +12483,7 @@
 
 - соблюдал твердый обет  · n=1  · mahabharata-adiparva
 - чей обет крепок  · n=1  · rigveda
-- твёрдый в обетах  · n=1  · mahabharata-ashvamedhikaparva
+- твердый в обетах  · n=1  · mahabharata-ashvamedhikaparva
 
 ### `Dftavratas` — dhṛtavratas  (n=1)
 
@@ -12738,7 +12738,7 @@
 - исполненный решимости и целеустремленности  · n=1  · mahabharata-bhishmaparva
 - наделенный твердостью и решимостью  · n=1  · gitarthasamgraha-abhinavagupta
 - полный твердости, одушевленья  · n=1  · ramanuja_gitabhashya
-- преисполненный твёрдости и решительности  · n=1  · bhagavadgita-smirnov
+- преисполненный твердости и решительности  · n=1  · bhagavadgita-smirnov
 - в делах твердый, решимости полный  · n=1  · bhagavadgita-sementsov
 - полон решимости и воодушевления  · n=1  · bhagavadgita-sharma
 
@@ -14156,7 +14156,7 @@
 - покой  · n=1  · yoga-sutry_sharma
 - полярной звездой  · n=1  · yoga-sutry_zagumennov
 - вечный  · n=1  · vedartha-samgraha_ramanuja
-- твёрдым  · n=1  · yotat-up
+- твердым  · n=1  · yotat-up
 - поистине  · n=1  · mahabharata-striparva
 - тотчас  · n=1  · mahabharata-sauptikaparva
 - полярная звезда  · n=1  · mai-up
@@ -14286,7 +14286,7 @@
 - легко  · n=1  · hatha-yoga-pradipika
 - второго  · n=1  · hatha-yoga-pradipika
 - воистину  · n=1  · yotat-up
-- твёрдо  · n=1  · yotat-up
+- твердо  · n=1  · yotat-up
 - постоянного  · n=1  · kat-up
 - неуклонно  · n=1  · mahabharata-mausalaparva
 
@@ -15772,7 +15772,7 @@
 ### `DyAyet` — dhyāyet  (n=8)
 
 - пусть созерцает  · n=2  · devi-gita
-- пусть предаётся внутреннему созерцанию  · n=1  · mahabharata-ashvamedhikaparva
+- пусть предается внутреннему созерцанию  · n=1  · mahabharata-ashvamedhikaparva
 - пусть он созерцает  · n=1  · devi-gita
 - созерцать  · n=1  · devi-gita
 - следует созерцать  · n=1  · yoga-sutry_vyasa-bhashya
@@ -15928,8 +15928,8 @@
 - принести  · n=1  · gitarthasamgraha-abhinavagupta
 - Наделите  · n=1  · rigveda
 - буду давать милостыни  · n=1  · bhagavadgita-1914
-- даёшь  · n=1  · bhagavadgita-smirnov
-- даётся  · n=1  · bhagavadgita-smirnov
+- даешь  · n=1  · bhagavadgita-smirnov
+- дается  · n=1  · bhagavadgita-smirnov
 - раздавать дары  · n=1  · bhagavadgita-1788
 - данная  · n=1  · bhagavadgita-1909
 - дающие  · n=1  · bhagavadgita-prabhupada
@@ -16638,7 +16638,7 @@
 - способности  · n=1  · mahabharata-dronaparva
 - способностей  · n=1  · mahabharata-udyogaparva
 - искуссность  · n=1  · gitarthasamgraha-abhinavagupta
-- одарённость  · n=1  · bhagavadgita-smirnov
+- одаренность  · n=1  · bhagavadgita-smirnov
 - прямодушіе  · n=1  · bhagavadgita-1788
 - хитрость  · n=1  · bhagavadgita-1909
 - осознанность  · n=1  · bhagavadgita-sharma
@@ -16651,7 +16651,7 @@
 
 - мудрость  · n=1  · mahabharata-aranyakaparva
 - быстрота  · n=1  · bhagavadgita-1914
-- одарённость  · n=1  · bhagavadgity
+- одаренность  · n=1  · bhagavadgity
 - находчивость  · n=1  · bhagavadgita-prabhupada
 - ловкость  · n=1  · bhagavadgita-radha
 - умелость  · n=1  · mahabharata-ashvamedhikaparva
@@ -20438,12 +20438,12 @@
 - опаляемый  · n=1  · mahabharata-udyogaparva
 - освященное  · n=1  · gitarthasamgraha-abhinavagupta
 - зажженном  · n=1  · ramanuja_gitabhashya
-- зажжённом  · n=1  · bhagavadgity
+- зажженном  · n=1  · bhagavadgity
 - освещено  · n=1  · pai-up
 
 ### `dIpite` — dīpite  (n=1)
 
-- зажжённом  · n=1  · bhagavadgita-smirnov
+- зажженном  · n=1  · bhagavadgita-smirnov
 
 ### `dIpo` — dīpo  (n=1)
 
@@ -20773,7 +20773,7 @@
 ### `dIptahutASavaktram` — dīptahutāśavaktram  (n=2)
 
 - чьи уста — сверкающий огонь  · n=1  · mahabharata-bhishmaparva
-- с устами, пламенеющими жертвенным огнём  · n=1  · bhagavadgita-smirnov
+- с устами, пламенеющими жертвенным огнем  · n=1  · bhagavadgita-smirnov
 
 ### `dIptaiH` — dīptaiḥ  (n=4)
 
@@ -20946,7 +20946,7 @@
 - Светом  · n=1  · buddhacharita
 - блеском  · n=1  · buddhacharita
 - блеск  · n=1  · mahabharata-bhishmaparva
-- озарённым  · n=1  · yoga-sutry
+- озаренным  · n=1  · yoga-sutry
 - красота  · n=1  · yotat-up
 - пламени  · n=1  · paramarthasara-abhinavagupta
 
@@ -22230,7 +22230,7 @@
 - подаваемая  · n=1  · bhagavadgita-1914
 - подаяние  · n=1  · bhagavadgity
 - подаяніе  · n=1  · bhagavadgity
-- даётся  · n=1  · bhagavadgita-smirnov
+- дается  · n=1  · bhagavadgita-smirnov
 - изъявляемое  · n=1  · bhagavadgita-1788
 - совершаемое  · n=1  · bhagavadgita-sharma
 - совершается  · n=1  · bhagavadgita-sharma
@@ -27887,7 +27887,7 @@
 - спалена  · n=1  · mahabharata-udyogaparva
 - обожженные  · n=1  · mahabharata-udyogaparva
 - испепелил  · n=1  · raghuvamsha
-- сожжённый  · n=1  · shatakatrayam
+- сожженный  · n=1  · shatakatrayam
 - спалил  · n=1  · shatakatrayam
 - сжигает  · n=1  · gitagovinda
 - сжигаются  · n=1  · sankhya-karika
@@ -33916,7 +33916,7 @@
 - Даровав  · n=1  · mahabharata-ashvamedhikaparva
 - раздавая  · n=1  · mahabharata-ashvamedhikaparva
 - одарив  · n=1  · mahabharata-ashvamedhikaparva
-- преподнесёт  · n=1  · devi-gita
+- преподнесет  · n=1  · devi-gita
 - давая  · n=1  · mahabharata-virataparva
 - сказала  · n=1  · shukasaptati
 - дай  · n=1  · shukasaptati
@@ -34773,7 +34773,7 @@
 - часть  · n=1  · nyaya-bhashya
 - область тела  · n=1  · mahabharata-ashvamedhikaparva
 - краях  · n=1  · shatakatrayam
-- определённом  · n=1  · yoga-sutry
+- определенном  · n=1  · yoga-sutry
 - положение  · n=1  · yoga-sutry
 - объектом  · n=1  · yoga-sutry_sharma
 - пространству  · n=1  · yoga-sutry_sharma
@@ -35321,11 +35321,11 @@
 ### `deha-Bft` — deha-bhṛt  (n=17)
 
 - воплощенный  · n=2  · bhagavadgita-1914, bhagavadgita-prabhupada
-- воплощённый  · n=2  · bhagavadgity
+- воплощенный  · n=2  · bhagavadgity
 - несущий тело  · n=1  · bhagavadgita-burba
 - несущиму тело  · n=1  · bhagavadgita-burba
 - воплощенном  · n=1  · bhagavadgita-1914
-- воплощённых  · n=1  · bhagavadgity
+- воплощенных  · n=1  · bhagavadgity
 - душа  · n=1  · bhagavadgita-1788
 - тѣлесное существо  · n=1  · bhagavadgita-1788
 - прихожу  · n=1  · bhagavadgita-1909
@@ -35387,7 +35387,7 @@
 - воплощенных  · n=4  · bhagavadgita-sementsov, bhagavadgita-erman, bhagavadgita-sharma
 - воплотившийся  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - воплощенного  · n=2  · mahabharata-dronaparva, bhagavadgita-sharma
-- воплощённый  · n=2  · bhagavadgita-smirnov
+- воплощенный  · n=2  · bhagavadgita-smirnov
 - воплотившегося  · n=1  · mahabharata-bhishmaparva
 - воплощение  · n=1  · gitarthasamgraha-abhinavagupta
 - в теле  · n=1  · ramanuja_gitabhashya
@@ -35404,7 +35404,7 @@
 ### `dehaBftAM` — dehabhṛtāṃ  (n=2)
 
 - тело носящих  · n=1  · ramanuja_gitabhashya
-- воплощённых  · n=1  · bhagavadgita-smirnov
+- воплощенных  · n=1  · bhagavadgita-smirnov
 
 ### `dehaBftAm` — dehabhṛtām  (n=2)
 
@@ -35660,7 +35660,7 @@
 - телесным существам  · n=1  · mahabharata-bhishmaparva
 - существ, обладающих плотью  · n=1  · mahabharata-udyogaparva
 - воплощенными  · n=1  · ramanuja_gitabhashya
-- воплощённому  · n=1  · bhagavadgita-smirnov
+- воплощенному  · n=1  · bhagavadgita-smirnov
 - воплощенный  · n=1  · bhagavadgita-sementsov
 - во плоти родился  · n=1  · bhagavadgita-1909
 
@@ -35734,14 +35734,14 @@
 - воплощенного  · n=18  · mahabharata-bhishmaparva, bhagavadgita-burba, ramanuja_gitabhashya, bhagavadgita-erman, gitarthasamgraha-abhinavagupta, bhagavadgita-sementsov, bhagavadgita-prabhupada
 - Воплощенный  · n=7  · gitarthasamgraha-abhinavagupta, mahabharata-bhishmaparva, bhagavadgita-burba, bhagavadgita-erman, bhagavadgita-smirnov, bhagavadgita-sementsov
 - воплощенных  · n=6  · mahabharata-bhishmaparva, gitarthasamgraha-abhinavagupta, bhagavadgity, bhagavadgita-erman, bhagavadgita-sementsov, bhagavadgita-sharma
-- воплощённый  · n=6  · bhagavadgita-smirnov, bhagavadgity
-- воплощённого  · n=5  · bhagavadgita-smirnov, bhagavadgity, yotat-up
+- воплощенный  · n=6  · bhagavadgita-smirnov, bhagavadgity
+- воплощенного  · n=5  · bhagavadgita-smirnov, bhagavadgity, yotat-up
 - душа  · n=5  · bhagavadgita-1788, bhagavadgity, bhagavadgita-prabhupada, hatha-yoga-pradipika
 - человек  · n=4  · mahabharata-aranyakaparva, bhagavadgita-1909, bhagavadgita-prabhupada, shatakatrayam-serebryakov
-- Воплощённый  · n=4  · bhagavadgita-smirnov, mahabharata-bhishmaparva, bhagavadgita-erman
+- Воплощенный  · n=4  · bhagavadgita-smirnov, mahabharata-bhishmaparva, bhagavadgita-erman
 - существ  · n=3  · ramayana-balakanda, mahabharata-udyogaparva, mahabharata-shalyaparva
 - душу  · n=3  · bhagavadgita-1788, bhagavadgity
-- воплощённых  · n=3  · bhagavadgita-smirnov, bhagavadgity
+- воплощенных  · n=3  · bhagavadgita-smirnov, bhagavadgity
 - духъ  · n=3  · bhagavadgity, bhagavadgita-1788, bhagavadgita-1909
 - отдай  · n=2  · manavadharmashastra
 - человека  · n=2  · mahabharata-aranyakaparva, shatakatrayam
@@ -35810,7 +35810,7 @@
 - людей  · n=1  · mahabharata-aranyakaparva
 - у воплощенных  · n=1  · mahabharata-bhishmaparva
 - воплощенного  · n=1  · bhagavadgita-1914
-- воплощённых  · n=1  · bhagavadgity
+- воплощенных  · n=1  · bhagavadgity
 - воплощенных душ  · n=1  · bhagavadgita-prabhupada
 - живого существа  · n=1  · bhagavadgita-prabhupada
 - воплощенными существами  · n=1  · mahabharata-shalyaparva
@@ -37452,7 +37452,7 @@
 
 - Почитание Бога, дваждырожденных, Учителя и познавших  · n=1  · gitarthasamgraha-abhinavagupta
 - почитанье богов, брахманов, старцев, наставников  · n=1  · ramanuja_gitabhashya
-- Почитание богов, дваждырождённых, наставников, мудрецов  · n=1  · bhagavadgita-smirnov
+- Почитание богов, дваждырожденных, наставников, мудрецов  · n=1  · bhagavadgita-smirnov
 
 ### `devafzi` — devaṛṣi  (n=2)
 
@@ -38991,7 +38991,7 @@
 ### `devarAjena` — devarājena  (n=3)
 
 - царем богов  · n=2  · mahabharata-adiparva, mahabharata-dronaparva
-- царём богов  · n=1  · mahabharata-adiparva
+- царем богов  · n=1  · mahabharata-adiparva
 
 ### `devarAjo` — devarājo  (n=3)
 
@@ -41433,7 +41433,7 @@
 - тугие  · n=1  · mahabharata-virataparva
 - Крепкий  · n=1  · atharvaveda
 - прочными  · n=1  · atharvaveda
-- твёрдо  · n=1  · yotat-up
+- твердо  · n=1  · yotat-up
 - железным  · n=1  · mahabharata-striparva
 
 ### `dfQa-niScaya` — dṛḍha-niścaya  (n=5)
@@ -41446,7 +41446,7 @@
 
 ### `dfQa-vratAH` — dṛḍha-vratāḥ  (n=8)
 
-- твёрдые в обетах  · n=2  · bhagavadgity
+- твердые в обетах  · n=2  · bhagavadgity
 - твердые в обетах  · n=2  · bhagavadgita-radha
 - те, у кого твердые обеты  · n=1  · bhagavadgita-burba
 - добродетельные люди  · n=1  · bhagavadgita-burba
@@ -41711,7 +41711,7 @@
 ### `dfQaniScaya` — dṛḍhaniścaya  (n=10)
 
 - твердый в решениях  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
-- твёрдый в решеньях  · n=2  · bhagavadgity, bhagavadgita-smirnov
+- твердый в решеньях  · n=2  · bhagavadgity, bhagavadgita-smirnov
 - обладающий твердой решимостью  · n=2  · bhagavadgita-prabhupada
 - принял твердое решение  · n=1  · mahabharata-udyogaparva
 - твердый, не сомневающийся  · n=1  · gitarthasamgraha-abhinavagupta
@@ -41849,7 +41849,7 @@
 ### `dfQavratAH` — dṛḍhavratāḥ  (n=11)
 
 - твердые в обетах  · n=3  · ramayana-aranyakanda, mahabharata-bhishmaparva, bhagavadgita-erman
-- твёрдые в обетах  · n=2  · bhagavadgita-smirnov
+- твердые в обетах  · n=2  · bhagavadgita-smirnov
 - Преданные  · n=1  · ramayana-ayodhyakanda
 - стойкие в обетах  · n=1  · gitarthasamgraha-abhinavagupta
 - твердые в исполнении обетов  · n=1  · bhagavadgita-erman
@@ -43065,7 +43065,7 @@
 
 ### `dfzwaBAva` — dṛṣṭabhāva  (n=1)
 
-- чьё желание понято  · n=1  · kama-sutra
+- чье желание понято  · n=1  · kama-sutra
 
 ### `dfzwaBakti` — dṛṣṭabhakti  (n=1)
 
@@ -45448,7 +45448,7 @@
 - в полдень  · n=1  · shatakatrayam
 - с небом  · n=1  · atharvaveda
 - Неба  · n=1  · atharvaveda
-- днём  · n=1  · yotat-up
+- днем  · n=1  · yotat-up
 
 ### `divABUta` — divābhūta  (n=1)
 
@@ -49155,7 +49155,7 @@
 
 ### `dravantI` — dravantī  (n=1)
 
-- льнёт  · n=1  · chaurapanchashika
+- льнет  · n=1  · chaurapanchashika
 
 ### `dravantam` — dravantam  (n=2)
 
@@ -55980,7 +55980,7 @@
 - ХУДЫМ ПУТЕМ  · n=1  · ramanuja_gitabhashya
 - дурной дорогой  · n=1  · bhagavadgity
 - на пагубный путь  · n=1  · bhagavadgita-erman
-- дурным путём  · n=1  · bhagavadgita-smirnov
+- дурным путем  · n=1  · bhagavadgita-smirnov
 - злое мѣсто  · n=1  · bhagavadgita-1788
 - к дурному концу  · n=1  · bhagavadgita-sementsov
 - въ злое мѣсто  · n=1  · bhagavadgita-1909
@@ -60301,7 +60301,7 @@
 
 ### `dvandva-moha-nirmuktAH` — dvandva-moha-nirmuktāḥ  (n=1)
 
-- освобождённые от двойственности и заблуждения  · n=1  · bhagavadgity
+- освобожденные от двойственности и заблуждения  · n=1  · bhagavadgity
 
 ### `dvandva-mohena` — dvandva-mohena  (n=1)
 
@@ -60351,7 +60351,7 @@
 
 - свободные от двойственности и заблужденья  · n=1  · gitarthasamgraha-abhinavagupta
 - избавившиеся от ослепления двойственностью  · n=1  · bhagavadgita-erman
-- освобождённые от заблуждения и двойственности  · n=1  · bhagavadgita-smirnov
+- освобожденные от заблуждения и двойственности  · n=1  · bhagavadgita-smirnov
 
 ### `dvandvamohanirmukta` — dvandvamohanirmukta  (n=1)
 
@@ -61462,7 +61462,7 @@
 - птицами  · n=3  · ramayana-ayodhyakanda, ramayana-aranyakanda, mahabharata-aranyakaparva
 - птица  · n=3  · ramayana-balakanda, manavadharmashastra
 - птицей  · n=2  · ramayana-aranyakanda, ramayana-balakanda
-- дваждырождённый  · n=2  · mahabharata-bhishmaparva, mahabharata-ashvamedhikaparva
+- дваждырожденный  · n=2  · mahabharata-bhishmaparva, mahabharata-ashvamedhikaparva
 - риши  · n=1  · ramayana-ayodhyakanda
 - утка  · n=1  · ramayana-ayodhyakanda
 - из упомянутых  · n=1  · manavadharmashastra
@@ -61824,7 +61824,7 @@
 - первейшие из дваждырожденных  · n=1  · mahabharata-shalyaparva
 - о достойнейший из дваждырожденных  · n=1  · mahabharata-ashvamedhikaparva
 - почтеннейший из дваждырожденных  · n=1  · mahabharata-ashvamedhikaparva
-- лучший из дваждырождённых  · n=1  · mahabharata-ashvamedhikaparva
+- лучший из дваждырожденных  · n=1  · mahabharata-ashvamedhikaparva
 - достойнейшие из брахманов  · n=1  · mahabharata-ashvamedhikaparva
 - лучшие среди дваждырожденных  · n=1  · mahabharata-ashvamedhikaparva
 
@@ -61925,11 +61925,11 @@
 ### `dvijendrA` — dvijendrā  (n=2)
 
 - лучшие из дваждырожденных  · n=1  · mahabharata-adiparva
-- лучшие из дваждырождённых  · n=1  · mahabharata-adiparva
+- лучшие из дваждырожденных  · n=1  · mahabharata-adiparva
 
 ### `dvijendrAH` — dvijendrāḥ  (n=2)
 
-- лучшие из дваждырождённых  · n=1  · mahabharata-adiparva
+- лучшие из дваждырожденных  · n=1  · mahabharata-adiparva
 - лучшие из дваждырожденных  · n=1  · mahabharata-adiparva
 
 ### `dvijendrAya` — dvijendrāya  (n=2)
@@ -61941,7 +61941,7 @@
 - брахманов  · n=2  · ramayana-ayodhyakanda
 - лучший из дваждырожденных  · n=1  · mahabharata-adiparva
 - дваждырожденные  · n=1  · mahabharata-adiparva
-- лучшие из дваждырождённых  · n=1  · mahabharata-adiparva
+- лучшие из дваждырожденных  · n=1  · mahabharata-adiparva
 - Агастью  · n=1  · ramayana-aranyakanda
 - Вишвамитру  · n=1  · ramayana-balakanda
 - Индр среди дваждырожденных  · n=1  · mahabharata-aranyakaparva
@@ -62013,8 +62013,8 @@
 - дваждырожденные  · n=2  · mahabharata-aranyakaparva
 - наилучший из дваждырожденных  · n=2  · mahabharata-dronaparva, mahabharata-shalyaparva
 - Дваждырожденный  · n=2  · gitarthasamgraha-abhinavagupta, bhagavadgita-1914
-- дваждырождённый  · n=2  · bhagavadgity, bhagavadgita-smirnov
-- лучший из дваждырождённых  · n=1  · mahabharata-adiparva
+- дваждырожденный  · n=2  · bhagavadgity, bhagavadgita-smirnov
+- лучший из дваждырожденных  · n=1  · mahabharata-adiparva
 - брахманы  · n=1  · manavadharmashastra
 - Брахману  · n=1  · manavadharmashastra
 - брахману  · n=1  · manavadharmashastra
@@ -63538,9 +63538,9 @@
 - небеса и звѣзды  · n=2  · bhagavadgita-1909
 - небом и землею  · n=1  · mahabharata-bhishmaparva
 - неба и земли  · n=1  · mahabharata-dronaparva
-- между небом и землёй  · n=1  · bhagavadgity
+- между небом и землей  · n=1  · bhagavadgity
 - между небом и землею  · n=1  · bhagavadgita-erman
-- небом и землёй  · n=1  · bhagavadgita-smirnov
+- небом и землей  · n=1  · bhagavadgita-smirnov
 - Небо, Землю  · n=1  · bhagavadgita-sharma
 - от космического пространства до Земли  · n=1  · bhagavadgita-prabhupada
 - пространство, отделяющее райские планеты от Земли  · n=1  · bhagavadgita-prabhupada

@@ -2217,7 +2217,7 @@
 
 ### `ftapeSas` — ṛtapeśas  (n=1)
 
-- чьё украшение – закон  · n=1  · rigveda
+- чье украшение – закон  · n=1  · rigveda
 
 ### `ftaprajAtA` — ṛtaprajātā  (n=2)
 
@@ -2534,7 +2534,7 @@
 - в безводную  · n=1  · buddhacharita
 - в положенное время  · n=1  · rigveda
 - время дождей  · n=1  · rigveda
-- времён года  · n=1  · bhagavadgita-smirnov
+- времен года  · n=1  · bhagavadgita-smirnov
 - времен  · n=1  · bhagavadgita-sementsov
 - году  · n=1  · bhagavadgita-1909
 - временах года  · n=1  · ch-up

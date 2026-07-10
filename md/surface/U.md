@@ -82,12 +82,12 @@
 
 ### `UQA` — ūḍhā  (n=2)
 
-- увезённая  · n=1  · mahabharata-adiparva
+- увезенная  · n=1  · mahabharata-adiparva
 - взял  · n=1  · mahabharata-udyogaparva
 
 ### `UQAm` — ūḍhām  (n=1)
 
-- увезённую  · n=1  · mahabharata-adiparva
+- увезенную  · n=1  · mahabharata-adiparva
 
 ### `UQAyA` — ūḍhāyā  (n=2)
 
@@ -95,7 +95,7 @@
 
 ### `UQa` — ūḍha  (n=6)
 
-- увезённую  · n=1  · mahabharata-adiparva
+- увезенную  · n=1  · mahabharata-adiparva
 - увезена  · n=1  · mahabharata-adiparva
 - унесен  · n=1  · manavadharmashastra
 - принес  · n=1  · mahabharata-aranyakaparva
@@ -785,7 +785,7 @@
 
 ### `UrDvamAyu` — ūrdhvamāyu  (n=1)
 
-- поднимая рёв  · n=1  · atharvaveda
+- поднимая рев  · n=1  · atharvaveda
 
 ### `UrDvamUla` — ūrdhvamūla  (n=9)
 
@@ -1465,14 +1465,14 @@
 - бедро  · n=22  · kama-sutra, mahabharata-adiparva, mahabharata-shantiparva, hatha-yoga-pradipika, shatakatrayam-serebryakov, mahabharata-striparva, ramayana-sundarakanda, buddhacharita, mahabharata-udyogaparva, mahabharata-sabhaparva, shatakatrayam, megha-duta
 - бедер  · n=14  · kama-sutra, manavadharmashastra, ramayana-ayodhyakanda, ramayana-sundarakanda, ramayana-aranyakanda, buddhacharita, mahabharata-dronaparva, atharvaveda, sub-up
 - бедрами  · n=9  · ramayana-sundarakanda, kama-sutra, devi-gita, bhagavadgita-erman, bhagavadgita-sharma, mahabharata-shalyaparva
-- бёдра  · n=3  · devi-gita
+- бедра  · n=3  · devi-gita
 - нога  · n=2  · ramayana-aranyakanda, mahabharata-bhishmaparva
 - бедром  · n=2  · mahabharata-adiparva, hatha-yoga-pradipika
 - бедре  · n=2  · mahabharata-adiparva
 - бедру  · n=2  · mahabharata-udyogaparva, mahabharata-shalyaparva
-- бёдрами  · n=2  · bhagavadgity, bhagavadgita-smirnov
+- бедрами  · n=2  · bhagavadgity, bhagavadgita-smirnov
 - ноги  · n=2  · bhagavadgita-sementsov, mahabharata-karnaparva
-- бёдер  · n=2  · devi-gita
+- бедер  · n=2  · devi-gita
 - ляжка  · n=1  · rigveda
 - из бедра  · n=1  · buddhacharita
 - ногами  · n=1  · bhagavadgita-1788
@@ -1642,7 +1642,7 @@
 ### `UrvoH` — ūrvoḥ  (n=2)
 
 - бедра  · n=1  · ramayana-aranyakanda
-- бёдра  · n=1  · devi-gita
+- бедра  · n=1  · devi-gita
 
 ### `Urvor` — ūrvor  (n=2)
 
@@ -2519,7 +2519,7 @@
 - К обоим  · n=1  · rigveda
 - о добрѣ или злѣ  · n=1  · bhagavadgita-1788
 - от обоих [видов последствий]  · n=1  · bhagavadgita-radha
-- вдвоём  · n=1  · mahabharata-ashvamedhikaparva
+- вдвоем  · n=1  · mahabharata-ashvamedhikaparva
 - две  · n=1  · raghuvamsha
 - обеих  · n=1  · tai-up
 
@@ -2596,7 +2596,7 @@
 ### `uQA` — uḍhā  (n=4)
 
 - увез  · n=1  · mahabharata-adiparva
-- увезённая  · n=1  · mahabharata-adiparva
+- увезенная  · n=1  · mahabharata-adiparva
 - увезена  · n=1  · mahabharata-adiparva
 - женил  · n=1  · mahabharata-udyogaparva
 
@@ -3952,7 +3952,7 @@
 
 ### `uccairgAyaMSca` — uccairgāyaṃśca  (n=2)
 
-- Он громко поёт  · n=1  · devi-gita
+- Он громко поет  · n=1  · devi-gita
 - Он громко поет  · n=1  · devi-gita
 
 ### `uccairgiri` — uccairgiri  (n=1)
@@ -4345,7 +4345,7 @@
 - таков  · n=3  · bhagavadgity
 - принадлежитъ  · n=3  · bhagavadgita-1788, bhagavadgity
 - зовут  · n=3  · bhagavadgita-sementsov, mahabharata-ashvamedhikaparva, mun-up
-- зовётся  · n=3  · yotat-up
+- зовется  · n=3  · yotat-up
 - не считается  · n=2  · manavadharmashastra
 - слывет  · n=2  · mahabharata-aranyakaparva, kumarasambhava
 - почитают  · n=2  · mahabharata-aranyakaparva, mahabharata-bhishmaparva
@@ -4943,7 +4943,7 @@
 - превосходный  · n=1  · gitagovinda
 - чудесная  · n=1  · gitagovinda
 - развернутом  · n=1  · yoga-sutry_vyasa-bhashya
-- распространённый  · n=1  · yoga-sutry
+- распространенный  · n=1  · yoga-sutry
 - несдержанным  · n=1  · yoga-sutry_sharma
 - полностью проявленных  · n=1  · yoga-sutry_zagumennov
 - свойство  · n=1  · vedartha-samgraha_ramanuja
@@ -5372,7 +5372,7 @@
 - причиненный  · n=1  · kama-sutra
 - рождается  · n=1  · buddhacharita
 - возникновенье  · n=1  · gitarthasamgraha-abhinavagupta
-- Рождённые  · n=1  · bhagavadgity
+- Рожденные  · n=1  · bhagavadgity
 - возникшего  · n=1  · bhagavadgita-smirnov
 - источник  · n=1  · bhagavadgita-sementsov
 - Возстанье  · n=1  · bhagavadgita-1909
@@ -6728,7 +6728,7 @@
 ### `udacyate` — udacyate  (n=3)
 
 - происходит  · n=2  · jabala-up
-- берётся  · n=1  · isha-up
+- берется  · n=1  · isha-up
 
 ### `udagAH` — udagāḥ  (n=2)
 
@@ -8760,7 +8760,7 @@
 
 ### `udriktaM` — udriktaṃ  (n=2)
 
-- на подъёме  · n=1  · mahabharata-ashvamedhikaparva
+- на подъеме  · n=1  · mahabharata-ashvamedhikaparva
 - развита  · n=1  · mahabharata-ashvamedhikaparva
 
 ### `udriktam` — udriktam  (n=2)
@@ -10013,7 +10013,7 @@
 
 - говорится  · n=2  · rigveda
 - поднято  · n=1  · mahabharata-dronaparva
-- зовётся  · n=1  · yotat-up
+- зовется  · n=1  · yotat-up
 
 ### `udyatezu` — udyateṣu  (n=3)
 
@@ -11667,7 +11667,7 @@
 - рассказанное  · n=1  · bhagavadgita-burba
 - укта  · n=1  · bhagavadgita-burba
 - восклицал  · n=1  · bhagavadgita-1914
-- зовётся  · n=1  · bhagavadgita-erman
+- зовется  · n=1  · bhagavadgita-erman
 - Считается  · n=1  · bhagavadgita-smirnov
 - внявъ  · n=1  · bhagavadgita-1788
 - описалъ  · n=1  · bhagavadgita-1788
@@ -14942,7 +14942,7 @@
 ### `upArjitam` — upārjitam  (n=3)
 
 - накопленные  · n=1  · mahabharata-udyogaparva
-- приобретённое  · n=1  · kumarasambhava
+- приобретенное  · n=1  · kumarasambhava
 - добыто  · n=1  · mahabharata-sabhaparva
 
 ### `upArjitamUrti` — upārjitamūrti  (n=1)
@@ -18368,8 +18368,8 @@
 - смущен  · n=1  · gitarthasamgraha-abhinavagupta
 - убито  · n=1  · ramanuja_gitabhashya
 - преодолѣвается  · n=1  · bhagavadgity
-- поражённые  · n=1  · bhagavadgita-smirnov
-- поражённый  · n=1  · bhagavadgita-smirnov
+- пораженные  · n=1  · bhagavadgita-smirnov
+- пораженный  · n=1  · bhagavadgita-smirnov
 - Ослепленные  · n=1  · bhagavadgita-sementsov
 - поражена  · n=1  · bhagavadgita-sementsov
 - затмевает  · n=1  · bhagavadgita-sharma
@@ -18383,7 +18383,7 @@
 
 ### `upahataH` — upahataḥ  (n=2)
 
-- повреждённый  · n=1  · mahabharata-adiparva
+- поврежденный  · n=1  · mahabharata-adiparva
 - обездоленный  · n=1  · mahabharata-adiparva
 
 ### `upahatacetana` — upahatacetana  (n=1)
@@ -18909,10 +18909,10 @@
 - отправился  · n=2  · mahabharata-shantiparva, mahabharata-adiparva
 - пришел  · n=2  · mahabharata-shantiparva, mahabharata-bhishmaparva
 - возвратился  · n=1  · mahabharata-adiparva
-- пришёл  · n=1  · mahabharata-shantiparva
+- пришел  · n=1  · mahabharata-shantiparva
 - приблизился  · n=1  · mahabharata-shantiparva
 - подошел  · n=1  · mahabharata-shantiparva
-- подошёл  · n=1  · mahabharata-shantiparva
+- подошел  · n=1  · mahabharata-shantiparva
 - погрузился  · n=1  · ramayana-sundarakanda
 - приближался  · n=1  · ramayana-sundarakanda
 - пришла  · n=1  · mahabharata-adiparva
@@ -22797,7 +22797,7 @@
 ### `upasev` — upasev  (n=2)
 
 - испытывает  · n=1  · mahabharata-aranyakaparva
-- предаётся  · n=1  · mahabharata-ashvamedhikaparva
+- предается  · n=1  · mahabharata-ashvamedhikaparva
 
 ### `upasevA` — upasevā  (n=1)
 
@@ -25110,7 +25110,7 @@
 
 - прямой взлет  · n=1  · mahabharata-karnaparva
 - поднимающая  · n=1  · hatha-yoga-pradipika
-- взлёт  · n=1  · yotat-up
+- взлет  · n=1  · yotat-up
 
 ### `uqqIyAna` — uḍḍīyāna  (n=7)
 
@@ -28071,7 +28071,7 @@
 - обусловлено  · n=1  · nyaya-bhashya
 - производится  · n=1  · nyaya-bhashya
 - возникающее  · n=1  · nyaya-bhashya
-- произошёл  · n=1  · mahabharata-ashvamedhikaparva
+- произошел  · n=1  · mahabharata-ashvamedhikaparva
 - приблизилась  · n=1  · mahabharata-sabhaparva
 - началом  · n=1  · hatha-yoga-pradipika
 - выздоровела  · n=1  · shukasaptati
@@ -29414,7 +29414,7 @@
 - Трудятся  · n=1  · kumarasambhava
 - оставить  · n=1  · mahabharata-aranyakaparva
 - пролив  · n=1  · mahabharata-shalyaparva
-- отвлёкшись  · n=1  · mahabharata-ashvamedhikaparva
+- отвлекшись  · n=1  · mahabharata-ashvamedhikaparva
 - расстается  · n=1  · mahabharata-ashvamedhikaparva
 - выпущенный на волю  · n=1  · mahabharata-ashvamedhikaparva
 - оставили  · n=1  · mahabharata-ashvamedhikaparva

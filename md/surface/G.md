@@ -210,7 +210,7 @@
 - уничтожены  · n=1  · mahabharata-adiparva
 - допущено убийство  · n=1  · mahabharata-dronaparva
 - допустил убийство  · n=1  · mahabharata-shalyaparva
-- сражён  · n=1  · devi-gita
+- сражен  · n=1  · devi-gita
 - опустошена  · n=1  · mahabharata-striparva
 - поверженный  · n=1  · mahabharata-svargarohanikaparva
 
@@ -836,7 +836,7 @@
 ### `GawAvasTA` — ghaṭāvasthā  (n=2)
 
 - горшок  · n=1  · yotat-up
-- приём «горшок»  · n=1  · yotat-up
+- прием «горшок»  · n=1  · yotat-up
 
 ### `GawIkftya` — ghaṭīkṛtya  (n=2)
 
@@ -1353,7 +1353,7 @@
 
 ### `GftAsutI` — ghṛtāsutī  (n=2)
 
-- чьё питьё – расплавленное масло  · n=1  · rigveda
+- чье питье – расплавленное масло  · n=1  · rigveda
 - получающих как возлияние жир  · n=1  · rigveda
 
 ### `GftAsuti` — ghṛtāsuti  (n=3)
@@ -1381,7 +1381,7 @@
 - коровьего масла  · n=4  · manavadharmashastra
 - Жиром  · n=4  · rigveda, rigveda, rigveda, atharvaveda
 - Жир  · n=4  · rigveda, atharvaveda, atharvaveda
-- топлёное масло  · n=3  · devi-gita, mahabharata-bhishmaparva
+- топленое масло  · n=3  · devi-gita, mahabharata-bhishmaparva
 - топленое масло  · n=2  · mahabharata-adiparva, kama-sutra
 - коровьим маслом  · n=2  · manavadharmashastra
 - топленого масла  · n=2  · kama-sutra, mahabharata-karnaparva
@@ -6597,7 +6597,7 @@
 - рода  · n=1  · mahabharata-adiparva
 - стадо  · n=1  · mahabharata-adiparva
 - войска  · n=1  · mahabharata-bhishmaparva
-- племён  · n=1  · mahabharata-bhishmaparva
+- племен  · n=1  · mahabharata-bhishmaparva
 - творениями  · n=1  · mahabharata-dronaparva
 - стаей  · n=1  · rigveda
 - они  · n=1  · buddhacharita
@@ -7581,7 +7581,7 @@
 - уходишь  · n=4  · ramayana-ayodhyakanda
 - приходит  · n=4  · mahabharata-ashvamedhikaparva, ramayana-sundarakanda, bhagavadgita-sementsov
 - направится  · n=4  · mahabharata-aranyakaparva
-- идёт  · n=4  · bhagavadgity, bhagavadgita-smirnov
+- идет  · n=4  · bhagavadgity, bhagavadgita-smirnov
 - уйдет  · n=3  · mahabharata-aranyakaparva, ramayana-ayodhyakanda
 - идут  · n=3  · ramayana-ayodhyakanda, rigveda, mahabharata-udyogaparva
 - попадает  · n=3  · bhagavadgita-prabhupada, ramayana-ayodhyakanda
@@ -7735,7 +7735,7 @@
 - достигнет  · n=2  · mahabharata-sabhaparva
 - попасть  · n=1  · mahabharata-shantiparva
 - идут  · n=1  · mahabharata-shantiparva
-- идёт  · n=1  · mahabharata-shantiparva
+- идет  · n=1  · mahabharata-shantiparva
 - мчится  · n=1  · ramayana-sundarakanda
 - посещает  · n=1  · manavadharmashastra
 - пойти  · n=1  · ramayana-aranyakanda
@@ -9243,7 +9243,7 @@
 - носящем имя слона  · n=1  · mahabharata-ashramavasikaparva
 - Город, носящий имя слона  · n=1  · mahabharata-ashramavasikaparva
 - Город, названный в честь слона  · n=1  · mahabharata-mahaprasthanikaparva
-- Город, названный в честь слона, — Хастинапура, столица царства, основанная некогда царём Хастином, имя которого оказалось забытым, заменённое нарицательным значением слова hastin — «слон».  · n=1  · mahabharata-mahaprasthanikaparva
+- Город, названный в честь слона, — Хастинапура, столица царства, основанная некогда царем Хастином, имя которого оказалось забытым, замененное нарицательным значением слова hastin — «слон».  · n=1  · mahabharata-mahaprasthanikaparva
 
 ### `gajasAhvayam` — gajasāhvayam  (n=5)
 
@@ -10339,7 +10339,7 @@
 - послан  · n=2  · mahabharata-karnaparva
 - отослал  · n=2  · mahabharata-karnaparva
 - поставлена  · n=1  · mahabharata-adiparva
-- возвращён  · n=1  · mahabharata-adiparva
+- возвращен  · n=1  · mahabharata-adiparva
 - отправлен  · n=1  · mahabharata-adiparva
 - приведены  · n=1  · mahabharata-shantiparva
 - направлены  · n=1  · mahabharata-karnaparva
@@ -10550,7 +10550,7 @@
 - будет сопутствовать  · n=1  · mahabharata-udyogaparva
 - будет действовать  · n=1  · mahabharata-karnaparva
 - попасть  · n=1  · mahabharata-karnaparva
-- пойдёт  · n=1  · mahabharata-ashvamedhikaparva
+- пойдет  · n=1  · mahabharata-ashvamedhikaparva
 - отправится  · n=1  · mahabharata-virataparva
 - намерен отправиться  · n=1  · mahabharata-ashramavasikaparva
 - наступит  · n=1  · mahabharata-ashramavasikaparva
@@ -11618,7 +11618,7 @@
 - господин  · n=1  · mahabharata-bhishmaparva
 - уйду  · n=1  · mahabharata-bhishmaparva
 - пойдет  · n=1  · mahabharata-bhishmaparva
-- пойдёт  · n=1  · mahabharata-bhishmaparva
+- пойдет  · n=1  · mahabharata-bhishmaparva
 - отправится  · n=1  · mahabharata-udyogaparva
 - отправляюсь  · n=1  · mahabharata-shalyaparva
 - собираешься уехать  · n=1  · mahabharata-ashvamedhikaparva
@@ -13938,7 +13938,7 @@
 - того, от кого ушли привязанности  · n=1  · bhagavadgita-burba
 - лишенного связей  · n=1  · ramanuja_gitabhashya
 - утратил желания  · n=1  · bhagavadgita-1914
-- лишённый привязанностей  · n=1  · bhagavadgity
+- лишенный привязанностей  · n=1  · bhagavadgity
 - лишенъ всякой заботы о послѣдствіи  · n=1  · bhagavadgita-1788
 
 ### `gata-saNgasya` — gata-saṅgasya  (n=2)
@@ -14429,7 +14429,7 @@
 
 - не привязан  · n=2  · gitarthasamgraha-abhinavagupta, bhagavadgita-sementsov
 - отрешившегося от привязанности  · n=1  · mahabharata-bhishmaparva
-- лишённого привязанностей  · n=1  · bhagavadgita-smirnov
+- лишенного привязанностей  · n=1  · bhagavadgita-smirnov
 
 ### `gatasaNgasya` — gatasaṅgasya  (n=4)
 
@@ -14768,7 +14768,7 @@
 - участи  · n=3  · mahabharata-aranyakaparva, bhagavadgita-radha, mahabharata-striparva
 - судьба  · n=3  · mahabharata-aranyakaparva, mahabharata-virataparva
 - жизненного пути  · n=3  · mahabharata-udyogaparva, mahabharata-shalyaparva
-- путём  · n=3  · bhagavadgita-smirnov, bhagavadgity
+- путем  · n=3  · bhagavadgita-smirnov, bhagavadgity
 - движения  · n=3  · bhagavadgita-prabhupada, nyaya-bhashya, kau-up
 - дороги  · n=3  · shatakatrayam-serebryakov, shatakatrayam
 - движений  · n=3  · yoga-sutry_zagumennov, kau-up
@@ -14782,7 +14782,7 @@
 - защиту  · n=2  · mahabharata-aranyakaparva
 - двигаясь  · n=2  · mahabharata-aranyakaparva, mahabharata-dronaparva
 - целью  · n=2  · bhagavadgita-burba, bhagavadgita-prabhupada
-- Путём  · n=2  · bhagavadgita-smirnov
+- Путем  · n=2  · bhagavadgita-smirnov
 - путемъ  · n=2  · bhagavadgita-1788
 - страны  · n=2  · bhagavadgita-1788, bhagavadgita-1909
 - предназначение  · n=2  · bhagavadgita-sharma
@@ -14915,7 +14915,7 @@
 - сущность  · n=1  · bhagavadgita-sementsov
 - состояние  · n=1  · bhagavadgita-radha
 - удел  · n=1  · mahabharata-ashvamedhikaparva
-- путём  · n=1  · devi-gita
+- путем  · n=1  · devi-gita
 - странствие  · n=1  · raghuvamsha
 - походкой  · n=1  · gitagovinda
 
@@ -14950,7 +14950,7 @@
 - путями  · n=2  · ramayana-sundarakanda
 - убежище  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - прибежищу  · n=2  · mahabharata-udyogaparva
-- путём  · n=2  · bhagavadgity, bhagavadgita-smirnov
+- путем  · n=2  · bhagavadgity, bhagavadgita-smirnov
 - к цели  · n=2  · bhagavadgita-prabhupada
 - пути  · n=2  · mahabharata-sabhaparva, mai-up
 - движение  · n=2  · hatha-yoga-pradipika
@@ -14968,7 +14968,7 @@
 - концу  · n=1  · mahabharata-udyogaparva
 - к смерти  · n=1  · mahabharata-udyogaparva
 - выхода  · n=1  · rigveda
-- Путём  · n=1  · bhagavadgity
+- Путем  · n=1  · bhagavadgity
 - доле  · n=1  · bhagavadgita-erman
 - уделу  · n=1  · bhagavadgita-erman
 - удела  · n=1  · bhagavadgita-erman
@@ -17623,7 +17623,7 @@
 - захватить  · n=1  · mahabharata-udyogaparva
 - принял  · n=1  · mahabharata-udyogaparva
 - ощущает  · n=1  · gitarthasamgraha-abhinavagupta
-- берёт  · n=1  · bhagavadgita-smirnov
+- берет  · n=1  · bhagavadgita-smirnov
 - надѣваетъ  · n=1  · bhagavadgita-1788
 - облечься  · n=1  · bhagavadgita-1909
 - фиксирующая  · n=1  · nyaya-bhashya
@@ -24136,7 +24136,7 @@
 ### `guRAnvita` — guṇānvita  (n=12)
 
 - наделенного свойствами  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
-- окружённого гунами  · n=2  · bhagavadgity, bhagavadgita-smirnov
+- окруженного гунами  · n=2  · bhagavadgity, bhagavadgita-smirnov
 - наделенный хорошими качествами  · n=1  · manavadharmashastra
 - достойный  · n=1  · mahabharata-aranyakaparva
 - Наделенного гунами  · n=1  · bhagavadgita-burba
@@ -24993,7 +24993,7 @@
 
 ### `guRasammUQAH` — guṇasammūḍhāḥ  (n=3)
 
-- Ослеплённые гунами  · n=1  · bhagavadgita-smirnov
+- Ослепленные гунами  · n=1  · bhagavadgita-smirnov
 - ослепленные гун круженьем  · n=1  · bhagavadgita-sementsov
 - обманутые гунами природы  · n=1  · bhagavadgita-prabhupada
 
@@ -26618,7 +26618,7 @@
 - тяжестью  · n=1  · gitarthasamgraha-abhinavagupta
 - Учителей  · n=1  · gitarthasamgraha-abhinavagupta
 - тяжелой  · n=1  · ramanuja_gitabhashya
-- тяжёлым  · n=1  · bhagavadgita-smirnov
+- тяжелым  · n=1  · bhagavadgita-smirnov
 - Наставников — или родителей, «гуру», значит и то и другое  · n=1  · bhagavadgita-smirnov
 - жесточайшее  · n=1  · bhagavadgita-1788
 - наставникъ  · n=1  · bhagavadgita-1788
@@ -26777,7 +26777,7 @@
 - наставник  · n=1  · ramayana-ayodhyakanda
 - старшего брата  · n=1  · mahabharata-aranyakaparva
 - с дедом  · n=1  · mahabharata-bhishmaparva
-- тяжёлымъ  · n=1  · bhagavadgity
+- тяжелымъ  · n=1  · bhagavadgity
 - печалью  · n=1  · bhagavadgita-1909
 - великое  · n=1  · bhagavadgita-sharma
 - от наставника  · n=1  · mahabharata-ashvamedhikaparva

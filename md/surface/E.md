@@ -857,7 +857,7 @@
 - ограничение  · n=1  · nyaya-bhashya
 - однозначно  · n=1  · nyaya-bhashya
 - на одной точке  · n=1  · mahabharata-ashvamedhikaparva
-- уединённом месте  · n=1  · devi-gita
+- уединенном месте  · n=1  · devi-gita
 - уединенно  · n=1  · hatha-yoga-pradipika
 - в стороне  · n=1  · mahabharata-virataparva
 - надежных  · n=1  · sankhya-karika
@@ -3951,7 +3951,7 @@
 - им  · n=2  · kama-sutra, mahabharata-udyogaparva
 - за ним  · n=2  · mahabharata-udyogaparva, atharvaveda
 - Него  · n=2  · gitarthasamgraha-abhinavagupta, bhagavadgity
-- о Нём  · n=2  · bhagavadgita-smirnov
+- о Нем  · n=2  · bhagavadgita-smirnov
 - об этом (о душе)  · n=2  · bhagavadgita-prabhupada
 - эту [душу]  · n=2  · bhagavadgita-radha
 - (пропущено)  · n=1  · atharvaveda
@@ -3978,7 +3978,7 @@
 - себя  · n=1  · bhagavadgita-1914
 - в нем  · n=1  · bhagavadgita-1914
 - на Него  · n=1  · bhagavadgita-smirnov
-- о нём  · n=1  · bhagavadgita-smirnov
+- о нем  · n=1  · bhagavadgita-smirnov
 - тотъ  · n=1  · bhagavadgita-1909
 - Это  · n=1  · bhagavadgita-sharma
 - Этого  · n=1  · bhagavadgita-sharma
@@ -4850,14 +4850,14 @@
 
 ### `etadvilakzaRa` — etadvilakṣaṇa  (n=1)
 
-- Лишённая этих признаков  · n=1  · devi-gita
+- Лишенная этих признаков  · n=1  · devi-gita
 
 ### `etadyonIni` — etadyonīni  (n=6)
 
 - из этого лона  · n=2  · mahabharata-bhishmaparva
 - источник  · n=1  · gitarthasamgraha-abhinavagupta
 - имеющие источником  · n=1  · ramanuja_gitabhashya
-- её лона  · n=1  · bhagavadgita-smirnov
+- ее лона  · n=1  · bhagavadgita-smirnov
 - лона  · n=1  · bhagavadgita-smirnov
 
 ### `etagvA` — etagvā  (n=3)
@@ -5165,7 +5165,7 @@
 - сию  · n=1  · mahabharata-ashvamedhikaparva
 - такая  · n=1  · mahabharata-ashvamedhikaparva
 - есть  · n=1  · mahabharata-ashvamedhikaparva
-- Моё  · n=1  · devi-gita
+- Мое  · n=1  · devi-gita
 - таким образом  · n=1  · mahabharata-sabhaparva
 - с этим  · n=1  · atharvaveda
 - к тому  · n=1  · mahabharata-virataparva
@@ -5399,7 +5399,7 @@
 - Движется  · n=6  · rigveda, rigveda, rigveda, atharvaveda
 - восходит  · n=5  · rigveda, rigveda, rigveda
 - входит  · n=4  · mahabharata-bhishmaparva, bhagavadgita-erman, ch-up, rigveda
-- идёт  · n=4  · bhagavadgita-smirnov, bhagavadgity
+- идет  · n=4  · bhagavadgita-smirnov, bhagavadgity
 - возвращался  · n=3  · mahabharata-aranyakaparva, mahabharata-shalyaparva
 - обходит  · n=3  · rigveda, rigveda, rigveda
 - впадает  · n=3  · kau-up, mahabharata-adiparva
@@ -5489,7 +5489,7 @@
 - да отправится  · n=2  · rigveda
 - войдет  · n=2  · atharvaveda
 - разлетится  · n=1  · atharvaveda
-- пусть придёт  · n=1  · atharvaveda
+- пусть придет  · n=1  · atharvaveda
 - Пусть он войдет  · n=1  · ramayana-aranyakanda
 - Пусть выйдет вперед  · n=1  · rigveda
 - попадает  · n=1  · rigveda
@@ -7286,7 +7286,7 @@
 
 - придешь  · n=24  · bhagavadgita-burba, mahabharata-bhishmaparva, ramanuja_gitabhashya, bhagavadgita-1914, bhagavadgita-erman, bhagavadgita-prabhupada, bhagavadgita-radha, bhagavadgita-sementsov
 - достигнешь  · n=11  · bhagavadgita-sharma, gitarthasamgraha-abhinavagupta, bhagavadgita-1909, mahabharata-adiparva, bhagavadgita-smirnov, bhagavadgita-sementsov, bhagavadgita-radha
-- придёшь  · n=3  · bhagavadgita-smirnov, bhagavadgity
+- придешь  · n=3  · bhagavadgita-smirnov, bhagavadgity
 - преселишься  · n=3  · bhagavadgita-1788, bhagavadgity
 - обретешь  · n=1  · mahabharata-adiparva
 - соединишься  · n=1  · ramayana-sundarakanda
