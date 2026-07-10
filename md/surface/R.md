@@ -2582,7 +2582,7 @@
 - владыки  · n=4  · buddhacharita, ramayana-ayodhyakanda, ramayana-sundarakanda
 - Царя  · n=4  · ramayana-sundarakanda, ramayana-aranyakanda, rigveda, atharvaveda
 - Раджа  · n=4  · shukasaptati
-- царём  · n=3  · mahabharata-shantiparva, mahabharata-dronaparva, mahabharata-ashvamedhikaparva
+- царем  · n=3  · mahabharata-shantiparva, mahabharata-dronaparva, mahabharata-ashvamedhikaparva
 - царский  · n=3  · ramayana-ayodhyakanda, manavadharmashastra
 - царе  · n=3  · ramayana-aranyakanda, mahabharata-adiparva, mahabharata-ashramavasikaparva
 - царевич  · n=3  · mahabharata-aranyakaparva, mahabharata-adiparva, mahabharata-dronaparva
@@ -6842,7 +6842,7 @@
 
 - осла  · n=2  · rigveda
 - ослы  · n=2  · mahabharata-sabhaparva
-- Осёл  · n=1  · rigveda
+- Осел  · n=1  · rigveda
 - Осел  · n=1  · rigveda
 - осел  · n=1  · rigveda
 - ослов  · n=1  · mahabharata-sabhaparva
@@ -8120,7 +8120,7 @@
 
 ### `rUkSa` — rūkśa  (n=1)
 
-- чёрствую  · n=1  · yotat-up
+- черствую  · n=1  · yotat-up
 
 ### `rUkSam` — rūkśam  (n=1)
 
@@ -14985,9 +14985,9 @@
 - веревке  · n=3  · ramayana-ayodhyakanda, mahabharata-aranyakaparva, paramarthasara-abhinavagupta
 - веревками  · n=3  · ramayana-ayodhyakanda, ramayana-sundarakanda
 - веревку  · n=2  · ramayana-ayodhyakanda
-- верёвка  · n=2  · devi-gita
+- веревка  · n=2  · devi-gita
 - веревок  · n=1  · manavadharmashastra
-- верёвке  · n=1  · devi-gita
+- веревке  · n=1  · devi-gita
 
 ### `rajjuBiH` — rajjubhiḥ  (n=1)
 
@@ -15015,7 +15015,7 @@
 
 ### `rajjusarpasragAdivat` — rajjusarpasragādivat  (n=1)
 
-- подобный верёвке или гирлянде, принимаемой за змею  · n=1  · devi-gita
+- подобный веревке или гирлянде, принимаемой за змею  · n=1  · devi-gita
 
 ### `rajjutva` — rajjutva  (n=1)
 
@@ -23897,7 +23897,7 @@
 
 - кровью запятнанные  · n=1  · mahabharata-bhishmaparva
 - окрашенную кровью  · n=1  · gitarthasamgraha-abhinavagupta
-- обагрённую кровью  · n=1  · bhagavadgita-smirnov
+- обагренную кровью  · n=1  · bhagavadgita-smirnov
 
 ### `ruDirasaMsikta` — rudhirasaṃsikta  (n=2)
 

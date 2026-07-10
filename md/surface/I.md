@@ -5054,7 +5054,7 @@
 - Этот  · n=2  · rigveda, atharvaveda
 - то  · n=2  · mahabharata-bhishmaparva, bhagavadgita-prabhupada
 - на него  · n=2  · rigveda, nr-up
-- её  · n=2  · bhagavadgity, bhagavadgita-smirnov
+- ее  · n=2  · bhagavadgity, bhagavadgita-smirnov
 - с  · n=1  · ramayana-ayodhyakanda
 - с ним  · n=1  · ramayana-aranyakanda
 - туда  · n=1  · ramayana-aranyakanda
@@ -6511,7 +6511,7 @@
 
 ### `indratvena` — indratvena  (n=1)
 
-- царём  · n=1  · mahabharata-adiparva
+- царем  · n=1  · mahabharata-adiparva
 
 ### `indratvotA` — indratvotā  (n=1)
 
@@ -7608,7 +7608,7 @@
 
 ### `indupUrRapratimAnana` — indupūrṇapratimānana  (n=1)
 
-- чьё лицо подобно полной луне  · n=1  · ramayana-sundarakanda
+- чье лицо подобно полной луне  · n=1  · ramayana-sundarakanda
 
 ### `indupraBAmindumatIm` — induprabhām indumatīm  (n=1)
 
@@ -9986,7 +9986,7 @@
 - именно  · n=1  · ramayana-sundarakanda
 - здесь  · n=1  · ramayana-aranyakanda
 - озеро  · n=1  · ramayana-aranyakanda
-- её  · n=1  · ramayana-aranyakanda
+- ее  · n=1  · ramayana-aranyakanda
 - Землю  · n=1  · ramayana-aranyakanda
 - его  · n=1  · ramayana-balakanda
 - ей  · n=1  · mahabharata-aranyakaparva
@@ -11322,7 +11322,7 @@
 - почитаемый/любимый  · n=1  · bhagavadgita-burba
 - избранник  · n=1  · ramanuja_gitabhashya
 - поклоняться  · n=1  · bhagavadgita-1914
-- принесёт  · n=1  · bhagavadgita-smirnov
+- принесет  · n=1  · bhagavadgita-smirnov
 - искать  · n=1  · bhagavadgita-1788
 - почтен  · n=1  · bhagavadgita-sharma
 - почитаем  · n=1  · bhagavadgita-prabhupada

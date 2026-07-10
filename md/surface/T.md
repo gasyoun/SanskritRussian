@@ -258,7 +258,7 @@
 - тот  · n=8  · mahabharata-dronaparva, ramayana-sundarakanda, ramayana-balakanda, mahabharata-aranyakaparva, mahabharata-karnaparva, mahabharata-shalyaparva, mahabharata-sabhaparva
 - эту  · n=6  · ramayana-balakanda, mahabharata-aranyakaparva, mahabharata-udyogaparva, atharvaveda, mahabharata-ashramavasikaparva, mahabharata-mausalaparva
 - их  · n=6  · rigveda, rigveda, mahabharata-sabhaparva, mahabharata-sauptikaparva
-- её  · n=5  · chaurapanchashika, mahabharata-adiparva
+- ее  · n=5  · chaurapanchashika, mahabharata-adiparva
 - его  · n=4  · mahabharata-aranyakaparva, mahabharata-adiparva, mahabharata-dronaparva, mahabharata-karnaparva
 - то  · n=4  · mahabharata-aranyakaparva, mahabharata-dronaparva, mahabharata-karnaparva, mahabharata-ashvamedhikaparva
 - этих  · n=3  · rigveda
@@ -277,7 +277,7 @@
 - этот  · n=1  · ramayana-sundarakanda
 - Ту  · n=1  · ramayana-sundarakanda
 - Остающееся  · n=1  · manavadharmashastra
-- Её  · n=1  · ramayana-balakanda
+- Ее  · n=1  · ramayana-balakanda
 - в  · n=1  · mahabharata-aranyakaparva
 - туда  · n=1  · mahabharata-aranyakaparva
 - Эту  · n=1  · rigveda
@@ -712,24 +712,24 @@
 
 ### `tAlu` — tālu  (n=9)
 
-- нёбо  · n=5  · mahabharata-udyogaparva, nyaya-bhashya, mahabharata-ashvamedhikaparva, yoga-sutry_vyasa-bhashya, mai-up
-- нёба  · n=1  · kama-sutra
+- небо  · n=5  · mahabharata-udyogaparva, nyaya-bhashya, mahabharata-ashvamedhikaparva, yoga-sutry_vyasa-bhashya, mai-up
+- неба  · n=1  · kama-sutra
 - небом  · n=1  · devi-gita
 - верхнее небо  · n=1  · hatha-yoga-pradipika
-- нёбе  · n=1  · sankhya-karika
+- небе  · n=1  · sankhya-karika
 
 ### `tAluke` — tāluke  (n=1)
 
-- нёба  · n=1  · tai-up
+- неба  · n=1  · tai-up
 
 ### `tAlvaDyagra` — tālvadhyagra  (n=2)
 
-- кончик [языка] на нёбо  · n=1  · mai-up
+- кончик [языка] на небо  · n=1  · mai-up
 - Вернув  · n=1  · mai-up
 
 ### `tAlvantar` — tālvantar  (n=1)
 
-- в нёбе  · n=1  · mai-up
+- в небе  · n=1  · mai-up
 
 ### `tAm` — tām  (n=617)
 
@@ -738,7 +738,7 @@
 - ей  · n=40  · mahabharata-adiparva, mahabharata-aranyakaparva, mahabharata-udyogaparva, ramayana-ayodhyakanda, ramayana-balakanda, mahabharata-virataparva, shukasaptati, ramayana-sundarakanda, ramayana-aranyakanda, buddhacharita, mahabharata-shalyaparva, mahabharata-ashvamedhikaparva, gitagovinda, mahabharata-striparva
 - той  · n=32  · gitagovinda, ramayana-ayodhyakanda, mahabharata-adiparva, ramayana-sundarakanda, mahabharata-udyogaparva, mahabharata-shantiparva, ramayana-aranyakanda, mahabharata-aranyakaparva, kama-sutra, mahabharata-bhishmaparva, gitarthasamgraha-abhinavagupta, bhagavadgita-radha, mahabharata-shalyaparva, raghuvamsha, shukasaptati
 - его  · n=29  · ch-up, mahabharata-bhishmaparva, mahabharata-dronaparva, mahabharata-sabhaparva, mahabharata-virataparva, mahabharata-aranyakaparva, rigveda, mahabharata-adiparva, mahabharata-udyogaparva, rigveda, ramanuja_gitabhashya, mahabharata-ashvamedhikaparva, br-up, atharvaveda
-- её  · n=19  · chaurapanchashika, devi-gita, ramayana-ayodhyakanda, kumarasambhava, atharvaveda, ramayana-aranyakanda
+- ее  · n=19  · chaurapanchashika, devi-gita, ramayana-ayodhyakanda, kumarasambhava, atharvaveda, ramayana-aranyakanda
 - эту  · n=16  · ramayana-ayodhyakanda, atharvaveda, ramayana-aranyakanda, ramayana-balakanda, mahabharata-aranyakaparva, kama-sutra, mahabharata-adiparva, rigveda, mahabharata-sabhaparva, atharvaveda
 - тот  · n=16  · mahabharata-dronaparva, mahabharata-aranyakaparva, mahabharata-adiparva, ramayana-aranyakanda, mahabharata-bhishmaparva, mahabharata-udyogaparva, mahabharata-karnaparva, mahabharata-sabhaparva, mahabharata-virataparva
 - то  · n=15  · mahabharata-aranyakaparva, mahabharata-dronaparva, mahabharata-shalyaparva, mahabharata-shantiparva, ramayana-ayodhyakanda, mahabharata-bhishmaparva, mahabharata-udyogaparva, mahabharata-virataparva
@@ -833,7 +833,7 @@
 - Кундалини  · n=1  · hatha-yoga-pradipika
 - его же  · n=1  · atharvaveda
 - тебя такое  · n=1  · atharvaveda
-- Неё  · n=1  · atharvaveda
+- Нее  · n=1  · atharvaveda
 - Ею  · n=1  · atharvaveda
 - Радхику  · n=1  · gitagovinda
 - Тебя  · n=1  · atharvaveda
@@ -901,7 +901,7 @@
 ### `tAmasA` — tāmasā  (n=3)
 
 - тамастичные  · n=1  · gitarthasamgraha-abhinavagupta
-- тёмные  · n=1  · bhagavadgita-smirnov
+- темные  · n=1  · bhagavadgita-smirnov
 - люди тамаса  · n=1  · mahabharata-ashvamedhikaparva
 
 ### `tAmasAH` — tāmasāḥ  (n=23)
@@ -915,7 +915,7 @@
 - в них преобладает тамас  · n=1  · gitarthasamgraha-abhinavagupta
 - темные  · n=1  · ramanuja_gitabhashya
 - послѣдователи Тама-Гуна  · n=1  · bhagavadgity
-- тёмные  · n=1  · bhagavadgity
+- темные  · n=1  · bhagavadgity
 - обладаемые Тама-Гуномъ  · n=1  · bhagavadgita-1788
 - тамасичных  · n=1  · bhagavadgita-sharma
 - те, кто в гуне невежества  · n=1  · bhagavadgita-prabhupada
@@ -949,8 +949,8 @@
 - омраченная  · n=1  · bhagavadgita-burba
 - темное  · n=1  · ramanuja_gitabhashya
 - темная  · n=1  · bhagavadgita-1914
-- тёмная  · n=1  · bhagavadgity
-- тёмным  · n=1  · bhagavadgita-sementsov
+- темная  · n=1  · bhagavadgity
+- темным  · n=1  · bhagavadgita-sementsov
 - тамасичная  · n=1  · bhagavadgita-sharma
 - тамасичным  · n=1  · bhagavadgita-sharma
 - тамасичной  · n=1  · bhagavadgita-sharma
@@ -966,7 +966,7 @@
 - темным  · n=8  · ramanuja_gitabhashya, bhagavadgita-1914, bhagavadgita-sementsov
 - тамаса  · n=6  · bhagavadgita-sementsov, mahabharata-aranyakaparva, mahabharata-karnaparva, mahabharata-ashvamedhikaparva, vedartha-samgraha_ramanuja
 - Тама-Гуну  · n=6  · bhagavadgity, bhagavadgita-1788
-- тёмным  · n=5  · bhagavadgita-smirnov
+- темным  · n=5  · bhagavadgita-smirnov
 - Тама  · n=5  · bhagavadgita-1909
 - тамасичным  · n=5  · bhagavadgita-sharma
 - темнотой  · n=3  · manavadharmashastra
@@ -983,9 +983,9 @@
 - тамастическим  · n=2  · gitarthasamgraha-abhinavagupta
 - темной  · n=2  · bhagavadgita-1914, bhagavadgita-sementsov
 - темный  · n=2  · bhagavadgita-1914, bhagavadgity
-- тёмной  · n=2  · bhagavadgity, bhagavadgita-smirnov
+- темной  · n=2  · bhagavadgity, bhagavadgita-smirnov
 - косные  · n=2  · bhagavadgita-erman
-- тёмный  · n=2  · bhagavadgita-smirnov
+- темный  · n=2  · bhagavadgita-smirnov
 - Тама-Гуна  · n=2  · bhagavadgita-1788
 - Тама-Гуны  · n=2  · bhagavadgita-1909
 - невежества  · n=2  · bhagavadgita-prabhupada
@@ -1015,9 +1015,9 @@
 - Тама-Гуномъ  · n=1  · bhagavadgity
 - косный  · n=1  · bhagavadgita-erman
 - косное  · n=1  · bhagavadgita-erman
-- тёмные  · n=1  · bhagavadgita-smirnov
-- тёмная  · n=1  · bhagavadgita-smirnov
-- тёмен  · n=1  · bhagavadgita-smirnov
+- темные  · n=1  · bhagavadgita-smirnov
+- темная  · n=1  · bhagavadgita-smirnov
+- темен  · n=1  · bhagavadgita-smirnov
 - послѣдователи Тама-Гуна  · n=1  · bhagavadgita-1788
 - Тамасе  · n=1  · bhagavadgita-1788
 - Ража-Гуна  · n=1  · bhagavadgita-1788
@@ -1077,7 +1077,7 @@
 
 ### `tAmasaiHsarvaguRaiHpramucyate` — tāmasaiḥ sarvaguṇaiḥ pramucyate  (n=1)
 
-- от всех свойств тёмной гуны избавляется  · n=1  · mahabharata-ashvamedhikaparva
+- от всех свойств темной гуны избавляется  · n=1  · mahabharata-ashvamedhikaparva
 
 ### `tAmasam` — tāmasam  (n=32)
 
@@ -1092,7 +1092,7 @@
 - тамасичной  · n=1  · bhagavadgita-burba
 - «темная»  · n=1  · ramanuja_gitabhashya
 - темная  · n=1  · bhagavadgita-1914
-- тёмная  · n=1  · bhagavadgita-smirnov
+- темная  · n=1  · bhagavadgita-smirnov
 - Тама-Гуны  · n=1  · bhagavadgita-1909
 - Тама  · n=1  · bhagavadgita-1909
 - относящимся к гуне невежества  · n=1  · bhagavadgita-prabhupada
@@ -1110,7 +1110,7 @@
 
 - приятна тамастичным  · n=1  · gitarthasamgraha-abhinavagupta
 - нравится «темным»  · n=1  · ramanuja_gitabhashya
-- дорога тёмным  · n=1  · bhagavadgita-smirnov
+- дорога темным  · n=1  · bhagavadgita-smirnov
 
 ### `tAmasasaYjYam` — tāmasasañjñam  (n=1)
 
@@ -2543,7 +2543,7 @@
 - Тарака  · n=3  · mahabharata-dronaparva, mahabharata-sabhaparva
 - звезды  · n=2  · mahabharata-karnaparva, atharvaveda
 - звездах  · n=1  · mahabharata-udyogaparva
-- звёзды  · n=1  · devi-gita
+- звезды  · n=1  · devi-gita
 - комета  · n=1  · atharvaveda
 - звезда  · n=1  · atharvaveda
 - звезд  · n=1  · amaru-shataka
@@ -2640,7 +2640,7 @@
 
 ### `tArakeSa` — tārakeśa  (n=2)
 
-- Владыка звёзд  · n=1  · devi-gita
+- Владыка звезд  · n=1  · devi-gita
 - Владыка звезд  · n=1  · devi-gita
 
 ### `tAram` — tāram  (n=1)
@@ -6726,7 +6726,7 @@
 - затем  · n=1  · atharvaveda
 - Ее  · n=1  · atharvaveda
 - равно  · n=1  · shatakatrayam
-- её  · n=1  · shatakatrayam
+- ее  · n=1  · shatakatrayam
 - нашей  · n=1  · shatakatrayam
 - с которыми  · n=1  · shatakatrayam-serebryakov
 - Они  · n=1  · atharvaveda
@@ -7768,7 +7768,7 @@
 
 ### `tadantaH` — tadantaḥ  (n=2)
 
-- в неё  · n=2  · devi-gita
+- в нее  · n=2  · devi-gita
 
 ### `tadantanaram` — tadantanaram  (n=1)
 
@@ -9359,7 +9359,7 @@
 
 ### `tadyatkiYcit` — tadyatkiñcit  (n=1)
 
-- ничего ещё не было  · n=1  · devi-gita
+- ничего еще не было  · n=1  · devi-gita
 
 ### `tadyogAt` — tadyogāt  (n=1)
 
@@ -10555,7 +10555,7 @@
 - То  · n=1  · atharvaveda
 - гостя  · n=1  · shukasaptati
 - В него  · n=1  · atharvaveda
-- её  · n=1  · yotat-up
+- ее  · n=1  · yotat-up
 - в ней  · n=1  · mahabharata-sauptikaparva
 
 ### `tam-tam` — tam-tam  (n=2)
@@ -10823,7 +10823,7 @@
 - инерции  · n=1  · bhagavadgita-1914
 - тма  · n=1  · bhagavadgity
 - тмою  · n=1  · bhagavadgity
-- тёмные  · n=1  · bhagavadgita-smirnov
+- темные  · n=1  · bhagavadgita-smirnov
 - Тама-Гунъ  · n=1  · bhagavadgita-1788
 - Тама-Гуном  · n=1  · bhagavadgita-1788
 - лѣнность  · n=1  · bhagavadgita-1909
@@ -12268,7 +12268,7 @@
 
 - тем поддерживаемые  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - в Том утвердясь  · n=1  · gitarthasamgraha-abhinavagupta
-- утверждённые в Том  · n=1  · bhagavadgita-smirnov
+- утвержденные в Том  · n=1  · bhagavadgita-smirnov
 - утвердив на нем мысли  · n=1  · bhagavadgita-sementsov
 - кто непоколебимо верит в Него  · n=1  · bhagavadgita-radha
 
@@ -12642,7 +12642,7 @@
 
 ### `tanuketakasaMrAjannIlaBramarakuntalAm` — tanuketakasaṃrājannīlabhramarakuntalām  (n=1)
 
-- Локоны на голове [девы] сияли, подобно чёрным пчелам на цветах кетаки  · n=1  · devi-gita
+- Локоны на голове [девы] сияли, подобно черным пчелам на цветах кетаки  · n=1  · devi-gita
 
 ### `tanulatAviniveSitavigrahA` — tanulatāviniveśitavigrahā  (n=1)
 
@@ -14071,7 +14071,7 @@
 
 - предавался подвижничеству  · n=1  · mahabharata-aranyakaparva
 - вершил подвижничество  · n=1  · mahabharata-ashvamedhikaparva
-- предаётся подвижничеству  · n=1  · mahabharata-ashramavasikaparva
+- предается подвижничеству  · n=1  · mahabharata-ashramavasikaparva
 
 ### `tapaso` — tapaso  (n=7)
 
@@ -14673,7 +14673,7 @@
 - богатая подвигами  · n=2  · mahabharata-adiparva, mahabharata-udyogaparva
 - богатых подвижничеством  · n=2  · buddhacharita, mahabharata-virataparva
 - отшельника  · n=2  · buddhacharita, mahabharata-shalyaparva
-- чьё богатство — пыл подвижничества  · n=2  · mahabharata-ashvamedhikaparva
+- чье богатство — пыл подвижничества  · n=2  · mahabharata-ashvamedhikaparva
 - богатых (рассуждениями) о религиозном благочестии  · n=1  · mahabharata-adiparva
 - аскеты  · n=1  · mahabharata-adiparva
 - мудрецы  · n=1  · ramayana-ayodhyakanda
@@ -14696,7 +14696,7 @@
 - благочестивый отшельник  · n=1  · mahabharata-aranyakaparva
 - обладающий богатством подвигов  · n=1  · mahabharata-adiparva
 - исполненных благочестия  · n=1  · mahabharata-adiparva
-- чьё богатство состояло лишь в подвигах  · n=1  · mahabharata-adiparva
+- чье богатство состояло лишь в подвигах  · n=1  · mahabharata-adiparva
 - о богатый аскетическими подвигами  · n=1  · mahabharata-adiparva
 - отшельников  · n=1  · mahabharata-adiparva
 - отшельниками  · n=1  · mahabharata-adiparva
@@ -14711,7 +14711,7 @@
 - Тапас  · n=1  · mahabharata-ashvamedhikaparva
 - отшельник tapodhana  · n=1  · mahabharata-ashvamedhikaparva
 - обращения tapodhana  · n=1  · mahabharata-ashvamedhikaparva
-- чьё богатство составляет пыл подвижничества  · n=1  · mahabharata-ashvamedhikaparva
+- чье богатство составляет пыл подвижничества  · n=1  · mahabharata-ashvamedhikaparva
 - богатые пылом подвижничества  · n=1  · mahabharata-ashvamedhikaparva
 - исполненный святого рвения подвижник  · n=1  · raghuvamsha
 - суровые подвижники  · n=1  · raghuvamsha
@@ -14730,7 +14730,7 @@
 ### `tapoDanaiH` — tapodhanaiḥ  (n=7)
 
 - подвижниками  · n=2  · ramayana-aranyakanda, mahabharata-adiparva
-- чьё богатство составляет пыл подвижничества  · n=2  · mahabharata-ashvamedhikaparva
+- чье богатство составляет пыл подвижничества  · n=2  · mahabharata-ashvamedhikaparva
 - обладающие сокровищем тапаса  · n=1  · mahabharata-aranyakaparva
 - отшельниками  · n=1  · mahabharata-aranyakaparva
 - богатыми пылом подвижничества  · n=1  · mahabharata-ashramavasikaparva
@@ -14739,7 +14739,7 @@
 
 - подвижником  · n=1  · ramayana-balakanda
 - подвижнику  · n=1  · ramayana-balakanda
-- чьё богатство в подвижничестве  · n=1  · mahabharata-aranyakaparva
+- чье богатство в подвижничестве  · n=1  · mahabharata-aranyakaparva
 - богатый подвижничеством  · n=1  · mahabharata-mausalaparva
 
 ### `tapoDane` — tapodhane  (n=1)
@@ -15324,7 +15324,7 @@
 - предавалась  · n=1  · mahabharata-aranyakaparva
 - пылающее  · n=1  · rigveda
 - обижен  · n=1  · mahabharata-adiparva
-- совершённый  · n=1  · gitarthasamgraha-abhinavagupta
+- совершенный  · n=1  · gitarthasamgraha-abhinavagupta
 - проаскетированную  · n=1  · bhagavadgita-burba
 - проаскетированная  · n=1  · bhagavadgita-burba
 - умерщвленія  · n=1  · bhagavadgity
@@ -16852,7 +16852,7 @@
 - удовлетворил  · n=1  · mahabharata-adiparva
 - напоил  · n=1  · mahabharata-adiparva
 - напоенный  · n=1  · mahabharata-adiparva
-- напоённый  · n=1  · mahabharata-adiparva
+- напоенный  · n=1  · mahabharata-adiparva
 - Обделил  · n=1  · ramayana-ayodhyakanda
 - исполняя все желания  · n=1  · ramayana-ayodhyakanda
 - почтить возлиянием  · n=1  · ramayana-aranyakanda
@@ -17735,7 +17735,7 @@
 - поскольку  · n=1  · nyaya-bhashya
 - указывает на то, что  · n=1  · nyaya-bhashya
 - в силу этого  · n=1  · mahabharata-ashvamedhikaparva
-- я тебе ещё  · n=1  · mahabharata-ashvamedhikaparva
+- я тебе еще  · n=1  · mahabharata-ashvamedhikaparva
 - Выше  · n=1  · mahabharata-ashvamedhikaparva
 - а поэтому  · n=1  · mahabharata-ashvamedhikaparva
 - за  · n=1  · atharvaveda
@@ -17912,7 +17912,7 @@
 - В него  · n=2  · bhagavadgita-burba, atharvaveda
 - в тебе  · n=2  · tai-up, kena-up
 - в той  · n=1  · mahabharata-adiparva
-- в нём  · n=1  · mahabharata-adiparva
+- в нем  · n=1  · mahabharata-adiparva
 - Между тем  · n=1  · mahabharata-adiparva
 - В этой  · n=1  · ramayana-ayodhyakanda
 - Во время  · n=1  · ramayana-ayodhyakanda
@@ -18168,7 +18168,7 @@
 - другой  · n=1  · raghuvamsha
 - У нее  · n=1  · atharvaveda
 - нее  · n=1  · atharvaveda
-- её  · n=1  · chaurapanchashika
+- ее  · n=1  · chaurapanchashika
 
 ### `tasyABUtAM` — tasyābhūtāṃ  (n=1)
 
@@ -18192,7 +18192,7 @@
 - Ее  · n=3  · ramayana-aranyakanda, yoga-sutry_vyasa-bhashya
 - этой  · n=3  · mahabharata-aranyakaparva, rigveda, rigveda
 - нее  · n=3  · rigveda, kama-sutra
-- её  · n=3  · devi-gita, chaurapanchashika
+- ее  · n=3  · devi-gita, chaurapanchashika
 - ея  · n=3  · megha-duta
 - она  · n=2  · ramayana-ayodhyakanda, kumarasambhava
 - ней  · n=2  · ramayana-ayodhyakanda, ramayana-sundarakanda
@@ -18541,7 +18541,7 @@
 - Меж тем  · n=1  · mahabharata-shalyaparva
 - на него  · n=1  · mahabharata-shalyaparva
 - А у Авикшита был сын  · n=1  · mahabharata-ashvamedhikaparva
-- её  · n=1  · mahabharata-ashvamedhikaparva
+- ее  · n=1  · mahabharata-ashvamedhikaparva
 - для дживы  · n=1  · mahabharata-ashvamedhikaparva
 - таким образом  · n=1  · devi-gita
 - Того  · n=1  · devi-gita
@@ -18558,7 +18558,7 @@
 - к этому купцу  · n=1  · shukasaptati
 - пришельцу  · n=1  · shukasaptati
 - нем  · n=1  · yoga-sutry_vyasa-bhashya
-- Её  · n=1  · yoga-sutry
+- Ее  · n=1  · yoga-sutry
 - йога  · n=1  · yoga-sutry_sharma
 - к  · n=1  · amaru-shataka
 - Него  · n=1  · vedartha-samgraha_ramanuja
@@ -18727,7 +18727,7 @@
 - пронизано  · n=3  · bhagavadgita-sementsov, ramanuja_gitabhashya
 - ТО  · n=3  · bhagavadgita-1914
 - такая  · n=3  · bhagavadgita-1914
-- её  · n=3  · bhagavadgity, bhagavadgita-smirnov, devi-gita
+- ее  · n=3  · bhagavadgity, bhagavadgita-smirnov, devi-gita
 - Об этом  · n=3  · mai-up, rigveda
 - решение  · n=2  · ramayana-ayodhyakanda
 - от всего  · n=2  · ramayana-ayodhyakanda
@@ -18831,7 +18831,7 @@
 - высшее  · n=1  · ramanuja_gitabhashya
 - проникнуто  · n=1  · bhagavadgita-1914
 - ни единого  · n=1  · bhagavadgita-1914
-- распростёрта  · n=1  · bhagavadgity
+- распростерта  · n=1  · bhagavadgity
 - зачем  · n=1  · bhagavadgita-erman
 - в том  · n=1  · bhagavadgita-erman
 - «То»  · n=1  · bhagavadgita-erman
@@ -19152,7 +19152,7 @@
 - потому  · n=2  · mahabharata-aranyakaparva, mahabharata-karnaparva
 - протянутой  · n=2  · rigveda
 - пронизана  · n=2  · bhagavadgita-burba, bhagavadgita-prabhupada
-- распростёрта  · n=2  · bhagavadgita-smirnov
+- распростерта  · n=2  · bhagavadgita-smirnov
 - И  · n=2  · mahabharata-virataparva, shukasaptati
 - Бхараты  · n=1  · ramayana-ayodhyakanda
 - исполненном  · n=1  · manavadharmashastra
@@ -19181,7 +19181,7 @@
 - проявилось  · n=1  · bhagavadgita-1914
 - распространенъ  · n=1  · bhagavadgity
 - проникнут  · n=1  · bhagavadgita-erman
-- распростёрт  · n=1  · bhagavadgita-smirnov
+- распростерт  · n=1  · bhagavadgita-smirnov
 - пронизал  · n=1  · bhagavadgita-sementsov
 - распустился  · n=1  · bhagavadgita-1909
 - единый  · n=1  · bhagavadgita-1909
@@ -19628,7 +19628,7 @@
 - пронизано  · n=4  · bhagavadgita-prabhupada, bhagavadgita-burba, ramanuja_gitabhashya
 - проникнут  · n=3  · bhagavadgita-1914, mahabharata-bhishmaparva
 - распространена  · n=3  · bhagavadgita-1788, bhagavadgity
-- распростёрта  · n=3  · bhagavadgita-smirnov, bhagavadgity
+- распростерта  · n=3  · bhagavadgita-smirnov, bhagavadgity
 - связанное/растянутое  · n=2  · bhagavadgita-burba
 - пронизана  · n=2  · bhagavadgita-burba, bhagavadgita-prabhupada
 - натянутой  · n=1  · rigveda
@@ -21086,7 +21086,7 @@
 - таковы  · n=1  · shukasaptati
 - на этом  · n=1  · yoga-sutry_vyasa-bhashya
 - В этом случае  · n=1  · yoga-sutry_vyasa-bhashya
-- В Нём  · n=1  · yoga-sutry
+- В Нем  · n=1  · yoga-sutry
 - этом  · n=1  · yoga-sutry
 - Он  · n=1  · yoga-sutry_sharma
 - к тому  · n=1  · yoga-sutry_zagumennov
@@ -21501,7 +21501,7 @@
 
 - все это  · n=3  · mahabharata-udyogaparva, mahabharata-shalyaparva, mahabharata-ashvamedhikaparva
 - обо всем том  · n=1  · mahabharata-adiparva
-- обо всём этом  · n=1  · devi-gita
+- обо всем этом  · n=1  · devi-gita
 
 ### `tatsarvaM` — tatsarvaṃ  (n=9)
 
@@ -22762,7 +22762,7 @@
 - Своими  · n=2  · rigveda, rigveda
 - Тобой  · n=2  · rigveda, bhagavadgita-sharma
 - свое  · n=2  · rigveda
-- твоё  · n=2  · bhagavadgita-smirnov, mahabharata-sabhaparva
+- твое  · n=2  · bhagavadgita-smirnov, mahabharata-sabhaparva
 - твоимъ  · n=2  · bhagavadgita-1788
 - тебѣ  · n=2  · bhagavadgita-1788, bhagavadgita-1909
 - у Тебя  · n=2  · bhagavadgita-sementsov, bhagavadgita-radha
@@ -22777,7 +22777,7 @@
 - под твою  · n=1  · mahabharata-dronaparva
 - перед тобою  · n=1  · mahabharata-udyogaparva
 - Твоею  · n=1  · bhagavadgita-1914
-- Твоё  · n=1  · bhagavadgity
+- Твое  · n=1  · bhagavadgity
 - твоихъ  · n=1  · bhagavadgita-1788
 - Тебѣ  · n=1  · bhagavadgita-1909
 - Твоимъ  · n=1  · bhagavadgita-1909
@@ -23372,7 +23372,7 @@
 
 ### `tayApahftacetasAm` — tayāpahṛtacetasām  (n=2)
 
-- чьё сознание увлечено этим  · n=1  · bhagavadgita-smirnov
+- чье сознание увлечено этим  · n=1  · bhagavadgita-smirnov
 - увлекается этим  · n=1  · bhagavadgita-smirnov
 
 ### `tayaH` — tayaḥ  (n=1)
@@ -23602,7 +23602,7 @@
 - ими  · n=4  · mahabharata-aranyakaparva, mahabharata-bhishmaparva, rigveda, atharvaveda
 - от тебя  · n=4  · mahabharata-adiparva, rigveda, mahabharata-striparva
 - Тебя  · n=4  · bhagavadgita-sementsov, rigveda, ramanuja_gitabhashya
-- твоё  · n=3  · bhagavadgita-smirnov, mahabharata-shantiparva
+- твое  · n=3  · bhagavadgita-smirnov, mahabharata-shantiparva
 - в тебе  · n=3  · ramayana-ayodhyakanda, ramayana-sundarakanda, rigveda
 - оба  · n=3  · ramayana-ayodhyakanda, mahabharata-bhishmaparva, mahabharata-karnaparva
 - Для тебя  · n=3  · ramayana-ayodhyakanda, atharvaveda
@@ -24790,7 +24790,7 @@
 
 ### `tenAntareRABimanyoryantApAsArayadraTam` — tenāntareṇābhimanyoryantāpāsārayadratham  (n=1)
 
-- воспользовавшись этим случаем, возница Абхиманью отвёл колесницу  · n=1  · mahabharata-dronaparva
+- воспользовавшись этим случаем, возница Абхиманью отвел колесницу  · n=1  · mahabharata-dronaparva
 
 ### `tenAnucareRa` — tenānucareṇa  (n=1)
 
@@ -24991,7 +24991,7 @@
 - согласно тому  · n=1  · mahabharata-shalyaparva
 - отсюда  · n=1  · nyaya-bhashya
 - То  · n=1  · mahabharata-ashvamedhikaparva
-- её  · n=1  · mahabharata-ashvamedhikaparva
+- ее  · n=1  · mahabharata-ashvamedhikaparva
 - и  · n=1  · devi-gita
 - при помощи того  · n=1  · mahabharata-sabhaparva
 - благодаря этому  · n=1  · br-up
@@ -26850,7 +26850,7 @@
 
 ### `tilamaDya` — tilamadhya  (n=1)
 
-- кунжутных зёрнах  · n=1  · yotat-up
+- кунжутных зернах  · n=1  · yotat-up
 
 ### `tilamiSrA` — tilamiśrā  (n=1)
 
@@ -27657,7 +27657,7 @@
 - горизонтально  · n=2  · ramayana-sundarakanda
 - наклонный  · n=2  · kama-sutra
 - в поперечном направлении  · n=2  · mahabharata-dronaparva, mahabharata-udyogaparva
-- поперёк  · n=2  · mahabharata-ashvamedhikaparva, devi-gita
+- поперек  · n=2  · mahabharata-ashvamedhikaparva, devi-gita
 - По сторонам  · n=1  · ramayana-sundarakanda
 - по сторонам  · n=1  · ramayana-sundarakanda
 - вокруг  · n=1  · mahabharata-aranyakaparva
@@ -30239,12 +30239,12 @@
 
 ### `traiguRya-vizaya` — traiguṇya-viṣaya  (n=1)
 
-- в царстве трёх гун  · n=1  · bhagavadgity
+- в царстве трех гун  · n=1  · bhagavadgity
 
 ### `traiguRyavizayA` — traiguṇyaviṣayā  (n=5)
 
-- относятся к области трёх гун  · n=1  · bhagavadgita-smirnov
-- относятся к трём гунам  · n=1  · bhagavadgita-smirnov
+- относятся к области трех гун  · n=1  · bhagavadgita-smirnov
+- относятся к трем гунам  · n=1  · bhagavadgita-smirnov
 - гуны  · n=1  · bhagavadgita-smirnov
 - связана с тремя гунами материальной природы  · n=1  · bhagavadgita-prabhupada
 - касающиеся трех гун  · n=1  · bhagavadgita-prabhupada
@@ -30384,7 +30384,7 @@
 
 ### `trailokyanAyaka` — trailokyanāyaka  (n=2)
 
-- повелителем трёх миров  · n=1  · devi-gita
+- повелителем трех миров  · n=1  · devi-gita
 - повелителем трех миров  · n=1  · devi-gita
 
 ### `trailokyapAvanI` — trailokyapāvanī  (n=2)
@@ -30576,9 +30576,9 @@
 - знающие три Веды  · n=1  · manavadharmashastra
 - Знатоки трех [вед]  · n=1  · gitarthasamgraha-abhinavagupta
 - знатоки тройной веды  · n=1  · ramanuja_gitabhashya
-- Знатоки трёх Вед  · n=1  · bhagavadgity
+- Знатоки трех Вед  · n=1  · bhagavadgity
 - Ведающие тройственное знание  · n=1  · bhagavadgita-erman
-- Знатоки трёх (Вед)  · n=1  · bhagavadgita-smirnov
+- Знатоки трех (Вед)  · n=1  · bhagavadgita-smirnov
 - Знатоки трех Вед  · n=1  · bhagavadgita-sementsov
 - тремя путями  · n=1  · bhagavadgita-sharma
 - три Веды  · n=1  · bhagavadgita-prabhupada
@@ -30903,7 +30903,7 @@
 - дхарма трех Вед  · n=1  · mahabharata-aranyakaparva
 - тройной дхарме  · n=1  · gitarthasamgraha-abhinavagupta
 - тройной дхармы  · n=1  · ramanuja_gitabhashya
-- закону трёх Вед  · n=1  · bhagavadgity
+- закону трех Вед  · n=1  · bhagavadgity
 - трех Вед закону  · n=1  · bhagavadgita-erman
 - тройственному закону  · n=1  · bhagavadgita-smirnov
 - дхармой трех Вед  · n=1  · bhagavadgita-sementsov
@@ -30947,7 +30947,7 @@
 - трем  · n=3  · manavadharmashastra, mahabharata-bhishmaparva, mahabharata-ashvamedhikaparva
 - трижды  · n=2  · rigveda, rigveda
 - троицу  · n=2  · buddhacharita, bhagavadgita-burba
-- трёх  · n=2  · devi-gita
+- трех  · n=2  · devi-gita
 - триста  · n=1  · ramayana-ayodhyakanda
 - троих  · n=1  · manavadharmashastra
 - тройку  · n=1  · manavadharmashastra
@@ -30990,7 +30990,7 @@
 
 ### `trayaM` — trayaṃ  (n=2)
 
-- трёх  · n=1  · bhagavadgita-smirnov
+- трех  · n=1  · bhagavadgita-smirnov
 - три  · n=1  · br-up
 
 ### `trayaSca` — trayaśca  (n=1)
@@ -31290,7 +31290,7 @@
 - трое  · n=4  · manavadharmashastra, bhagavadgita-sementsov, mahabharata-shalyaparva
 - Трижды  · n=3  · rigveda, rigveda
 - Три  · n=2  · rigveda, mahabharata-dronaparva
-- трёх  · n=2  · bhagavadgita-smirnov
+- трех  · n=2  · bhagavadgita-smirnov
 - три сотни  · n=1  · mahabharata-adiparva
 - двадцать четыре  · n=1  · mahabharata-adiparva
 - по три  · n=1  · manavadharmashastra
@@ -31437,7 +31437,7 @@
 - троими  · n=1  · mahabharata-bhishmaparva
 - каждого  · n=1  · mahabharata-dronaparva
 - тремя стрелами  · n=1  · mahabharata-dronaparva
-- трёх  · n=1  · bhagavadgity
+- трех  · n=1  · bhagavadgity
 - Онѣ  · n=1  · bhagavadgita-1909
 - тройственными  · n=1  · bhagavadgita-prabhupada
 - втроем  · n=1  · mahabharata-sabhaparva
@@ -31590,12 +31590,12 @@
 - три  · n=2  · mahabharata-aranyakaparva, bhagavadgita-sharma
 - тремя  · n=2  · ch-up
 - Трояко  · n=2  · rigveda
-- трёхгунный  · n=2  · mahabharata-ashvamedhikaparva
-- трёхгунной  · n=2  · mahabharata-ashvamedhikaparva
+- трехгунный  · n=2  · mahabharata-ashvamedhikaparva
+- трехгунной  · n=2  · mahabharata-ashvamedhikaparva
 - Тремя способами  · n=2  · mahabharata-ashvamedhikaparva
 - Тройственны  · n=2  · mahabharata-ashvamedhikaparva
 - троичны  · n=2  · mahabharata-ashvamedhikaparva
-- трёхвидна  · n=2  · mahabharata-ashvamedhikaparva
+- трехвидна  · n=2  · mahabharata-ashvamedhikaparva
 - три типа  · n=2  · hatha-yoga-pradipika, shukasaptati
 - тремя потоками  · n=1  · mahabharata-aranyakaparva
 - трех родов  · n=1  · mahabharata-adiparva
@@ -32471,7 +32471,7 @@
 - трех гун  · n=3  · mahabharata-ashvamedhikaparva
 - Трехгунное  · n=3  · sankhya-karika
 - тройной  · n=2  · kumarasambhava
-- трёх гун  · n=2  · mahabharata-ashvamedhikaparva
+- трех гун  · n=2  · mahabharata-ashvamedhikaparva
 - трехгунное  · n=2  · sankhya-karika
 - тройная  · n=1  · mahabharata-adiparva
 - Три качества  · n=1  · manavadharmashastra
@@ -32493,7 +32493,7 @@
 
 ### `triguRaM` — triguṇaṃ  (n=1)
 
-- состоящее из трёх гун  · n=1  · mahabharata-ashvamedhikaparva
+- состоящее из трех гун  · n=1  · mahabharata-ashvamedhikaparva
 
 ### `triguRam` — triguṇam  (n=5)
 
@@ -32596,7 +32596,7 @@
 
 ### `trikUwavat` — trikūṭavat  (n=2)
 
-- Трёхвершинная  · n=1  · mahabharata-ashvamedhikaparva
+- Трехвершинная  · n=1  · mahabharata-ashvamedhikaparva
 - Трехвершинная  · n=1  · mahabharata-ashvamedhikaparva
 
 ### `trika` — trika  (n=5)
@@ -32672,7 +32672,7 @@
 
 - Трехглазый  · n=2  · ramayana-balakanda, kumarasambhava
 - незавидный  · n=1  · kumarasambhava
-- трёхокую  · n=1  · devi-gita
+- трехокую  · n=1  · devi-gita
 - треоком  · n=1  · yotat-up
 - трехглазом  · n=1  · kai-up
 
@@ -32904,7 +32904,7 @@
 
 ### `tripaTi` — tripathi  (n=1)
 
-- трёх путей  · n=1  · yotat-up
+- трех путей  · n=1  · yotat-up
 
 ### `tripaYcASI` — tripañcāśī  (n=2)
 
@@ -33450,7 +33450,7 @@
 - трех целей  · n=1  · kama-sutra
 - трех видов  · n=1  · kama-sutra
 - трех ценностей  · n=1  · mahabharata-bhishmaparva
-- трёх ценностей  · n=1  · mahabharata-bhishmaparva
+- трех ценностей  · n=1  · mahabharata-bhishmaparva
 - трех основных факторов  · n=1  · mahabharata-dronaparva
 - три  · n=1  · buddhacharita
 - три цели  · n=1  · gitarthasamgraha-abhinavagupta
@@ -33468,7 +33468,7 @@
 
 ### `trivarganiratAH` — trivarganiratāḥ  (n=1)
 
-- пекущиеся о трёх житейских целях  · n=1  · mahabharata-ashvamedhikaparva
+- пекущиеся о трех житейских целях  · n=1  · mahabharata-ashvamedhikaparva
 
 ### `trivargaparivarjita` — trivargaparivarjita  (n=1)
 
@@ -33625,7 +33625,7 @@
 - три вида  · n=6  · bhagavadgita-sharma, mahabharata-adiparva, bhagavadgita-prabhupada, nyaya-bhashya, sankhya-karika
 - три  · n=5  · bhagavadgita-sharma, devi-gita, ramayana-ayodhyakanda
 - троичный  · n=5  · sankhya-karika
-- трёх видов  · n=4  · mahabharata-adiparva, mahabharata-bhishmaparva, devi-gita, yoga-sutry
+- трех видов  · n=4  · mahabharata-adiparva, mahabharata-bhishmaparva, devi-gita, yoga-sutry
 - тройном  · n=3  · mahabharata-adiparva, mahabharata-bhishmaparva, bhagavadgita-erman
 - трех  · n=3  · gitarthasamgraha-abhinavagupta, bhagavadgita-sharma, nyaya-bhashya
 - тройственное  · n=2  · mahabharata-adiparva, mahabharata-bhishmaparva
@@ -33672,7 +33672,7 @@
 ### `triviDaH` — trividhaḥ  (n=11)
 
 - трех видов  · n=2  · ramanuja_gitabhashya, bhagavadgita-erman
-- трёх видов  · n=2  · bhagavadgita-erman, bhagavadgita-smirnov
+- трех видов  · n=2  · bhagavadgita-erman, bhagavadgita-smirnov
 - втройне  · n=1  · mahabharata-aranyakaparva
 - троякая  · n=1  · gitarthasamgraha-abhinavagupta
 - троякой  · n=1  · bhagavadgita-smirnov
@@ -33783,7 +33783,7 @@
 
 ### `triyakza` — triyakṣa  (n=1)
 
-- трёхокого  · n=1  · yotat-up
+- трехокого  · n=1  · yotat-up
 
 ### `triyava` — triyava  (n=1)
 
@@ -35665,7 +35665,7 @@
 
 ### `turIyaka` — turīyaka  (n=1)
 
-- четвёртая  · n=1  · devi-gita
+- четвертая  · n=1  · devi-gita
 
 ### `turIyam` — turīyam  (n=6)
 
@@ -36796,7 +36796,7 @@
 - порадуете  · n=1  · mahabharata-aranyakaparva
 - веселится  · n=1  · mahabharata-aranyakaparva
 - рад  · n=1  · mahabharata-aranyakaparva
-- удовлетворённость  · n=1  · bhagavadgita-smirnov
+- удовлетворенность  · n=1  · bhagavadgita-smirnov
 
 ### `tuzwida` — tuṣṭida  (n=1)
 
@@ -38048,7 +38048,7 @@
 
 ### `tvadudBavAn` — tvadudbhavān  (n=2)
 
-- тобой порождённых  · n=2  · devi-gita
+- тобой порожденных  · n=2  · devi-gita
 
 ### `tvadupagamajaM` — tvadupagamajaṃ  (n=1)
 
@@ -40039,7 +40039,7 @@
 - отрешения  · n=1  · bhagavadgita-burba
 - об отрешенности  · n=1  · bhagavadgita-burba
 - освобождения  · n=1  · bhagavadgita-1914
-- отрешённость  · n=1  · bhagavadgita-smirnov
+- отрешенность  · n=1  · bhagavadgita-smirnov
 - отрешенье  · n=1  · bhagavadgita-smirnov
 - уступчивостію  · n=1  · bhagavadgita-1788
 - Тйага  · n=1  · bhagavadgita-1788
@@ -40174,7 +40174,7 @@
 
 - щедрый  · n=4  · kama-sutra
 - отрешенный  · n=4  · bhagavadgita-burba, gitarthasamgraha-abhinavagupta, bhagavadgita-sharma
-- отрешённый  · n=3  · bhagavadgity, bhagavadgita-smirnov
+- отрешенный  · n=3  · bhagavadgity, bhagavadgita-smirnov
 - щедрым  · n=2  · kama-sutra
 - покинув  · n=2  · ramanuja_gitabhashya, bhagavadgita-sementsov
 - отреченным  · n=2  · ramanuja_gitabhashya, bhagavadgita-sementsov
@@ -40192,7 +40192,7 @@
 - покидает  · n=1  · buddhacharita
 - можно утратить  · n=1  · buddhacharita
 - отреченный  · n=1  · gitarthasamgraha-abhinavagupta
-- отрешённым  · n=1  · bhagavadgita-smirnov
+- отрешенным  · n=1  · bhagavadgita-smirnov
 - Тьяги  · n=1  · bhagavadgita-1909
 - Тьяга  · n=1  · bhagavadgita-1909
 - отрекся  · n=1  · bhagavadgita-1909

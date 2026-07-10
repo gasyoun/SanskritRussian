@@ -181,7 +181,7 @@
 - «Я»  · n=1  · ch-up
 - появился  · n=1  · mahabharata-ashvamedhikaparva
 - вышел  · n=1  · mahabharata-ashvamedhikaparva
-- придёт  · n=1  · devi-gita
+- придет  · n=1  · devi-gita
 - пусть придет  · n=1  · atharvaveda
 - уходите  · n=1  · atharvaveda
 - вытяни  · n=1  · atharvaveda
@@ -1668,13 +1668,13 @@
 
 - три часа  · n=2  · hatha-yoga-pradipika
 - восьмую часть суток  · n=1  · yotat-up
-- трёх часов  · n=1  · yotat-up
+- трех часов  · n=1  · yotat-up
 - на четверть ночи  · n=1  · megha-duta
 - четверть ночи или одна стража  · n=1  · megha-duta
 
 ### `yAmamAtram` — yāmamātram  (n=1)
 
-- в течение трёх часов  · n=1  · yotat-up
+- в течение трех часов  · n=1  · yotat-up
 
 ### `yAman` — yāman  (n=42)
 
@@ -2394,7 +2394,7 @@
 - станешь  · n=4  · gitarthasamgraha-abhinavagupta, ramanuja_gitabhashya, bhagavadgity, bhagavadgita-radha
 - падешь  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - уклонишься  · n=2  · ramanuja_gitabhashya, bhagavadgita-sementsov
-- впадёшь  · n=2  · bhagavadgity, bhagavadgita-smirnov
+- впадешь  · n=2  · bhagavadgity, bhagavadgita-smirnov
 - будешь  · n=2  · bhagavadgita-1788, bhagavadgita-1909
 - уйдешь  · n=1  · ramayana-ayodhyakanda
 - ушел  · n=1  · ramayana-ayodhyakanda
@@ -2809,7 +2809,7 @@
 - движется  · n=21  · rigveda, rigveda, rigveda, mahabharata-svargarohanikaparva, rigveda, rigveda, buddhacharita, rigveda, bhagavadgita-sharma, rigveda, br-up, rigveda, kat-up, shv-up
 - достигает  · n=21  · gitarthasamgraha-abhinavagupta, bhagavadgita-radha, bhagavadgita-sharma, bhagavadgita-prabhupada, bhagavadgita-burba, mahabharata-bhishmaparva, bhagavadgity, hatha-yoga-pradipika, brb-up
 - приходит  · n=14  · rigveda, bhagavadgity, bhagavadgita-smirnov, bhagavadgita-prabhupada, rigveda, mahabharata-dronaparva, ramanuja_gitabhashya, bhagavadgita-erman, bhagavadgita-sementsov
-- идёт  · n=7  · bhagavadgita-smirnov, bhagavadgity
+- идет  · n=7  · bhagavadgita-smirnov, bhagavadgity
 - едет  · n=6  · rigveda, ramayana-ayodhyakanda, rigveda, rigveda, atharvaveda
 - проходит  · n=5  · rigveda, ramayana-ayodhyakanda, rigveda, shatakatrayam
 - отправляется  · n=5  · rigveda, devi-gita, rigveda
@@ -8263,7 +8263,7 @@
 - удовлетворенный случайным приобретением  · n=1  · bhagavadgita-burba
 - ДОВОЛЬНЫЙ СЛУЧАЙНО приходящими  · n=1  · ramanuja_gitabhashya
 - довольный достигнутым  · n=1  · bhagavadgita-1914
-- удовлетворённый нежданно полученным  · n=1  · bhagavadgity
+- удовлетворенный нежданно полученным  · n=1  · bhagavadgity
 - доволенъ бываетъ всѣмъ, что бы случай ему ни доставилъ  · n=1  · bhagavadgita-1788
 
 ### `yadfcCA-lABa-saMtuzwaH` — yadṛcchā-lābha-saṃtuṣṭaḥ  (n=1)
@@ -8287,7 +8287,7 @@
 ### `yadfcCAlABasantuzwaH` — yadṛcchālābhasantuṣṭaḥ  (n=6)
 
 - Довольный тем, что достанется на его долю  · n=1  · bhagavadgita-erman
-- удовлетворённый нежданно полученным  · n=1  · bhagavadgita-smirnov
+- удовлетворенный нежданно полученным  · n=1  · bhagavadgita-smirnov
 - удовлетворенный нежданно полученным  · n=1  · bhagavadgita-smirnov
 - довольный тем, что приходит само собой  · n=1  · bhagavadgita-sharma
 - довольствующийся тем, что приходит само собой  · n=1  · bhagavadgita-prabhupada
@@ -9630,7 +9630,7 @@
 
 - жертвоприношениями поддерживаемые  · n=1  · mahabharata-bhishmaparva
 - жертвою укрепленные  · n=1  · ramanuja_gitabhashya
-- укреплённые жертвой  · n=1  · bhagavadgita-smirnov
+- укрепленные жертвой  · n=1  · bhagavadgita-smirnov
 
 ### `yajYaBAvita` — yajñabhāvita  (n=4)
 
@@ -13612,7 +13612,7 @@
 - в каком  · n=1  · mahabharata-ashvamedhikaparva
 - в какое  · n=1  · mahabharata-ashvamedhikaparva
 - которому  · n=1  · mahabharata-ashvamedhikaparva
-- чьём  · n=1  · mahabharata-ashvamedhikaparva
+- чьем  · n=1  · mahabharata-ashvamedhikaparva
 - в этом  · n=1  · mahabharata-ashvamedhikaparva
 - На ком  · n=1  · br-up
 - У кого  · n=1  · rigveda
@@ -14178,7 +14178,7 @@
 - себя обуздав  · n=1  · ramanuja_gitabhashya
 - обуздавший себя  · n=1  · ramanuja_gitabhashya
 - смиривший дух  · n=1  · bhagavadgita-erman
-- самоуглублённый  · n=1  · bhagavadgita-smirnov
+- самоуглубленный  · n=1  · bhagavadgita-smirnov
 - познавшіе свой духъ  · n=1  · bhagavadgita-1909
 - укротилъ  · n=1  · bhagavadgita-1909
 - идущие путем самоосознания  · n=1  · bhagavadgita-prabhupada
@@ -14281,7 +14281,7 @@
 - обуздав  · n=1  · bhagavadgity
 - обуздавшие  · n=1  · bhagavadgity
 - Укротивший  · n=1  · bhagavadgity
-- укрощённый  · n=1  · bhagavadgity
+- укрощенный  · n=1  · bhagavadgity
 - укротивший  · n=1  · bhagavadgita-smirnov
 - покорены  · n=1  · bhagavadgita-1788
 - обузданіемъ  · n=1  · bhagavadgita-1788
@@ -14501,7 +14501,7 @@
 
 - обуздавшему мысль  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - усмиряемый ум  · n=1  · gitarthasamgraha-abhinavagupta
-- с укрощённым сознанием  · n=1  · bhagavadgita-smirnov
+- с укрощенным сознанием  · n=1  · bhagavadgita-smirnov
 - сосредоточенный ум  · n=1  · bhagavadgita-sharma
 - тот, чей ум обуздан  · n=1  · bhagavadgita-prabhupada
 - непрерывно думает о своем возлюбленном Господе  · n=1  · bhagavadgita-prabhupada
@@ -15877,7 +15877,7 @@
 ### `yatrakvApi` — yatra kvāpi  (n=3)
 
 - в  · n=1  · gitarthasamgraha-abhinavagupta
-- где придётся  · n=1  · shatakatrayam
+- где придется  · n=1  · shatakatrayam
 - где угодно  · n=1  · shatakatrayam-serebryakov
 
 ### `yatrasAyaNgfha` — yatrasāyaṅgṛha  (n=1)
@@ -17107,7 +17107,7 @@
 - ринулся  · n=2  · mahabharata-dronaparva, mahabharata-karnaparva
 - ступал  · n=2  · mahabharata-ashramavasikaparva, mahabharata-mahaprasthanikaparva
 - отправились  · n=1  · mahabharata-shantiparva
-- пошёл  · n=1  · mahabharata-shantiparva
+- пошел  · n=1  · mahabharata-shantiparva
 - покинул  · n=1  · ramayana-ayodhyakanda
 - Выслушивал  · n=1  · ramayana-ayodhyakanda
 - Проезжая  · n=1  · ramayana-ayodhyakanda
@@ -17145,7 +17145,7 @@
 - играть  · n=1  · kumarasambhava
 - прилетела  · n=1  · rigveda
 - достигла  · n=1  · mahabharata-shalyaparva
-- пришёл  · n=1  · mahabharata-ashvamedhikaparva
+- пришел  · n=1  · mahabharata-ashvamedhikaparva
 - исполнился  · n=1  · mahabharata-ashvamedhikaparva
 - ходить  · n=1  · raghuvamsha
 - погружало  · n=1  · raghuvamsha
@@ -17866,7 +17866,7 @@
 - нихъ  · n=1  · bhagavadgity
 - Те, ради кого  · n=1  · bhagavadgita-erman
 - Но те  · n=1  · bhagavadgita-erman
-- чьё  · n=1  · bhagavadgita-smirnov
+- чье  · n=1  · bhagavadgita-smirnov
 - тѣми  · n=1  · bhagavadgita-1788
 - тѣ  · n=1  · bhagavadgita-1788
 - ихъ  · n=1  · bhagavadgita-1788
@@ -18821,7 +18821,7 @@
 - Йогом  · n=2  · bhagavadgita-1914
 - Іога  · n=2  · bhagavadgita-1909
 - сопряженным  · n=1  · mahabharata-bhishmaparva
-- сопряжённый  · n=1  · mahabharata-bhishmaparva
+- сопряженный  · n=1  · mahabharata-bhishmaparva
 - к сопряжению обращенным  · n=1  · mahabharata-bhishmaparva
 - йогической практике  · n=1  · mahabharata-bhishmaparva
 - сопряженных  · n=1  · mahabharata-bhishmaparva
@@ -19154,7 +19154,7 @@
 
 ### `yoga-DAraRAm` — yoga-dhāraṇām  (n=2)
 
-- твёрдости в йоге  · n=1  · bhagavadgity
+- твердости в йоге  · n=1  · bhagavadgity
 - процессу йоги [который заключается в созерцании образа Господа]  · n=1  · bhagavadgita-radha
 
 ### `yoga-SAstra` — yoga-śāstra  (n=11)
@@ -19400,7 +19400,7 @@
 
 - удержании сопряжения  · n=1  · mahabharata-bhishmaparva
 - устойчивой йоге  · n=1  · gitarthasamgraha-abhinavagupta
-- твёрдость в йоге  · n=1  · bhagavadgita-smirnov
+- твердость в йоге  · n=1  · bhagavadgita-smirnov
 - твердость в йоге  · n=1  · bhagavadgita-smirnov
 - глубокое сосредоточение  · n=1  · bhagavadgita-sharma
 
@@ -19674,7 +19674,7 @@
 
 - сокрытый йога майей  · n=1  · gitarthasamgraha-abhinavagupta
 - окутанный волшбою сопряжения  · n=1  · bhagavadgita-erman
-- облечённый в йогамайю  · n=1  · bhagavadgita-smirnov
+- облеченный в йогамайю  · n=1  · bhagavadgita-smirnov
 
 ### `yogamUrtiDara` — yogamūrtidhara  (n=2)
 
@@ -19786,7 +19786,7 @@
 ### `yogasTa` — yogastha  (n=11)
 
 - Утвердившийся в сопряженности  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
-- Утвердившийся в сопряжённости  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
+- Утвердившийся в сопряженности  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - Пребывая в йоге  · n=2  · gitarthasamgraha-abhinavagupta, bhagavadgita-smirnov
 - в йоге пребывая  · n=1  · ramanuja_gitabhashya
 - утвердившись в йоге  · n=1  · bhagavadgita-sharma
@@ -20203,7 +20203,7 @@
 - йогом  · n=3  · bhagavadgita-burba, bhagavadgita-sharma, bhagavadgita-prabhupada
 - Іоги или Іогъ  · n=3  · bhagavadgita-1909
 - сопряжению преданные  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
-- Сопряжённый  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
+- Сопряженный  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - Сопряженный  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - сопряженным  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - Владеющий йогой  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
@@ -20225,11 +20225,11 @@
 - Йогом  · n=1  · bhagavadgita-1914
 - Йога  · n=1  · bhagavadgita-1914
 - Йогов  · n=1  · bhagavadgita-1914
-- сопряжённых  · n=1  · bhagavadgita-erman
+- сопряженных  · n=1  · bhagavadgita-erman
 - к сопряжению обращенным  · n=1  · bhagavadgita-erman
 - сопряженному  · n=1  · bhagavadgita-erman
-- сопряжённый  · n=1  · bhagavadgita-erman
-- сопряжённым  · n=1  · bhagavadgita-erman
+- сопряженный  · n=1  · bhagavadgita-erman
+- сопряженным  · n=1  · bhagavadgita-erman
 - из сопряженных  · n=1  · bhagavadgita-erman
 - в единении  · n=1  · bhagavadgita-smirnov
 - набожные  · n=1  · bhagavadgita-1788
@@ -20463,7 +20463,7 @@
 - йоджан  · n=1  · ramayana-aranyakanda
 - расстояния  · n=1  · rigveda
 - пути  · n=1  · rigveda
-- ёджан  · n=1  · rigveda
+- еджан  · n=1  · rigveda
 
 ### `yojanABiprAyeRa` — yojanābhiprāyeṇa  (n=1)
 
@@ -21467,7 +21467,7 @@
 - юных жен  · n=2  · rigveda
 - жен  · n=2  · rigveda
 - юные жены  · n=1  · rigveda
-- юные жёны  · n=1  · rigveda
+- юные жены  · n=1  · rigveda
 - женщине  · n=1  · rigveda
 - юные ... жены  · n=1  · rigveda
 - женщины  · n=1  · rigveda
@@ -24598,7 +24598,7 @@
 - набожный духъ его  · n=1  · bhagavadgita-1788
 - себя обуздав  · n=1  · bhagavadgita-sementsov
 - предастся  · n=1  · bhagavadgita-1909
-- соединённый душой  · n=1  · bhagavadgita-sharma
+- соединенный душой  · n=1  · bhagavadgita-sharma
 
 ### `yuktAtman` — yuktātman  (n=9)
 
@@ -24690,9 +24690,9 @@
 - исполненные  · n=2  · mahabharata-adiparva, mahabharata-bhishmaparva
 - построены  · n=2  · mahabharata-bhishmaparva, mahabharata-udyogaparva
 - сопряженным  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
-- сопряжённый  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
+- сопряженный  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - сопряжен  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
-- к сопряжению обращённым  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
+- к сопряжению обращенным  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - сопряженными  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - одаренный  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - сопровождаемый  · n=2  · mahabharata-bhishmaparva, mahabharata-dronaparva
@@ -24709,7 +24709,7 @@
 - соединившись  · n=2  · bhagavadgita-1914, shatakatrayam-serebryakov
 - собранный  · n=2  · bhagavadgity, bhagavadgita-smirnov
 - набожнымъ  · n=2  · bhagavadgity, bhagavadgita-1788
-- воссоединённый  · n=2  · bhagavadgity, bhagavadgita-smirnov
+- воссоединенный  · n=2  · bhagavadgity, bhagavadgita-smirnov
 - совершенным  · n=2  · bhagavadgita-sharma
 - привязано  · n=2  · ch-up
 - направляем  · n=2  · mahabharata-ashvamedhikaparva
@@ -24721,7 +24721,7 @@
 - связано  · n=2  · sankhya-karika
 - обдуманные  · n=1  · mahabharata-adiparva
 - согласные  · n=1  · mahabharata-adiparva
-- наделённый  · n=1  · mahabharata-shantiparva
+- наделенный  · n=1  · mahabharata-shantiparva
 - верная  · n=1  · mahabharata-shantiparva
 - обладающим  · n=1  · ramayana-ayodhyakanda
 - сев  · n=1  · ramayana-ayodhyakanda
@@ -24907,9 +24907,9 @@
 - С  · n=1  · bhagavadgity
 - обращенным к сопряжению  · n=1  · bhagavadgita-erman
 - сопряженной  · n=1  · bhagavadgita-erman
-- запряжённой  · n=1  · bhagavadgita-smirnov
+- запряженной  · n=1  · bhagavadgita-smirnov
 - воссоединенным  · n=1  · bhagavadgita-smirnov
-- приобщённый  · n=1  · bhagavadgita-smirnov
+- приобщенный  · n=1  · bhagavadgita-smirnov
 - приобщаясь  · n=1  · bhagavadgita-smirnov
 - принявши  · n=1  · bhagavadgita-1788
 - Вдохновенный  · n=1  · bhagavadgita-1788
@@ -24985,7 +24985,7 @@
 - посредством  · n=1  · mahabharata-ashvamedhikaparva
 - радеет  · n=1  · mahabharata-ashvamedhikaparva
 - подобало  · n=1  · mahabharata-ashvamedhikaparva
-- Наделённый  · n=1  · devi-gita
+- Наделенный  · n=1  · devi-gita
 - используется  · n=1  · mahabharata-sabhaparva
 - подходящий  · n=1  · mahabharata-sabhaparva
 - с достаточной силой  · n=1  · mahabharata-sabhaparva
@@ -25149,8 +25149,8 @@
 - приобщась  · n=1  · bhagavadgita-smirnov
 - действуя по преданности  · n=1  · bhagavadgita-smirnov
 - предан  · n=1  · bhagavadgita-smirnov
-- воссоединённый  · n=1  · bhagavadgita-smirnov
-- утверждённый  · n=1  · bhagavadgita-smirnov
+- воссоединенный  · n=1  · bhagavadgita-smirnov
+- утвержденный  · n=1  · bhagavadgita-smirnov
 - должна  · n=1  · bhagavadgita-1788
 - набожнымъ  · n=1  · bhagavadgita-1788
 - владѣетъ  · n=1  · bhagavadgita-1909
@@ -25385,7 +25385,7 @@
 - выше  · n=1  · ramanuja_gitabhashya
 - искуснейшие  · n=1  · ramanuja_gitabhashya
 - выше всех  · n=1  · bhagavadgita-1914
-- воссоединённый  · n=1  · bhagavadgita-smirnov
+- воссоединенный  · n=1  · bhagavadgita-smirnov
 - наиболее преданными  · n=1  · bhagavadgita-smirnov
 - набожнѣйшимъ  · n=1  · bhagavadgita-1788
 - лучшими богослужителями  · n=1  · bhagavadgita-1788
@@ -25400,7 +25400,7 @@
 
 ### `yuktatamaH` — yuktatamaḥ  (n=1)
 
-- наиболее воссоединённый  · n=1  · bhagavadgity
+- наиболее воссоединенный  · n=1  · bhagavadgity
 
 ### `yuktataras` — yuktataras  (n=1)
 
@@ -25415,7 +25415,7 @@
 - запряжены  · n=2  · rigveda
 - благосклонны  · n=1  · mahabharata-adiparva
 - соединенные  · n=1  · mahabharata-adiparva
-- соединённые  · n=1  · mahabharata-adiparva
+- соединенные  · n=1  · mahabharata-adiparva
 - запряженные  · n=1  · mahabharata-aranyakaparva
 - впряжены  · n=1  · mahabharata-aranyakaparva
 - Охваченные  · n=1  · mahabharata-ashvamedhikaparva

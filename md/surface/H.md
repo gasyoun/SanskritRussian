@@ -589,7 +589,7 @@
 ### `hAridravezu` — hāridraveṣu  (n=4)
 
 - харидрава  · n=3  · atharvaveda, rigveda
-- жёлтых птицах  · n=1  · atharvaveda
+- желтых птицах  · n=1  · atharvaveda
 
 ### `hAridrumataH` — hāridrumataḥ  (n=1)
 
@@ -1891,7 +1891,7 @@
 
 ### `haWAvasTA` — haṭhāvasthā  (n=1)
 
-- приём «горшок»  · n=1  · yotat-up
+- прием «горшок»  · n=1  · yotat-up
 
 ### `haWa` — haṭha  (n=17)
 
@@ -4000,7 +4000,7 @@
 - забирать  · n=1  · manavadharmashastra
 - похитить  · n=1  · ramayana-aranyakanda
 - мог бы похитить  · n=1  · mahabharata-karnaparva
-- приведёт к истощению  · n=1  · yotat-up
+- приведет к истощению  · n=1  · yotat-up
 - отнимет  · n=1  · mahabharata-striparva
 
 ### `hari` — hari  (n=312)
@@ -6177,7 +6177,7 @@
 
 ### `hastAdyaNgasaMyuta` — hastādyaṅgasaṃyuta  (n=2)
 
-- не наделённая ни руками, ни другими частями тела  · n=1  · devi-gita
+- не наделенная ни руками, ни другими частями тела  · n=1  · devi-gita
 - не наделенная ни руками, ни другими частями тела  · n=1  · devi-gita
 
 ### `hastAgra` — hastāgra  (n=2)
@@ -7410,7 +7410,7 @@
 - убиении  · n=1  · mahabharata-shalyaparva
 - разбито  · n=1  · mahabharata-shalyaparva
 - убийстве  · n=1  · mahabharata-shalyaparva
-- сражён  · n=1  · mahabharata-ashvamedhikaparva
+- сражен  · n=1  · mahabharata-ashvamedhikaparva
 - не осилил  · n=1  · mahabharata-ashvamedhikaparva
 - умерщвленного  · n=1  · mahabharata-ashvamedhikaparva
 - павших  · n=1  · mahabharata-ashvamedhikaparva
@@ -10947,7 +10947,7 @@
 
 ### `hetidalita` — hetidalita  (n=2)
 
-- поражённый  · n=1  · shatakatrayam
+- пораженный  · n=1  · shatakatrayam
 - покрытый ранами  · n=1  · shatakatrayam-serebryakov
 
 ### `hetim` — hetim  (n=5)
@@ -11815,7 +11815,7 @@
 
 ### `hfdayagataSalya` — hṛdayagataśalya  (n=1)
 
-- чьё сердце копьём пронзено  · n=1  · buddhacharita
+- чье сердце копьем пронзено  · n=1  · buddhacharita
 
 ### `hfdayagrAhI` — hṛdayagrāhī  (n=1)
 
@@ -12453,11 +12453,11 @@
 
 ### `hftajYAnAH` — hṛtajñānāḥ  (n=8)
 
-- чьё знание похищено  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
+- чье знание похищено  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - лишенные знания  · n=1  · bhagavadgity
-- чьё знание увлечено  · n=1  · bhagavadgita-smirnov
+- чье знание увлечено  · n=1  · bhagavadgita-smirnov
 - кто знанье разрушил  · n=1  · bhagavadgita-sementsov
-- лишённые знания  · n=1  · bhagavadgita-sharma
+- лишенные знания  · n=1  · bhagavadgita-sharma
 - те, чье знание отнято  · n=1  · bhagavadgita-prabhupada
 - лишенные разума  · n=1  · bhagavadgita-prabhupada
 
@@ -12516,7 +12516,7 @@
 ### `hftarAjya` — hṛtarājya  (n=9)
 
 - лишился царства  · n=1  · mahabharata-adiparva
-- лишённый царства  · n=1  · mahabharata-adiparva
+- лишенный царства  · n=1  · mahabharata-adiparva
 - лишенный царства  · n=1  · mahabharata-adiparva
 - лишенному царства  · n=1  · mahabharata-aranyakaparva
 - лишившись царства  · n=1  · mahabharata-aranyakaparva
@@ -12531,7 +12531,7 @@
 
 ### `hftarAjyam` — hṛtarājyam  (n=2)
 
-- лишённого царства  · n=1  · mahabharata-adiparva
+- лишенного царства  · n=1  · mahabharata-adiparva
 - потерявшего власть  · n=1  · mahabharata-aranyakaparva
 
 ### `hftarAjyena` — hṛtarājyena  (n=1)
@@ -12774,7 +12774,7 @@
 
 ### `hfzIvidarBa` — hṛṣīvidarbha  (n=1)
 
-- Весёлые Видарбхи  · n=1  · mahabharata-bhishmaparva
+- Веселые Видарбхи  · n=1  · mahabharata-bhishmaparva
 
 ### `hfzitABavan` — hṛṣitābhavan  (n=1)
 
@@ -17345,7 +17345,7 @@
 - Пожиратель жертв  · n=4  · mahabharata-ashvamedhikaparva, mahabharata-adiparva, mahabharata-striparva
 - огонь  · n=3  · buddhacharita, gitagovinda
 - огня  · n=1  · mahabharata-udyogaparva
-- жертвенным огнём  · n=1  · bhagavadgity
+- жертвенным огнем  · n=1  · bhagavadgity
 - огнь  · n=1  · bhagavadgita-1788
 
 ### `hutASada` — hutāśada  (n=1)

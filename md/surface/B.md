@@ -3494,7 +3494,7 @@
 - гордится  · n=1  · mahabharata-udyogaparva
 - созерцает  · n=1  · gitarthasamgraha-abhinavagupta
 - питаемые  · n=1  · bhagavadgita-1914
-- укреплённые  · n=1  · bhagavadgity
+- укрепленные  · n=1  · bhagavadgity
 - стало объектом [непрерывного] культивирования  · n=1  · yoga-sutry_vyasa-bhashya
 
 ### `BAvitaAtmanaH` — bhāvita ātmanaḥ  (n=1)
@@ -3711,7 +3711,7 @@
 
 - говоришь  · n=24  · mahabharata-udyogaparva, mahabharata-virataparva, ramayana-ayodhyakanda, mahabharata-aranyakaparva, mahabharata-adiparva, bhagavadgita-smirnov, ramanuja_gitabhashya, bhagavadgita-1914, bhagavadgita-sementsov, bhagavadgita-1909, bhagavadgita-prabhupada, bhagavadgita-radha
 - ведешь  · n=3  · mahabharata-bhishmaparva, bhagavadgita-erman, bhagavadgita-sharma
-- ведёшь  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
+- ведешь  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - отречешься  · n=1  · ramayana-ayodhyakanda
 - ты говоришь  · n=1  · ramayana-ayodhyakanda
 - рассказывать  · n=1  · ramayana-ayodhyakanda
@@ -6726,7 +6726,7 @@
 - стадиям  · n=1  · yoga-sutry
 - шаг за шагом  · n=1  · yoga-sutry_sharma
 - уровни  · n=1  · yoga-sutry_zagumennov
-- землёй  · n=1  · yotat-up
+- землей  · n=1  · yotat-up
 - состояние  · n=1  · pratyabhijna-hridaya_kshemaraja
 - функции  · n=1  · pratyabhijna-hridaya_kshemaraja
 
@@ -7106,7 +7106,7 @@
 
 ### `BUmityAgaH` — bhūmityāgaḥ  (n=2)
 
-- поднимается над землёй  · n=2  · devi-gita
+- поднимается над землей  · n=2  · devi-gita
 
 ### `BUmivarDana` — bhūmivardhana  (n=1)
 
@@ -9770,7 +9770,7 @@
 - дороже  · n=1  · ch-up
 - подобным  · n=1  · ch-up
 - становится подобным  · n=1  · ch-up
-- ещё  · n=1  · devi-gita
+- еще  · n=1  · devi-gita
 - потомъ  · n=1  · megha-duta
 
 ### `BUyaH` — bhūyaḥ  (n=274)
@@ -9795,7 +9795,7 @@
 - впредь  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - Ныне  · n=2  · ramanuja_gitabhashya, bhagavadgita-sementsov
 - далее  · n=2  · bhagavadgita-smirnov, mahabharata-shalyaparva
-- ещё  · n=1  · mahabharata-adiparva
+- еще  · n=1  · mahabharata-adiparva
 - соединяясь при падении  · n=1  · mahabharata-adiparva
 - словно бы  · n=1  · mahabharata-shantiparva
 - сильным  · n=1  · ramayana-ayodhyakanda
@@ -9897,7 +9897,7 @@
 - дальше  · n=2  · rigveda, ch-up
 - больше/дальше/опять  · n=2  · bhagavadgita-burba
 - еще раз  · n=2  · mahabharata-shalyaparva
-- ещё  · n=1  · mahabharata-adiparva
+- еще  · n=1  · mahabharata-adiparva
 - Лучше  · n=1  · ramayana-sundarakanda
 - обратно  · n=1  · ramayana-balakanda
 - Еще  · n=1  · ramayana-balakanda
@@ -11969,7 +11969,7 @@
 ### `Baginyau` — bhaginyau  (n=5)
 
 - сестры  · n=3  · mahabharata-adiparva
-- сёстры  · n=1  · mahabharata-adiparva
+- сестры  · n=1  · mahabharata-adiparva
 - сестер  · n=1  · mahabharata-udyogaparva
 
 ### `BagnA` — bhagnā  (n=6)
@@ -12610,7 +12610,7 @@
 - издавал ужасный шум  · n=1  · mahabharata-adiparva
 - издающий ужасный звук  · n=1  · mahabharata-adiparva
 - с устрашающим звуком  · n=1  · mahabharata-adiparva
-- устрашающий рёв  · n=1  · mahabharata-adiparva
+- устрашающий рев  · n=1  · mahabharata-adiparva
 
 ### `Bairavasvana` — bhairavasvana  (n=4)
 
@@ -13581,7 +13581,7 @@
 
 ### `Baktiyukta` — bhaktiyukta  (n=1)
 
-- наделённому преданностью  · n=1  · devi-gita
+- наделенному преданностью  · n=1  · devi-gita
 
 ### `Bakto` — bhakto  (n=1)
 
@@ -13629,7 +13629,7 @@
 
 ### `BaktyAyuktaH` — bhaktyā yuktaḥ  (n=1)
 
-- приобщённый благоговению  · n=1  · bhagavadgity
+- приобщенный благоговению  · n=1  · bhagavadgity
 
 ### `Baktyopapannezu` — bhaktyopapanneṣu  (n=1)
 
@@ -13647,7 +13647,7 @@
 - как дар любви  · n=1  · bhagavadgita-1914
 - дар любви  · n=1  · bhagavadgity
 - преданности приношение  · n=1  · bhagavadgita-erman
-- принесённое с благоговением  · n=1  · bhagavadgita-smirnov
+- принесенное с благоговением  · n=1  · bhagavadgita-smirnov
 - приношенія  · n=1  · bhagavadgita-1788
 
 ### `Bakz` — bhakṣ  (n=12)
@@ -18331,7 +18331,7 @@
 - могло  · n=1  · mahabharata-shalyaparva
 - ни  · n=1  · mahabharata-ashvamedhikaparva
 - преобладает  · n=1  · mahabharata-ashvamedhikaparva
-- на подъёме  · n=1  · mahabharata-ashvamedhikaparva
+- на подъеме  · n=1  · mahabharata-ashvamedhikaparva
 - развита  · n=1  · mahabharata-ashvamedhikaparva
 - достигнет  · n=1  · mahabharata-ashvamedhikaparva
 - именуется  · n=1  · devi-gita
@@ -22370,7 +22370,7 @@
 - поделенная  · n=1  · gitarthasamgraha-abhinavagupta
 - расчлененная  · n=1  · ramanuja_gitabhashya
 - разделение  · n=1  · bhagavadgita-1914
-- разделённая  · n=1  · bhagavadgity
+- разделенная  · n=1  · bhagavadgity
 - проявляюся  · n=1  · bhagavadgita-1909
 - разломлено  · n=1  · ch-up
 - разваливающейся  · n=1  · mahabharata-karnaparva
@@ -25413,7 +25413,7 @@
 
 ### `BrUvijfmBa` — bhrūvijṛmbha  (n=1)
 
-- игрой её бровей  · n=1  · devi-gita
+- игрой ее бровей  · n=1  · devi-gita
 
 ### `BrUvikArAn` — bhrūvikārān  (n=1)
 
@@ -28591,7 +28591,7 @@
 
 ### `bAdilAntazaqvarRena` — bādilāntaṣaḍvarṇena  (n=2)
 
-- с [изображёнными на ней] шестью буквами от б до л  · n=1  · devi-gita
+- с [изображенными на ней] шестью буквами от б до л  · n=1  · devi-gita
 - шестью буквами от б до л  · n=1  · devi-gita
 
 ### `bAhU` — bāhū  (n=48)
@@ -29798,7 +29798,7 @@
 - пссс  · n=1  · atharvaveda
 - наружу  · n=1  · atharvaveda
 - Младенцем  · n=1  · mahabharata-shantiparva
-- ребёнок  · n=1  · mahabharata-shantiparva
+- ребенок  · n=1  · mahabharata-shantiparva
 - ты  · n=1  · ramayana-ayodhyakanda
 - сын  · n=1  · ramayana-ayodhyakanda
 - Сита  · n=1  · ramayana-ayodhyakanda
@@ -30600,8 +30600,8 @@
 - вздохи  · n=1  · mahabharata-udyogaparva
 - в слезах  · n=1  · mahabharata-bhishmaparva
 - слезу  · n=1  · raghuvamsha
-- слёз  · n=1  · shatakatrayam
-- слёзы  · n=1  · mahabharata-ashramavasikaparva
+- слез  · n=1  · shatakatrayam
+- слезы  · n=1  · mahabharata-ashramavasikaparva
 - зарыдал  · n=1  · mahabharata-mausalaparva
 
 ### `bAzpa-gadgada` — bāṣpa-gadgada  (n=1)
@@ -34005,7 +34005,7 @@
 ### `bahuSruta` — bahuśruta  (n=23)
 
 - хорошо известны  · n=1  · mahabharata-adiparva
-- многоучёные  · n=1  · mahabharata-adiparva
+- многоученые  · n=1  · mahabharata-adiparva
 - многоученые  · n=1  · mahabharata-adiparva
 - сведущих в ведах  · n=1  · ramayana-ayodhyakanda
 - мудрого  · n=1  · ramayana-ayodhyakanda
@@ -34398,7 +34398,7 @@
 - неумолчно  · n=2  · mahabharata-striparva
 - обремененных  · n=1  · mahabharata-adiparva
 - темная половина месяца  · n=1  · mahabharata-adiparva
-- тёмная половина  · n=1  · mahabharata-adiparva
+- темная половина  · n=1  · mahabharata-adiparva
 - темная половина  · n=1  · mahabharata-adiparva
 - дворцовые  · n=1  · ramayana-aranyakanda
 - большие  · n=1  · mahabharata-aranyakaparva
@@ -34440,7 +34440,7 @@
 
 ### `bahulaH` — bahulaḥ  (n=3)
 
-- тёмная половина  · n=1  · mahabharata-adiparva
+- темная половина  · n=1  · mahabharata-adiparva
 - темная половина  · n=1  · mahabharata-adiparva
 - Бахула  · n=1  · mahabharata-udyogaparva
 
@@ -36372,7 +36372,7 @@
 ### `baladarpasamutsikta` — baladarpasamutsikta  (n=2)
 
 - опьяненный силой и гордостью  · n=1  · mahabharata-adiparva
-- опьянённый силой и гордостью  · n=1  · mahabharata-adiparva
+- опьяненный силой и гордостью  · n=1  · mahabharata-adiparva
 
 ### `baladarpitAH` — baladarpitāḥ  (n=1)
 
@@ -36827,7 +36827,7 @@
 - сильнее  · n=3  · manavadharmashastra, mahabharata-udyogaparva, bhagavadgita-radha
 - сильные  · n=3  · bhagavadgita-smirnov, mahabharata-aranyakaparva
 - громогласный  · n=3  · mahabharata-karnaparva, mahabharata-bhishmaparva
-- силён  · n=3  · gitarthasamgraha-abhinavagupta, bhagavadgity, bhagavadgita-smirnov
+- силен  · n=3  · gitarthasamgraha-abhinavagupta, bhagavadgity, bhagavadgita-smirnov
 - сильного  · n=3  · bhagavadgita-1914, mahabharata-virataparva
 - могучих  · n=2  · ramayana-balakanda, mahabharata-adiparva
 - упряма  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
@@ -40556,7 +40556,7 @@
 - брызг  · n=1  · mahabharata-sabhaparva
 - каплями  · n=1  · raghuvamsha
 - ртуть  · n=1  · hatha-yoga-pradipika
-- слёз  · n=1  · shatakatrayam
+- слез  · n=1  · shatakatrayam
 - пузырьков  · n=1  · atharvaveda
 - шарик  · n=1  · atharvaveda
 - точкой  · n=1  · yotat-up
@@ -43791,7 +43791,7 @@
 ### `brahmadaRqavinizpizwa` — brahmadaṇḍaviniṣpiṣṭa  (n=3)
 
 - угнетаемые проклятием брахмана  · n=1  · mahabharata-adiparva
-- сокрушённые проклятием брахмана  · n=1  · mahabharata-adiparva
+- сокрушенные проклятием брахмана  · n=1  · mahabharata-adiparva
 - сокрушенные проклятием брахмана  · n=1  · mahabharata-adiparva
 
 ### `brahmadaRqena` — brahmadaṇḍena  (n=1)
@@ -45180,7 +45180,7 @@
 - сведущи в ведах  · n=1  · mahabharata-adiparva
 - знатоков святого Слова  · n=1  · mahabharata-bhishmaparva
 - искушенные в Брахмане  · n=1  · mahabharata-bhishmaparva
-- искушённые в Брахмане  · n=1  · mahabharata-bhishmaparva
+- искушенные в Брахмане  · n=1  · mahabharata-bhishmaparva
 - Брахмана толкует  · n=1  · mahabharata-bhishmaparva
 - изрекающим брахму  · n=1  · mahabharata-dronaparva
 - поведавшим веды  · n=1  · mahabharata-udyogaparva
@@ -46484,7 +46484,7 @@
 - мудрые  · n=6  · gitarthasamgraha-abhinavagupta, manavadharmashastra, mahabharata-aranyakaparva, mahabharata-bhishmaparva, bhagavadgita-erman
 - мудрецы  · n=1  · mahabharata-udyogaparva
 - мудрость духовную  · n=1  · bhagavadgity
-- озарённые  · n=1  · bhagavadgita-smirnov
+- озаренные  · n=1  · bhagavadgita-smirnov
 - имѣющіе мудрость духовную  · n=1  · bhagavadgita-1788
 - пробужденные  · n=1  · bhagavadgita-sementsov
 - мудрыми  · n=1  · devi-gita
@@ -46514,7 +46514,7 @@
 - мудрых  · n=2  · mahabharata-aranyakaparva, mahabharata-udyogaparva
 - разумный  · n=2  · kama-sutra, bhagavadgita-prabhupada
 - разумные  · n=2  · bhagavadgita-burba, bhagavadgita-1914
-- учёные  · n=2  · bhagavadgity, bhagavadgita-smirnov
+- ученые  · n=2  · bhagavadgity, bhagavadgita-smirnov
 - учеными  · n=1  · mahabharata-adiparva
 - умный  · n=1  · manavadharmashastra
 - Разумному  · n=1  · manavadharmashastra
@@ -46527,7 +46527,7 @@
 - мудрому  · n=1  · buddhacharita
 - мудрецами  · n=1  · mahabharata-udyogaparva
 - разумен  · n=1  · mahabharata-udyogaparva
-- озарённый  · n=1  · bhagavadgity
+- озаренный  · n=1  · bhagavadgity
 - Буддха  · n=1  · bhagavadgita-smirnov
 - Мудрые мужи  · n=1  · bhagavadgita-1788
 - Мудрый мужъ  · n=1  · bhagavadgita-1788
@@ -46554,7 +46554,7 @@
 - Будха  · n=4  · ramayana-aranyakanda, mahabharata-bhishmaparva
 - Просветленный потомок Ману  · n=1  · mahabharata-aranyakaparva
 - разумный  · n=1  · bhagavadgita-burba
-- озарённый  · n=1  · bhagavadgita-smirnov
+- озаренный  · n=1  · bhagavadgita-smirnov
 - знающие  · n=1  · bhagavadgita-sharma
 
 ### `buDaSukrAByAm` — budhaśukrābhyām  (n=1)
@@ -47773,7 +47773,7 @@
 
 - просветленность  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - единение с мудростью  · n=2  · gitarthasamgraha-abhinavagupta, bhagavadgita-smirnov
-- просветлённость  · n=1  · mahabharata-bhishmaparva
+- просветленность  · n=1  · mahabharata-bhishmaparva
 - сочетавшись со своей буддхи  · n=1  · ramanuja_gitabhashya
 - соединение с разумом  · n=1  · bhagavadgita-erman
 - Единение с мудростью  · n=1  · bhagavadgita-smirnov
@@ -47942,7 +47942,7 @@
 ### `budDiyukta` — buddhiyukta  (n=21)
 
 - сопряженный с мудростью  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
-- сопряжённый с мудростью  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
+- сопряженный с мудростью  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - сопряженные с мудростью  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - те, кто занимается преданным служением  · n=2  · bhagavadgita-prabhupada
 - Наделенный разумом  · n=1  · gitarthasamgraha-abhinavagupta

@@ -2430,7 +2430,7 @@
 - принадлежащий к моей стороне  · n=1  · mahabharata-dronaparva
 - Мой  · n=1  · gitarthasamgraha-abhinavagupta
 - мои люди  · n=1  · bhagavadgita-1914
-- моё  · n=1  · bhagavadgita-smirnov
+- мое  · n=1  · bhagavadgita-smirnov
 - войско мое  · n=1  · bhagavadgita-1788
 - сыновья мои  · n=1  · bhagavadgita-sementsov
 - войско Дурьодгана  · n=1  · bhagavadgita-1909
@@ -2459,7 +2459,7 @@
 - Мое  · n=2  · ramanuja_gitabhashya, bhagavadgita-prabhupada
 - мое  · n=1  · ramayana-ayodhyakanda
 - моих  · n=1  · mahabharata-bhishmaparva
-- Моё  · n=1  · bhagavadgity
+- Мое  · n=1  · bhagavadgity
 - мои  · n=1  · bhagavadgita-1788
 
 ### `mAmake` — māmake  (n=2)
@@ -4767,7 +4767,7 @@
 - где  · n=1  · ramayana-sundarakanda
 - пути  · n=1  · ramayana-aranyakanda
 - сторон  · n=1  · mahabharata-dronaparva
-- путём  · n=1  · devi-gita
+- путем  · n=1  · devi-gita
 - по лестнице  · n=1  · raghuvamsha
 - путь  · n=1  · hatha-yoga-pradipika
 - объединения  · n=1  · hatha-yoga-pradipika
@@ -6673,7 +6673,7 @@
 
 - дядей по матери  · n=4  · mahabharata-adiparva, mahabharata-dronaparva, bhagavadgita-radha
 - дядей  · n=3  · bhagavadgita-1914, bhagavadgita-1788
-- дядьёв  · n=2  · gitarthasamgraha-abhinavagupta, ramanuja_gitabhashya
+- дядьев  · n=2  · gitarthasamgraha-abhinavagupta, ramanuja_gitabhashya
 - дядей с материнской стороны  · n=1  · bhagavadgita-burba
 - дядей по линии матери  · n=1  · bhagavadgita-sharma
 
@@ -7545,7 +7545,7 @@
 
 - мычание  · n=2  · atharvaveda
 - мычанье  · n=1  · rigveda
-- рёва  · n=1  · atharvaveda
+- рева  · n=1  · atharvaveda
 
 ### `mAyuDyasva` — mā yudhyasva  (n=1)
 
@@ -9248,7 +9248,7 @@
 ### `mUrtimadBiH` — mūrtimadbhiḥ  (n=2)
 
 - олицетворенными  · n=1  · devi-gita
-- олицетворёнными  · n=1  · devi-gita
+- олицетворенными  · n=1  · devi-gita
 
 ### `mUrtimant` — mūrtimant  (n=3)
 
@@ -9555,7 +9555,7 @@
 ### `maDor` — madhor  (n=5)
 
 - Меду  · n=1  · rigveda
-- мёдом  · n=1  · rigveda
+- медом  · n=1  · rigveda
 - весны  · n=1  · kumarasambhava
 - весна  · n=1  · kumarasambhava
 - медом  · n=1  · rigveda
@@ -9571,7 +9571,7 @@
 - сладости  · n=12  · rigveda, rigveda, rigveda, rigveda, rigveda
 - Мадху  · n=11  · mahabharata-dronaparva, mahabharata-udyogaparva, mahabharata-shalyaparva, mahabharata-sabhaparva, bhagavadgita-prabhupada, gitagovinda, mahabharata-sauptikaparva
 - Мед  · n=7  · rigveda, rigveda, rigveda, br-up
-- мёд  · n=6  · rigveda, rigveda, ramayana-sundarakanda, atharvaveda
+- мед  · n=6  · rigveda, rigveda, ramayana-sundarakanda, atharvaveda
 - сладостью  · n=5  · rigveda, br-up, rigveda
 - Медовая  · n=4  · rigveda
 - медовый напиток  · n=3  · kama-sutra, rigveda
@@ -9810,7 +9810,7 @@
 - сладкоязычные  · n=2  · rigveda
 - Сладкоязычным  · n=1  · rigveda
 - сладкоязыкого  · n=1  · rigveda
-- неся мёд на языке  · n=1  · atharvaveda
+- неся мед на языке  · n=1  · atharvaveda
 
 ### `maDujihvaM` — madhujihvaṃ  (n=1)
 
@@ -9942,7 +9942,7 @@
 - сладостью  · n=1  · br-up
 - богатая медом  · n=1  · atharvaveda
 - полон меда  · n=1  · atharvaveda
-- из мёда  · n=1  · atharvaveda
+- из меда  · n=1  · atharvaveda
 
 ### `maDumAsasaMBftajalaDarapawalIpreritamamBa` — madhumāsasaṃbhṛtajaladharapaṭalīpreritamambha  (n=1)
 
@@ -10744,7 +10744,7 @@
 
 - везущей мед  · n=1  · rigveda
 - Везущая мед  · n=1  · rigveda
-- везущую мёд  · n=1  · rigveda
+- везущую мед  · n=1  · rigveda
 
 ### `maDuvacA` — madhuvacā  (n=3)
 
@@ -10766,7 +10766,7 @@
 
 ### `maDuvarRa` — madhuvarṇa  (n=2)
 
-- цвета мёда  · n=1  · rigveda
+- цвета меда  · n=1  · rigveda
 - Мадхуварна  · n=1  · mahabharata-shalyaparva
 
 ### `maDuvarRaH` — madhuvarṇaḥ  (n=1)
@@ -10872,7 +10872,7 @@
 - мед  · n=3  · rigveda
 - сладость  · n=3  · rigveda
 - медом  · n=2  · rigveda
-- мёде  · n=2  · rigveda
+- меде  · n=2  · rigveda
 - сладким  · n=1  · rigveda
 - медового (питья)  · n=1  · rigveda
 - Меда  · n=1  · rigveda
@@ -11512,7 +11512,7 @@
 ### `maDyasTA` — madhyasthā  (n=3)
 
 - на котором  · n=1  · ramayana-aranyakanda
-- полоска волос меж бёдер  · n=1  · shatakatrayam
+- полоска волос меж бедер  · n=1  · shatakatrayam
 - меж бедер  · n=1  · shatakatrayam-serebryakov
 
 ### `maDyasTAH` — madhyasthāḥ  (n=1)
@@ -14500,9 +14500,9 @@
 - Мою природу  · n=3  · gitarthasamgraha-abhinavagupta, bhagavadgita-sharma, bhagavadgita-prabhupada
 - бытию моему  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - Мое состояние  · n=2  · gitarthasamgraha-abhinavagupta, ramanuja_gitabhashya
-- моё Бытие  · n=2  · bhagavadgita-smirnov
-- моё бытие  · n=2  · bhagavadgita-smirnov
-- в моё бытие  · n=1  · mahabharata-bhishmaparva
+- мое Бытие  · n=2  · bhagavadgita-smirnov
+- мое бытие  · n=2  · bhagavadgita-smirnov
+- в мое бытие  · n=1  · mahabharata-bhishmaparva
 - Моей природы  · n=1  · gitarthasamgraha-abhinavagupta
 - Моей Природе  · n=1  · gitarthasamgraha-abhinavagupta
 - Моего бытия  · n=1  · gitarthasamgraha-abhinavagupta
@@ -14806,7 +14806,7 @@
 
 ### `madaBinnA` — madabhinnā  (n=1)
 
-- опьянённая  · n=1  · devi-gita
+- опьяненная  · n=1  · devi-gita
 
 ### `madaByAgamakAraRaM` — madabhyāgamakāraṇaṃ  (n=1)
 
@@ -14976,7 +14976,7 @@
 
 ### `madakzIRa` — madakṣīṇa  (n=2)
 
-- истощённый  · n=1  · shatakatrayam
+- истощенный  · n=1  · shatakatrayam
 - изнемогший от течки  · n=1  · shatakatrayam-serebryakov
 
 ### `madam` — madam  (n=23)
@@ -15486,7 +15486,7 @@
 ### `madavihvala` — madavihvala  (n=2)
 
 - утомленная любовной страстью  · n=1  · ramayana-sundarakanda
-- возбуждённый  · n=1  · ramayana-sundarakanda
+- возбужденный  · n=1  · ramayana-sundarakanda
 
 ### `madavihvalalocana` — madavihvalalocana  (n=1)
 
@@ -15916,9 +15916,9 @@
 
 ### `madotkawa` — madotkaṭa  (n=14)
 
-- опьянённые гордостью  · n=1  · mahabharata-shantiparva
+- опьяненные гордостью  · n=1  · mahabharata-shantiparva
 - возбужденные  · n=1  · mahabharata-shantiparva
-- разъярённые  · n=1  · mahabharata-shantiparva
+- разъяренные  · n=1  · mahabharata-shantiparva
 - захмелели  · n=1  · ramayana-sundarakanda
 - охваченных бешенством страсти  · n=1  · mahabharata-aranyakaparva
 - опьяненный страстью  · n=1  · mahabharata-adiparva
@@ -16030,7 +16030,7 @@
 ### `madrUpa` — madrūpa  (n=3)
 
 - мою природу  · n=2  · devi-gita
-- как о воплощении моём  · n=1  · devi-gita
+- как о воплощении моем  · n=1  · devi-gita
 
 ### `madrUpatva` — madrūpatva  (n=2)
 
@@ -16038,7 +16038,7 @@
 
 ### `madrUpe` — madrūpe  (n=2)
 
-- в моём образе  · n=1  · devi-gita
+- в моем образе  · n=1  · devi-gita
 - образе  · n=1  · devi-gita
 
 ### `madra` — madra  (n=19)
@@ -16515,7 +16515,7 @@
 
 ### `madvadanamunmadanaM` — madvadanamunmadanaṃ  (n=1)
 
-- губы тянут из губ любви хмельное питьё  · n=1  · chaurapanchashika
+- губы тянут из губ любви хмельное питье  · n=1  · chaurapanchashika
 
 ### `madvane` — madvane  (n=1)
 
@@ -16727,7 +16727,7 @@
 
 ### `madyoga` — madyoga  (n=9)
 
-- йогой моей вдохновлённый  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
+- йогой моей вдохновленный  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - йогой моей вдохновленный  · n=1  · mahabharata-bhishmaparva
 - к Моей йоге  · n=1  · ramanuja_gitabhashya
 - единению со Мною  · n=1  · bhagavadgity
@@ -21581,7 +21581,7 @@
 - дорога  · n=1  · ch-up
 - Махапатха  · n=1  · hatha-yoga-pradipika
 - великим путем  · n=1  · yotat-up
-- великим путём  · n=1  · yotat-up
+- великим путем  · n=1  · yotat-up
 
 ### `mahApaTam` — mahāpatham  (n=1)
 
@@ -23052,7 +23052,7 @@
 
 ### `mahAsiMha` — mahāsiṃha  (n=1)
 
-- как у матёрого льва  · n=1  · mahabharata-ashramavasikaparva
+- как у матерого льва  · n=1  · mahabharata-ashramavasikaparva
 
 ### `mahAsiMhe` — mahāsiṃhe  (n=1)
 
@@ -25092,7 +25092,7 @@
 - могучие  · n=1  · rigveda
 - мощно  · n=1  · rigveda
 - высокая  · n=1  · rigveda
-- землёй  · n=1  · bhagavadgity
+- землей  · n=1  · bhagavadgity
 - міръ  · n=1  · bhagavadgita-1788
 - царством  · n=1  · bhagavadgita-sementsov
 - миром  · n=1  · bhagavadgita-prabhupada
@@ -25288,7 +25288,7 @@
 
 ### `mahIkfta` — mahīkṛta  (n=1)
 
-- обладания землёй  · n=1  · bhagavadgita-smirnov
+- обладания землей  · n=1  · bhagavadgita-smirnov
 
 ### `mahIkfte` — mahīkṛte  (n=7)
 
@@ -30987,7 +30987,7 @@
 - мною  · n=17  · mahabharata-udyogaparva, ramayana-ayodhyakanda, mahabharata-dronaparva, mahabharata-virataparva, ramayana-sundarakanda, ramayana-aranyakanda, mahabharata-bhishmaparva, mahabharata-shalyaparva, atharvaveda
 - Мне  · n=15  · ramayana-ayodhyakanda, mahabharata-udyogaparva, bhagavadgita-burba, gitarthasamgraha-abhinavagupta, ramanuja_gitabhashya, bhagavadgity, bhagavadgita-sementsov, bhagavadgita-sharma, bhagavadgita-prabhupada, bhagavadgita-radha
 - моими  · n=13  · mahabharata-aranyakaparva, mahabharata-dronaparva, mahabharata-shalyaparva, ramayana-balakanda, rigveda, mahabharata-sabhaparva, atharvaveda, mahabharata-virataparva, mahabharata-ashramavasikaparva
-- моё  · n=11  · mahabharata-ashvamedhikaparva, mahabharata-aranyakaparva, mahabharata-bhishmaparva, bhagavadgita-erman, bhagavadgita-1909, mahabharata-sabhaparva, shatakatrayam-serebryakov, chaurapanchashika
+- мое  · n=11  · mahabharata-ashvamedhikaparva, mahabharata-aranyakaparva, mahabharata-bhishmaparva, bhagavadgita-erman, bhagavadgita-1909, mahabharata-sabhaparva, shatakatrayam-serebryakov, chaurapanchashika
 - Моей  · n=10  · bhagavadgita-radha, ramayana-aranyakanda, gitarthasamgraha-abhinavagupta, ramanuja_gitabhashya, bhagavadgita-1914, bhagavadgity, bhagavadgita-sementsov, bhagavadgita-sharma, atharvaveda
 - Я  · n=9  · ramayana-ayodhyakanda, mahabharata-karnaparva, ramayana-aranyakanda, ramayana-balakanda, kumarasambhava
 - Мою  · n=9  · bhagavadgita-prabhupada, bhagavadgita-1914, bhagavadgita-sharma, bhagavadgita-radha
@@ -31009,7 +31009,7 @@
 - за мной  · n=2  · mahabharata-aranyakaparva, mahabharata-ashramavasikaparva
 - Мои  · n=2  · rigveda, bhagavadgita-sementsov
 - его  · n=2  · mahabharata-bhishmaparva, mahabharata-ashvamedhikaparva
-- моём  · n=2  · devi-gita
+- моем  · n=2  · devi-gita
 - (опущено)  · n=1  · atharvaveda
 - собственной  · n=1  · ramayana-ayodhyakanda
 - На себя  · n=1  · ramayana-ayodhyakanda
@@ -31030,7 +31030,7 @@
 - через меня  · n=1  · mahabharata-udyogaparva
 - у меня самого  · n=1  · mahabharata-udyogaparva
 - Моих  · n=1  · bhagavadgita-burba
-- Моём  · n=1  · bhagavadgity
+- Моем  · n=1  · bhagavadgity
 - мнѣ  · n=1  · bhagavadgita-1788
 - моимъ  · n=1  · bhagavadgita-1909
 - Верховной Личности Бога  · n=1  · bhagavadgita-prabhupada
@@ -31247,8 +31247,8 @@
 ### `mamedam` — mamedam  (n=3)
 
 - таково твое твердое мнение  · n=1  · mahabharata-dronaparva
-- «Это — моё!»  · n=1  · mahabharata-ashvamedhikaparva
-- «Это — моё»  · n=1  · mahabharata-ashvamedhikaparva
+- «Это — мое!»  · n=1  · mahabharata-ashvamedhikaparva
+- «Это — мое»  · n=1  · mahabharata-ashvamedhikaparva
 
 ### `mameti` — mameti  (n=1)
 
@@ -32691,7 +32691,7 @@
 - помышляя  · n=1  · kama-sutra
 - мыслях  · n=1  · mahabharata-dronaparva
 - на ум  · n=1  · mahabharata-udyogaparva
-- на нём самом  · n=1  · mahabharata-ashvamedhikaparva
+- на нем самом  · n=1  · mahabharata-ashvamedhikaparva
 - дух  · n=1  · shatakatrayam-serebryakov
 - для тех, кто доволен  · n=1  · shatakatrayam-serebryakov
 - в уме  · n=1  · vedartha-samgraha_ramanuja
@@ -33057,7 +33057,7 @@
 
 ### `mandAkzasaNkucitasarvatanuM` — mandākṣasaṅkucitasarvatanuṃ  (n=1)
 
-- Смущенная, ёжилась от стыда  · n=1  · chaurapanchashika
+- Смущенная, ежилась от стыда  · n=1  · chaurapanchashika
 
 ### `mandAn` — mandān  (n=8)
 
@@ -33660,7 +33660,7 @@
 
 ### `mandasmitamuKAmbuja` — mandasmitamukhāmbuja  (n=1)
 
-- с лёгкой улыбкой, сияющей на лице-лотосе  · n=1  · devi-gita
+- с легкой улыбкой, сияющей на лице-лотосе  · n=1  · devi-gita
 
 ### `mandasnehaH` — mandasnehaḥ  (n=1)
 
@@ -34017,7 +34017,7 @@
 
 ### `manmAyASaktisaMklfpta` — manmāyāśaktisaṃklṛpta  (n=1)
 
-- Силой моей майи порождён  · n=1  · devi-gita
+- Силой моей майи порожден  · n=1  · devi-gita
 
 ### `manma` — manma  (n=30)
 
@@ -35122,7 +35122,7 @@
 
 ### `manoyuktaM` — manoyuktaṃ  (n=1)
 
-- наделённый манасом  · n=1  · devi-gita
+- наделенный манасом  · n=1  · devi-gita
 
 ### `manoyuktavAc` — manoyuktavāc  (n=1)
 
@@ -38251,7 +38251,7 @@
 
 ### `marizyasi` — mariṣyasi  (n=11)
 
-- умрёшь  · n=6  · mahabharata-ashvamedhikaparva
+- умрешь  · n=6  · mahabharata-ashvamedhikaparva
 - умрешь  · n=5  · atharvaveda, mahabharata-udyogaparva, atharvaveda, atharvaveda
 
 ### `marizyat` — mariṣyat  (n=2)
@@ -39794,7 +39794,7 @@
 
 - Делающий Мою работу  · n=1  · bhagavadgita-burba
 - трудится для Меня  · n=1  · bhagavadgita-burba
-- кто творит Моё дело  · n=1  · bhagavadgity
+- кто творит Мое дело  · n=1  · bhagavadgity
 - творитъ дѣла свои для меня  · n=1  · bhagavadgita-1788
 - совершаетъ свои дѣла во имя лишь мое  · n=1  · bhagavadgita-1909
 
@@ -40654,7 +40654,7 @@
 - наделенный великим разумом  · n=1  · ramayana-balakanda
 - Матиман  · n=1  · mahabharata-adiparva
 - рассудительным умом  · n=1  · mahabharata-dronaparva
-- наделённый мыслью  · n=1  · mahabharata-ashvamedhikaparva
+- наделенный мыслью  · n=1  · mahabharata-ashvamedhikaparva
 - мудрые  · n=1  · shatakatrayam-serebryakov
 
 ### `matimatAM` — matimatāṃ  (n=2)
@@ -40783,7 +40783,7 @@
 - действует ради Меня  · n=1  · gitarthasamgraha-abhinavagupta
 - Для Меня дела делай  · n=1  · ramanuja_gitabhashya
 - деяние творит ради меня  · n=1  · bhagavadgita-erman
-- совершает моё дело  · n=1  · bhagavadgita-smirnov
+- совершает мое дело  · n=1  · bhagavadgita-smirnov
 - Делай всё, лишь ко Мне устремляясь  · n=1  · bhagavadgita-sementsov
 - вершит свои дела ради Меня  · n=1  · bhagavadgita-sharma
 
@@ -40798,7 +40798,7 @@
 ### `matkarmaparama` — matkarmaparama  (n=6)
 
 - высшим для тебя станет деяние во имя мое  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
-- деяние во имя моё  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
+- деяние во имя мое  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - сосредоточься на служении Мне  · n=1  · bhagavadgity
 - выполняй для Меня все деянья  · n=1  · bhagavadgita-sementsov
 
@@ -41732,7 +41732,7 @@
 
 - царь матсьев  · n=2  · mahabharata-adiparva, mahabharata-virataparva
 - царя матсьев  · n=2  · mahabharata-udyogaparva, mahabharata-virataparva
-- царём матсьев  · n=1  · mahabharata-adiparva
+- царем матсьев  · n=1  · mahabharata-adiparva
 
 ### `matsyarAjasya` — matsyarājasya  (n=1)
 
@@ -43292,7 +43292,7 @@
 - обо мне  · n=7  · rigveda, ramayana-ayodhyakanda
 - Меня  · n=7  · bhagavadgity, bhagavadgita-sharma, ramayana-ayodhyakanda, ramayana-aranyakanda, gitarthasamgraha-abhinavagupta
 - мной  · n=7  · ramayana-ayodhyakanda, mahabharata-aranyakaparva, mahabharata-dronaparva, bhagavadgita-1909, bhagavadgita-radha, mahabharata-ashvamedhikaparva, mahabharata-virataparva
-- моё  · n=7  · bhagavadgita-smirnov, bhagavadgity, ramanuja_gitabhashya
+- мое  · n=7  · bhagavadgita-smirnov, bhagavadgity, ramanuja_gitabhashya
 - со мной  · n=5  · ramayana-ayodhyakanda, rigveda, rigveda, atharvaveda, atharvaveda
 - Моим  · n=5  · bhagavadgita-sharma, rigveda, gitarthasamgraha-abhinavagupta, bhagavadgity
 - Моему  · n=5  · gitarthasamgraha-abhinavagupta, bhagavadgita-radha, bhagavadgita-sharma
@@ -43425,7 +43425,7 @@
 - одарен умом  · n=1  · mahabharata-udyogaparva
 - мудрец  · n=1  · gitarthasamgraha-abhinavagupta
 - умудренный  · n=1  · bhagavadgita-erman
-- умудрённый  · n=1  · mahabharata-ashvamedhikaparva
+- умудренный  · n=1  · mahabharata-ashvamedhikaparva
 - Премудрый  · n=1  · mahabharata-sabhaparva
 - Мудрый  · n=1  · kat-up
 
@@ -51573,7 +51573,7 @@
 - введенный в заблуждение  · n=1  · bhagavadgita-1914
 - смущаются  · n=1  · bhagavadgity
 - блуждают  · n=1  · bhagavadgita-erman
-- введённый в заблуждение  · n=1  · bhagavadgita-smirnov
+- введенный в заблуждение  · n=1  · bhagavadgita-smirnov
 - едва ли могутъ опредѣлить  · n=1  · bhagavadgita-1788
 - ослеплен  · n=1  · bhagavadgita-sementsov
 - ввергнутая в иллюзию  · n=1  · bhagavadgita-prabhupada
@@ -53590,7 +53590,7 @@
 - обретает спасение  · n=1  · mahabharata-ashvamedhikaparva
 - освободится  · n=1  · mahabharata-ashvamedhikaparva
 - высвобождается  · n=1  · mahabharata-ashvamedhikaparva
-- обретёт Освобождение  · n=1  · mahabharata-ashvamedhikaparva
+- обретет Освобождение  · n=1  · mahabharata-ashvamedhikaparva
 - избавляются  · n=1  · mahabharata-ashvamedhikaparva
 - покидает  · n=1  · shukasaptati
 - кончилось  · n=1  · shukasaptati
@@ -55073,7 +55073,7 @@
 
 - освобожденный  · n=2  · mahabharata-adiparva, ramayana-sundarakanda
 - свободно  · n=2  · bhagavadgita-1914, bhagavadgita-radha
-- освобождённый  · n=1  · mahabharata-adiparva
+- освобожденный  · n=1  · mahabharata-adiparva
 - выпущенное  · n=1  · mahabharata-adiparva
 - вылетел  · n=1  · ramayana-sundarakanda
 - освобожденное  · n=1  · bhagavadgita-burba

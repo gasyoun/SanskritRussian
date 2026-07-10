@@ -12,7 +12,7 @@
 
 ### `JaNkAranUpuraparAjitarAjahaMsya` — jhaṅkāranūpuraparājitarājahaṃsya  (n=1)
 
-- чаруют сильнее гусиного клёкота  · n=1  · shatakatrayam
+- чаруют сильнее гусиного клекота  · n=1  · shatakatrayam
 
 ### `JaRaJaRIBUtam` — jhaṇajhaṇībhūtam  (n=1)
 
@@ -1177,7 +1177,7 @@
 - родственницы  · n=3  · rigveda, manavadharmashastra
 - родство  · n=3  · rigveda, atharvaveda
 - сестре  · n=3  · rigveda, rigveda
-- сёстры  · n=2  · atharvaveda, rigveda
+- сестры  · n=2  · atharvaveda, rigveda
 - Сестры  · n=2  · rigveda
 - родственник  · n=2  · rigveda
 - кровная родня  · n=2  · rigveda
@@ -1458,7 +1458,7 @@
 - известно  · n=1  · mahabharata-karnaparva
 - знаете  · n=1  · nyaya-bhashya
 - осознает  · n=1  · mahabharata-ashvamedhikaparva
-- обрёл  · n=1  · hatha-yoga-pradipika
+- обрел  · n=1  · hatha-yoga-pradipika
 - ведома  · n=1  · gitagovinda
 
 ### `jAnIyAd` — jānīyād  (n=1)
@@ -2186,7 +2186,7 @@
 - новорожденному  · n=3  · rigveda, br-up, atharvaveda
 - Рожденная  · n=3  · atharvaveda, rigveda
 - возникли  · n=3  · mahabharata-ashvamedhikaparva, mahabharata-sabhaparva, atharvaveda
-- рождённый  · n=2  · atharvaveda, yotat-up
+- рожденный  · n=2  · atharvaveda, yotat-up
 - рождения  · n=2  · ramayana-ayodhyakanda
 - роду  · n=2  · ramayana-balakanda
 - был рожден  · n=2  · mahabharata-aranyakaparva
@@ -2452,9 +2452,9 @@
 - родившемуся  · n=2  · rigveda, mahabharata-sabhaparva
 - родился  · n=2  · rigveda, atharvaveda
 - сыне  · n=2  · br-up
-- рождённое  · n=1  · atharvaveda
+- рожденное  · n=1  · atharvaveda
 - появившегося  · n=1  · mahabharata-adiparva
-- рождённого  · n=1  · mahabharata-shantiparva
+- рожденного  · n=1  · mahabharata-shantiparva
 - заставивший  · n=1  · ramayana-ayodhyakanda
 - возникла  · n=1  · ramayana-aranyakanda
 - беседовал  · n=1  · ramayana-aranyakanda
@@ -2730,8 +2730,8 @@
 - при рождении  · n=1  · mahabharata-aranyakaparva
 - рожденному  · n=1  · buddhacharita
 - для рожденного  · n=1  · bhagavadgita-1914
-- рождённого  · n=1  · bhagavadgity
-- Для рождённого  · n=1  · bhagavadgita-smirnov
+- рожденного  · n=1  · bhagavadgity
+- Для рожденного  · n=1  · bhagavadgita-smirnov
 - родившегося на свет  · n=1  · bhagavadgita-prabhupada
 - для того, кто рожден  · n=1  · bhagavadgita-radha
 - что рождено  · n=1  · rigveda
@@ -3513,7 +3513,7 @@
 - бывает  · n=1  · yotat-up
 - является  · n=1  · yotat-up
 - явится  · n=1  · yotat-up
-- завоёвано  · n=1  · yotat-up
+- завоевано  · n=1  · yotat-up
 - рождены  · n=1  · mun-up
 - возникать  · n=1  · pratyabhijna-hridaya_kshemaraja
 
@@ -3986,7 +3986,7 @@
 - останется в живых  · n=1  · mahabharata-adiparva
 - остаться в живых  · n=1  · mahabharata-udyogaparva
 - живешь  · n=1  · mahabharata-udyogaparva
-- живёт  · n=1  · bhagavadgity
+- живет  · n=1  · bhagavadgity
 - жива  · n=1  · hatha-yoga-pradipika
 - в живых  · n=1  · shatakatrayam-serebryakov
 - жил  · n=1  · atharvaveda
@@ -4882,7 +4882,7 @@
 - здравствуешь  · n=1  · mahabharata-dronaparva
 - живы  · n=1  · mahabharata-udyogaparva
 - твоей  · n=1  · mahabharata-udyogaparva
-- живёт  · n=1  · bhagavadgita-smirnov
+- живет  · n=1  · bhagavadgita-smirnov
 - живетъ  · n=1  · bhagavadgita-1788
 - обретает  · n=1  · hatha-yoga-pradipika
 - удерживается  · n=1  · hatha-yoga-pradipika
@@ -5673,7 +5673,7 @@
 - различаю  · n=1  · mahabharata-bhishmaparva
 - осознавали  · n=1  · mahabharata-dronaparva
 - знай  · n=1  · mahabharata-udyogaparva
-- познаёт  · n=1  · bhagavadgita-burba
+- познает  · n=1  · bhagavadgita-burba
 - знающий  · n=1  · bhagavadgita-erman
 - служитъ причиною  · n=1  · bhagavadgita-1788
 - познаетъ  · n=1  · bhagavadgita-1788
@@ -5882,7 +5882,7 @@
 
 - чья мысль утверждена в знании  · n=1  · mahabharata-bhishmaparva
 - в знании умом пребывая  · n=1  · gitarthasamgraha-abhinavagupta
-- с мыслью, утверждённой в мудрости  · n=1  · bhagavadgita-smirnov
+- с мыслью, утвержденной в мудрости  · n=1  · bhagavadgita-smirnov
 - утвердил мысль свою в знанье  · n=1  · bhagavadgita-sementsov
 
 ### `jYAnAvasTitacetasaH` — jñānāvasthitacetasaḥ  (n=4)
@@ -6068,7 +6068,7 @@
 ### `jYAna-agni-dagDa-karman` — jñāna-agni-dagdha-karman  (n=2)
 
 - ОГНЕМ ЗНАНИЯ ... испепелившего ... карму  · n=1  · ramanuja_gitabhashya
-- сжёг действия на огне мудрости  · n=1  · bhagavadgity
+- сжег действия на огне мудрости  · n=1  · bhagavadgity
 
 ### `jYAna-agniH` — jñāna-agniḥ  (n=1)
 
@@ -6086,7 +6086,7 @@
 ### `jYAna-avasTita-cetas` — jñāna-avasthita-cetas  (n=2)
 
 - утвержденного мыслью в знании  · n=1  · ramanuja_gitabhashya
-- с мыслью, утверждённой в мудрости  · n=1  · bhagavadgity
+- с мыслью, утвержденной в мудрости  · n=1  · bhagavadgity
 
 ### `jYAna-avasTita-cetasaH` — jñāna-avasthita-cetasaḥ  (n=1)
 
@@ -6559,7 +6559,7 @@
 ### `jYAnanASAt` — jñānanāśāt  (n=2)
 
 - так как знание губит ее  · n=1  · devi-gita
-- так как знание губит её  · n=1  · devi-gita
+- так как знание губит ее  · n=1  · devi-gita
 
 ### `jYAnanASa` — jñānanāśa  (n=1)
 
@@ -6951,7 +6951,7 @@
 - волшебное знание  · n=1  · mahabharata-adiparva
 - силу знаний  · n=1  · mahabharata-udyogaparva
 - сопряжение [путем] знания  · n=1  · bhagavadgita-erman
-- сопряжение путём знания  · n=1  · bhagavadgita-erman
+- сопряжение путем знания  · n=1  · bhagavadgita-erman
 - джняна-йоге  · n=1  · mahabharata-striparva
 
 ### `jYAnayogavyavasTiti` — jñānayogavyavasthiti  (n=9)
@@ -7978,7 +7978,7 @@
 - все, что необходимо познать  · n=1  · bhagavadgita-1914
 - цель  · n=1  · bhagavadgita-1914
 - предмет мудрости  · n=1  · bhagavadgita-1914
-- познаётся  · n=1  · bhagavadgity
+- познается  · n=1  · bhagavadgity
 - предмет познанья  · n=1  · bhagavadgity
 - нужно признать  · n=1  · bhagavadgita-smirnov
 - подлежит познанию  · n=1  · bhagavadgita-smirnov
@@ -8024,7 +8024,7 @@
 - тот, кто будет познан  · n=1  · bhagavadgita-burba
 - познает  · n=1  · bhagavadgita-1914
 - Познай  · n=1  · bhagavadgity
-- познаёшься  · n=1  · bhagavadgita-smirnov
+- познаешься  · n=1  · bhagavadgita-smirnov
 - тот, о ком следует помнить  · n=1  · bhagavadgita-prabhupada
 
 ### `jYeyaM` — jñeyaṃ  (n=11)
@@ -8105,7 +8105,7 @@
 - проистекающие  · n=1  · mahabharata-aranyakaparva
 - рожденных  · n=1  · mahabharata-adiparva
 - рожденная  · n=1  · mahabharata-bhishmaparva
-- рождённая  · n=1  · mahabharata-bhishmaparva
+- рожденная  · n=1  · mahabharata-bhishmaparva
 - порожденных  · n=1  · mahabharata-bhishmaparva
 - происходящее  · n=1  · mahabharata-bhishmaparva
 - производимый  · n=1  · mahabharata-dronaparva
@@ -8125,7 +8125,7 @@
 - рождаемого  · n=1  · shatakatrayam-serebryakov
 - порождаемое  · n=1  · sankhya-karika
 - возникают  · n=1  · yoga-sutry_vyasa-bhashya
-- рождённый  · n=1  · yoga-sutry
+- рожденный  · n=1  · yoga-sutry
 
 ### `jaBAra` — jabhāra  (n=15)
 
@@ -8288,7 +8288,7 @@
 - сзади  · n=1  · mahabharata-dronaparva
 - крупе  · n=1  · rigveda
 - седалищем  · n=1  · devi-gita
-- бёдра  · n=1  · shatakatrayam
+- бедра  · n=1  · shatakatrayam
 - покров бедер  · n=1  · gitagovinda
 - пышнобедрой  · n=1  · gitagovinda
 - лоно  · n=1  · gitagovinda
@@ -8304,7 +8304,7 @@
 
 ### `jaGanadarSanalAlasena` — jaghanadarśanalālasena  (n=1)
 
-- чтоб бёдра были видны  · n=1  · chaurapanchashika
+- чтоб бедра были видны  · n=1  · chaurapanchashika
 
 ### `jaGanaiH` — jaghanaiḥ  (n=1)
 
@@ -9002,7 +9002,7 @@
 - вошла  · n=1  · mahabharata-dronaparva
 - проникнулся  · n=1  · mahabharata-dronaparva
 - Сделал  · n=1  · buddhacharita
-- обрёл  · n=1  · buddhacharita
+- обрел  · n=1  · buddhacharita
 - одолел  · n=1  · buddhacharita
 - переходил на шаг  · n=1  · buddhacharita
 - проходил  · n=1  · buddhacharita
@@ -9814,7 +9814,7 @@
 
 ### `jagatraya` — jagatraya  (n=2)
 
-- трёх мирах  · n=2  · devi-gita
+- трех мирах  · n=2  · devi-gita
 
 ### `jagatsarvaM` — jagatsarvaṃ  (n=1)
 
@@ -12002,7 +12002,7 @@
 
 ### `jalpyA` — jalpyā  (n=1)
 
-- шёпотом  · n=1  · rigveda
+- шепотом  · n=1  · rigveda
 
 ### `jalveRiramyAM` — jalveṇiramyāṃ  (n=1)
 
@@ -12010,8 +12010,8 @@
 
 ### `jam` — jam  (n=4)
 
-- рождённые  · n=3  · bhagavadgity
-- рождённая  · n=1  · bhagavadgity
+- рожденные  · n=3  · bhagavadgity
+- рожденная  · n=1  · bhagavadgity
 
 ### `jamBAd` — jambhād  (n=2)
 
@@ -12329,7 +12329,7 @@
 - родится  · n=2  · mahabharata-adiparva, atharvaveda
 - породила  · n=2  · rigveda, atharvaveda
 - рождаешься  · n=2  · rigveda
-- порождённое  · n=2  · devi-gita
+- порожденное  · n=2  · devi-gita
 - родилось  · n=2  · atharvaveda, sub-up
 - друзьями  · n=1  · ramayana-ayodhyakanda
 - рождает  · n=1  · manavadharmashastra
@@ -13078,7 +13078,7 @@
 
 ### `janakatanayAsnAnapuRyodakezu` — janakatanayāsnānapuṇyodakeṣu  (n=1)
 
-- близъ водъ прозрачныхъ, дщерью Джанаки купаньемъ освящённыхъ  · n=1  · megha-duta
+- близъ водъ прозрачныхъ, дщерью Джанаки купаньемъ освященныхъ  · n=1  · megha-duta
 
 ### `janake` — janake  (n=1)
 
@@ -13739,7 +13739,7 @@
 ### `janayaH` — janayaḥ  (n=6)
 
 - жены  · n=5  · rigveda, rigveda, atharvaveda
-- жёны  · n=1  · rigveda
+- жены  · n=1  · rigveda
 
 ### `janayaTA` — janayathā  (n=1)
 
@@ -15249,7 +15249,7 @@
 - жертвоприношение, состоящее из шепотом произносимых  · n=1  · manavadharmashastra
 - жертвоприношения, состоящего из шепотом произносимых  · n=1  · manavadharmashastra
 - жертва шептания мантры  · n=1  · bhagavadgity
-- жертва шёпота мантры  · n=1  · bhagavadgita-smirnov
+- жертва шепота мантры  · n=1  · bhagavadgita-smirnov
 - Шепот мантры  · n=1  · bhagavadgita-smirnov
 - стихов повторенье  · n=1  · bhagavadgita-sementsov
 - повторение святых имен  · n=1  · bhagavadgita-prabhupada
@@ -17995,7 +17995,7 @@
 
 - победят  · n=6  · bhagavadgita-prabhupada, gitarthasamgraha-abhinavagupta, ramanuja_gitabhashya, bhagavadgita-1914, bhagavadgita-1909
 - победили  · n=3  · mahabharata-bhishmaparva, bhagavadgita-erman, bhagavadgita-radha
-- быть побеждёнными  · n=2  · bhagavadgita-smirnov
+- быть побежденными  · n=2  · bhagavadgita-smirnov
 - способны одолеть  · n=1  · mahabharata-aranyakaparva
 - победить  · n=1  · mahabharata-dronaparva
 - победили бы  · n=1  · mahabharata-udyogaparva
@@ -19894,7 +19894,7 @@
 - побежденная  · n=2  · atharvaveda
 - добыл  · n=2  · mahabharata-aranyakaparva
 - покорил  · n=2  · mahabharata-aranyakaparva
-- побеждённая  · n=1  · atharvaveda
+- побежденная  · n=1  · atharvaveda
 - победил  · n=1  · ramayana-aranyakanda
 - завладел  · n=1  · mahabharata-aranyakaparva
 - Побежденная  · n=1  · kama-sutra
@@ -20021,7 +20021,7 @@
 - покорена  · n=2  · mahabharata-udyogaparva, mahabharata-sabhaparva
 - покорившийся  · n=2  · bhagavadgita-1914
 - покоренъ  · n=2  · bhagavadgity, bhagavadgita-1788
-- побеждён  · n=2  · bhagavadgita-smirnov
+- побежден  · n=2  · bhagavadgita-smirnov
 - пріобрѣтаютъ  · n=2  · bhagavadgita-1788, bhagavadgita-1909
 - сражен  · n=2  · mahabharata-karnaparva
 - обретены  · n=2  · mahabharata-shalyaparva
@@ -20147,7 +20147,7 @@
 - покорил  · n=1  · mahabharata-aranyakaparva
 - покорен  · n=1  · mahabharata-dronaparva
 - завоевали  · n=1  · buddhacharita
-- покорён  · n=1  · mahabharata-udyogaparva
+- покорен  · n=1  · mahabharata-udyogaparva
 - побежденный  · n=1  · bhagavadgita-burba
 - пріобрѣтаютъ вѣчность  · n=1  · bhagavadgity
 - ненавидитъ  · n=1  · bhagavadgita-1909
@@ -23386,7 +23386,7 @@
 
 ### `jyotiScakra` — jyotiścakra  (n=1)
 
-- звёзды  · n=1  · devi-gita
+- звезды  · n=1  · devi-gita
 
 ### `jyotika` — jyotika  (n=1)
 

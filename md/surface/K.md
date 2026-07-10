@@ -1469,7 +1469,7 @@
 - копытами  · n=1  · ramayana-ayodhyakanda
 - копыт  · n=1  · ramayana-ayodhyakanda
 - Мул  · n=1  · ramayana-ayodhyakanda
-- осёл  · n=1  · manavadharmashastra
+- осел  · n=1  · manavadharmashastra
 - осле  · n=1  · manavadharmashastra
 - брату  · n=1  · ramayana-aranyakanda
 - хищные  · n=1  · ramayana-aranyakanda
@@ -3202,7 +3202,7 @@
 - поясов  · n=2  · ramayana-sundarakanda
 - подпруга  · n=2  · ramayana-aranyakanda
 - поясами  · n=1  · buddhacharita
-- бёдра  · n=1  · shatakatrayam
+- бедра  · n=1  · shatakatrayam
 - украшениями  · n=1  · shatakatrayam-serebryakov
 - постукивают  · n=1  · amaru-shataka
 - браслетами  · n=1  · amaru-shataka
@@ -4268,7 +4268,7 @@
 ### `kAlAmra` — kālāmra  (n=2)
 
 - Черное Манго  · n=1  · mahabharata-bhishmaparva
-- Чёрное Манго  · n=1  · mahabharata-bhishmaparva
+- Черное Манго  · n=1  · mahabharata-bhishmaparva
 
 ### `kAlAmrarasa` — kālāmrarasa  (n=1)
 
@@ -5897,7 +5897,7 @@
 
 ### `kAmABihatacetasam` — kāmābhihatacetasam  (n=1)
 
-- чьё сердце было поражено страстью  · n=1  · mahabharata-adiparva
+- чье сердце было поражено страстью  · n=1  · mahabharata-adiparva
 
 ### `kAmABilAzin` — kāmābhilāṣin  (n=1)
 
@@ -6579,7 +6579,7 @@
 - избавленные от желания удовольствий  · n=1  · bhagavadgita-burba
 - ЛИШЕНЫ ВОЖДЕЛЕНЬЯ, а также ЛИШЕНЫ ОТОЖДЕСТВЛЕНЬЯ  · n=1  · ramanuja_gitabhashya
 - свободны от вожделений  · n=1  · bhagavadgita-1914
-- лишены вожделений и расчётов  · n=1  · bhagavadgity
+- лишены вожделений и расчетов  · n=1  · bhagavadgity
 - свободно отъ идеи похотѣнія  · n=1  · bhagavadgita-1788
 
 ### `kAma-saNkalpa-varjita` — kāma-saṅkalpa-varjita  (n=1)
@@ -6743,7 +6743,7 @@
 
 ### `kAmaSalaBa` — kāmaśalabha  (n=2)
 
-- Кама-мотылёк  · n=1  · shatakatrayam
+- Кама-мотылек  · n=1  · shatakatrayam
 - Кама как мошка  · n=1  · shatakatrayam
 
 ### `kAmaSalya` — kāmaśalya  (n=1)
@@ -7703,7 +7703,7 @@
 
 ### `kAmasaNkalpavarjita` — kāmasaṅkalpavarjita  (n=3)
 
-- лишены вожделения и расчётов  · n=1  · bhagavadgita-smirnov
+- лишены вожделения и расчетов  · n=1  · bhagavadgita-smirnov
 - лишены желаний и намерений  · n=1  · bhagavadgita-sharma
 - лишенные основанной на стремлении к наслаждениям целеустремленности  · n=1  · bhagavadgita-prabhupada
 
@@ -8896,7 +8896,7 @@
 
 ### `kAntAyate` — kāntāyate  (n=1)
 
-- ведёт себя как любовник  · n=1  · shatakatrayam
+- ведет себя как любовник  · n=1  · shatakatrayam
 
 ### `kAnta` — kānta  (n=33)
 
@@ -13784,9 +13784,9 @@
 - Кутгаста  · n=4  · bhagavadgita-1788, bhagavadgita-1909
 - Вознесшегося  · n=3  · mahabharata-bhishmaparva, bhagavadgita-erman
 - вознесшийся  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
-- Вознёсшийся  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
+- Вознесшийся  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - вознесенное  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
-- Вознесённое  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
+- Вознесенное  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - стоящий на вершине  · n=2  · bhagavadgita-smirnov
 - недвижимая  · n=1  · gitarthasamgraha-abhinavagupta
 - стоящее над  · n=1  · gitarthasamgraha-abhinavagupta
@@ -16174,7 +16174,7 @@
 - говорящего  · n=1  · mahabharata-udyogaparva
 - возвещаю  · n=1  · gitarthasamgraha-abhinavagupta
 - говорившего  · n=1  · bhagavadgita-1914
-- возвещённую  · n=1  · bhagavadgity
+- возвещенную  · n=1  · bhagavadgity
 - устами  · n=1  · bhagavadgita-1788
 - повторяю  · n=1  · bhagavadgita-1909
 - поведанную  · n=1  · bhagavadgita-sharma
@@ -17690,7 +17690,7 @@
 ### `kailAsanilaya` — kailāsanilaya  (n=4)
 
 - обители на горе Кайласа  · n=1  · ramayana-sundarakanda
-- чьё жилище на Кайласе  · n=1  · mahabharata-aranyakaparva
+- чье жилище на Кайласе  · n=1  · mahabharata-aranyakaparva
 - имеющего жительство на Кайласе  · n=1  · mahabharata-sabhaparva
 - имеющий жительство на Кайласе  · n=1  · mahabharata-sabhaparva
 
@@ -17833,7 +17833,7 @@
 - совершенством  · n=1  · yoga-sutry_sharma
 - Особое  · n=1  · yotat-up
 - Особое состояние  · n=1  · yotat-up
-- Особое – kaivalya, также «обособленное», «исключительное» – состояние полной отрешённости не только от внешнего, но и от внутреннего «психического» мира, являющееся высшей целью йоги Патанджали  · n=1  · yotat-up
+- Особое – kaivalya, также «обособленное», «исключительное» – состояние полной отрешенности не только от внешнего, но и от внутреннего «психического» мира, являющееся высшей целью йоги Патанджали  · n=1  · yotat-up
 - высшему  · n=1  · paramarthasara-abhinavagupta
 - высшего единства  · n=1  · kai-up
 - Высшего единства  · n=1  · kai-up
@@ -18411,7 +18411,7 @@
 - колчаны  · n=1  · mahabharata-bhishmaparva
 - букет  · n=1  · buddhacharita
 - пояса  · n=1  · mahabharata-karnaparva
-- бёдра  · n=1  · shatakatrayam
+- бедра  · n=1  · shatakatrayam
 - подвесками  · n=1  · shatakatrayam-serebryakov
 - зарослях  · n=1  · gitagovinda
 
@@ -18942,7 +18942,7 @@
 - исчисляющих  · n=1  · mahabharata-bhishmaparva
 - исчисляющий  · n=1  · mahabharata-bhishmaparva
 - ограничителей  · n=1  · gitarthasamgraha-abhinavagupta
-- счётчиков  · n=1  · bhagavadgita-smirnov
+- счетчиков  · n=1  · bhagavadgita-smirnov
 - счисленіями  · n=1  · bhagavadgita-1788
 
 ### `kalayA` — kalayā  (n=3)
@@ -22954,7 +22954,7 @@
 
 ### `kapolatAla` — kapolatāla  (n=1)
 
-- щёки  · n=1  · chaurapanchashika
+- щеки  · n=1  · chaurapanchashika
 
 ### `kapolayoH` — kapolayoḥ  (n=2)
 
@@ -23531,7 +23531,7 @@
 
 ### `karRaSoBanA` — karṇaśobhanā  (n=1)
 
-- серёг  · n=1  · rigveda
+- серег  · n=1  · rigveda
 
 ### `karRaSrava` — karṇaśrava  (n=1)
 
@@ -26248,7 +26248,7 @@
 - рожденныя изъ дѣйствія  · n=2  · bhagavadgita-1909
 - рожденный действием  · n=1  · bhagavadgita-burba
 - плодов  · n=1  · bhagavadgita-1914
-- рождённые действием  · n=1  · bhagavadgity
+- рожденные действием  · n=1  · bhagavadgity
 - порожденія дѣйствія  · n=1  · bhagavadgita-1788
 - личныя желанья  · n=1  · bhagavadgita-1909
 - порожденный деятельностью  · n=1  · bhagavadgita-radha
@@ -26989,7 +26989,7 @@
 - рожденный делами  · n=1  · bhagavadgita-burba
 - рожденный жертвой  · n=1  · ramanuja_gitabhashya
 - Производимое дѣлами  · n=1  · bhagavadgity
-- рождённый действием  · n=1  · bhagavadgita-smirnov
+- рожденный действием  · n=1  · bhagavadgita-smirnov
 - рожденный действием  · n=1  · bhagavadgita-smirnov
 
 ### `karmajAn` — karmajān  (n=3)
@@ -27013,12 +27013,12 @@
 - возникший от [дурного] деяния  · n=1  · manavadharmashastra
 - результат деяний  · n=1  · mahabharata-aranyakaparva
 - благочестивыми деяниями  · n=1  · mahabharata-adiparva
-- деяниями рождённый  · n=1  · mahabharata-bhishmaparva
+- деяниями рожденный  · n=1  · mahabharata-bhishmaparva
 - порожденный кармой  · n=1  · gitarthasamgraha-abhinavagupta
 - рожденный деяньем  · n=1  · ramanuja_gitabhashya
 - рождены от действий  · n=1  · ramanuja_gitabhashya
 - рождается от деятельности  · n=1  · bhagavadgita-1914
-- рождённые действием  · n=1  · bhagavadgita-smirnov
+- рожденные действием  · n=1  · bhagavadgita-smirnov
 - Производимое дѣлами  · n=1  · bhagavadgita-1788
 - от плода деяний  · n=1  · bhagavadgita-sementsov
 - вслед за жертвой  · n=1  · bhagavadgita-sementsov
@@ -28965,7 +28965,7 @@
 - легкое в практике  · n=1  · bhagavadgita-radha
 - способен оказать  · n=1  · mahabharata-ashvamedhikaparva
 - вершить  · n=1  · mahabharata-ashvamedhikaparva
-- передаёт знание  · n=1  · devi-gita
+- передает знание  · n=1  · devi-gita
 - сделаться  · n=1  · mahabharata-sabhaparva
 - посеять  · n=1  · mahabharata-sabhaparva
 - прибегают  · n=1  · raghuvamsha
@@ -29723,7 +29723,7 @@
 - чьим  · n=1  · mahabharata-aranyakaparva
 - У чьего  · n=1  · rigveda
 - кем бы он ни был  · n=1  · rigveda
-- чьё  · n=1  · kumarasambhava
+- чье  · n=1  · kumarasambhava
 - чье-(нибудь)  · n=1  · rigveda
 - кем  · n=1  · raghuvamsha
 - Для кого  · n=1  · mahabharata-virataparva
@@ -29809,7 +29809,7 @@
 
 ### `kasyedam` — kasyedam  (n=1)
 
-- «Чьё это?»  · n=1  · mahabharata-ashvamedhikaparva
+- «Чье это?»  · n=1  · mahabharata-ashvamedhikaparva
 
 ### `kat` — kat  (n=1)
 
@@ -31852,7 +31852,7 @@
 - прозорливец  · n=2  · rigveda, rigveda
 - мудр  · n=2  · mahabharata-adiparva, mahabharata-udyogaparva
 - озаренных  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
-- Озарённый  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
+- Озаренный  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
 - Бардами  · n=2  · bhagavadgity, bhagavadgita-1788
 - певцов  · n=2  · bhagavadgita-smirnov, shatakatrayam
 - Всеведущий  · n=2  · bhagavadgita-sharma, isha-up
@@ -32287,7 +32287,7 @@
 
 - Острая, кислая, соленая, слишком горячая, возбуждающая, сухая, обжигающая  · n=1  · gitarthasamgraha-abhinavagupta
 - Перегретая, горькая, кислая, с солью, очень острая, грубая, жгучая  · n=1  · ramanuja_gitabhashya
-- Острая, кислая, солёная, слишком горячая, возбуждающая, сухая, обжигающая  · n=1  · bhagavadgita-smirnov
+- Острая, кислая, соленая, слишком горячая, возбуждающая, сухая, обжигающая  · n=1  · bhagavadgita-smirnov
 - горькая, кислая, соленая, очень горячая, острая, сухая и жгучая  · n=1  · bhagavadgita-sharma
 
 ### `kawyAM` — kaṭyāṃ  (n=1)
@@ -32296,7 +32296,7 @@
 
 ### `kawyaDoBAgatA` — kaṭyadhobhāgatā  (n=2)
 
-- от бёдер и до нижней части [стопы]  · n=2  · devi-gita
+- от бедер и до нижней части [стопы]  · n=2  · devi-gita
 
 ### `kayA` — kayā  (n=20)
 
@@ -32388,7 +32388,7 @@
 
 ### `kazwA` — kaṣṭā  (n=5)
 
-- тяжёлом  · n=1  · mahabharata-adiparva
+- тяжелом  · n=1  · mahabharata-adiparva
 - тяжелом  · n=1  · mahabharata-adiparva
 - Суровую  · n=1  · mahabharata-aranyakaparva
 - жестокие  · n=1  · mahabharata-adiparva
@@ -33448,7 +33448,7 @@
 - тычинок  · n=1  · shatakatrayam-serebryakov
 - тычинка  · n=1  · amaru-shataka
 - стебелькахъ  · n=1  · megha-duta
-- кёсара  · n=1  · megha-duta
+- кесара  · n=1  · megha-duta
 
 ### `kesaradAmakAYcI` — kesaradāmakāñcī  (n=1)
 
@@ -34101,7 +34101,7 @@
 
 ### `keyUrakowikzatatAludeSA` — keyūrakoṭikṣatatāludeśā  (n=1)
 
-- расцарапав себе нёбо шипами наручника  · n=1  · raghuvamsha
+- расцарапав себе небо шипами наручника  · n=1  · raghuvamsha
 
 ### `keyUramudrA` — keyūramudrā  (n=1)
 
@@ -34652,7 +34652,7 @@
 - превращаешь  · n=2  · rigveda
 - совершает  · n=2  · rigveda
 - распознает  · n=1  · rigveda
-- распознаёт  · n=1  · rigveda
+- распознает  · n=1  · rigveda
 - забрался  · n=1  · rigveda
 - исполняет  · n=1  · rigveda
 
@@ -37079,7 +37079,7 @@
 - оказал  · n=2  · buddhacharita, mahabharata-sabhaparva
 - предприняты  · n=2  · mahabharata-udyogaparva, mahabharata-shalyaparva
 - выполнении  · n=2  · gitarthasamgraha-abhinavagupta, hatha-yoga-pradipika
-- совершённый  · n=2  · gitarthasamgraha-abhinavagupta, shatakatrayam
+- совершенный  · n=2  · gitarthasamgraha-abhinavagupta, shatakatrayam
 - совершали  · n=2  · bhagavadgita-1914, bhagavadgita-radha
 - деланье  · n=2  · bhagavadgity, bhagavadgita-smirnov
 - совершаемое  · n=2  · bhagavadgity, bhagavadgita-1788
@@ -37092,7 +37092,7 @@
 - деянием  · n=2  · atharvaveda
 - счастливую взятку  · n=2  · atharvaveda, atharvaveda
 - сделанные  · n=2  · shatakatrayam
-- совершён  · n=1  · mahabharata-adiparva
+- совершен  · n=1  · mahabharata-adiparva
 - вступила  · n=1  · mahabharata-adiparva
 - установлена  · n=1  · mahabharata-adiparva
 - Исполнить  · n=1  · ramayana-ayodhyakanda
@@ -37641,7 +37641,7 @@
 - совершено  · n=4  · mahabharata-aranyakaparva, mahabharata-dronaparva, mahabharata-ashramavasikaparva, mahabharata-adiparva
 - сделано  · n=2  · mahabharata-adiparva, atharvaveda
 - Сделайте  · n=2  · rigveda, rigveda
-- совершённое  · n=1  · mahabharata-adiparva
+- совершенное  · n=1  · mahabharata-adiparva
 - Сделано  · n=1  · ramayana-sundarakanda
 - сделанное  · n=1  · ramayana-sundarakanda
 - содеянного  · n=1  · mahabharata-aranyakaparva
@@ -38142,9 +38142,9 @@
 
 ### `kftakftya` — kṛtakṛtya  (n=38)
 
-- удовлетворён  · n=3  · devi-gita
+- удовлетворен  · n=3  · devi-gita
 - долг свой до конца исполнит  · n=2  · mahabharata-bhishmaparva, bhagavadgita-erman
-- удовлетворённым  · n=2  · devi-gita
+- удовлетворенным  · n=2  · devi-gita
 - достигла цели  · n=1  · mahabharata-adiparva
 - достигшая цели  · n=1  · mahabharata-adiparva
 - сделаю то, что должен  · n=1  · ramayana-ayodhyakanda
@@ -38167,7 +38167,7 @@
 - человека, честно исполнившего свой долг  · n=1  · mahabharata-ashvamedhikaparva
 - достигает своей цели  · n=1  · mahabharata-ashvamedhikaparva
 - довольной  · n=1  · devi-gita
-- становится удовлетворён  · n=1  · devi-gita
+- становится удовлетворен  · n=1  · devi-gita
 - довольны  · n=1  · mahabharata-virataparva
 - достигнешь своей цели  · n=1  · mahabharata-striparva
 - совершив всё, что было должно  · n=1  · paramarthasara-abhinavagupta
@@ -38179,7 +38179,7 @@
 
 ### `kftakftyaH` — kṛtakṛtyaḥ  (n=10)
 
-- удовлетворён  · n=2  · devi-gita
+- удовлетворен  · n=2  · devi-gita
 - выполнить свой долг  · n=1  · ramayana-ayodhyakanda
 - достиг цели  · n=1  · mahabharata-adiparva
 - все, что должно было быть сделано, исполнено  · n=1  · mahabharata-dronaparva
@@ -38318,7 +38318,7 @@
 - достигнута  · n=2  · mahabharata-udyogaparva, mahabharata-virataparva
 - совершенный  · n=2  · mahabharata-udyogaparva, bhagavadgita-prabhupada
 - сделанное  · n=2  · rigveda, bhagavadgita-burba
-- совершённое  · n=2  · ramanuja_gitabhashya, bhagavadgita-prabhupada
+- совершенное  · n=2  · ramanuja_gitabhashya, bhagavadgita-prabhupada
 - выполняемая  · n=2  · bhagavadgita-prabhupada
 - крита  · n=2  · ch-up
 - содеянный  · n=2  · atharvaveda
@@ -40994,10 +40994,10 @@
 - Черные  · n=2  · rigveda, atharvaveda
 - Кришнами  · n=2  · mahabharata-bhishmaparva, mahabharata-karnaparva
 - темная половина месяца  · n=2  · bhagavadgita-burba, bhagavadgita-erman
-- тёмная половина месяца  · n=2  · bhagavadgity, bhagavadgita-smirnov
-- тёмный  · n=2  · bhagavadgity, bhagavadgita-smirnov
+- темная половина месяца  · n=2  · bhagavadgity, bhagavadgita-smirnov
+- темный  · n=2  · bhagavadgity, bhagavadgita-smirnov
 - рассвирепев  · n=2  · rigveda
-- чёрный  · n=2  · yotat-up
+- черный  · n=2  · yotat-up
 - Кришны-Двайпаяны  · n=1  · mahabharata-adiparva
 - двадцать четыре  · n=1  · mahabharata-adiparva
 - темной  · n=1  · manavadharmashastra
@@ -41358,7 +41358,7 @@
 
 ### `kfzRapaviH` — kṛṣṇapaviḥ  (n=2)
 
-- с черной колеёй  · n=2  · rigveda
+- с черной колеей  · n=2  · rigveda
 
 ### `kfzRapiNgala` — kṛṣṇapiṅgala  (n=1)
 
@@ -41541,7 +41541,7 @@
 - оставляющий черный след  · n=1  · mahabharata-adiparva
 - огня  · n=1  · mahabharata-adiparva
 - огонь, чей черен путь  · n=1  · mahabharata-bhishmaparva
-- огонь, чей чёрен путь  · n=1  · mahabharata-bhishmaparva
+- огонь, чей черен путь  · n=1  · mahabharata-bhishmaparva
 - пылающий огонь  · n=1  · mahabharata-udyogaparva
 - черной дорогой  · n=1  · mahabharata-udyogaparva
 
@@ -42708,7 +42708,7 @@
 ### `kiYcidapi` — kiñcidapi  (n=4)
 
 - каких-либо  · n=1  · gitarthasamgraha-abhinavagupta
-- ни о чём  · n=1  · bhagavadgita-smirnov
+- ни о чем  · n=1  · bhagavadgita-smirnov
 - ни о чем  · n=1  · bhagavadgita-sementsov
 - ничего  · n=1  · mahabharata-karnaparva
 
@@ -42914,7 +42914,7 @@
 
 ### `kiYcitsamunmizitaGUrRitajihmanetrAm` — kiñcitsamunmiṣitaghūrṇitajihmanetrām  (n=1)
 
-- Подрагивающих, чуть раскрытых глаз её искоса взгляд  · n=1  · chaurapanchashika
+- Подрагивающих, чуть раскрытых глаз ее искоса взгляд  · n=1  · chaurapanchashika
 
 ### `kiYcitsmitollasitamAMsalapARqugallam` — kiñcitsmitollasitamāṃsalapāṇḍugallam  (n=1)
 
@@ -44280,7 +44280,7 @@
 - веточками  · n=1  · ramayana-sundarakanda
 - побег  · n=1  · ramayana-aranyakanda
 - расцвѣтшіе  · n=1  · megha-duta
-- кёсара  · n=1  · megha-duta
+- кесара  · n=1  · megha-duta
 
 ### `kisalayaiH` — kisalayaiḥ  (n=1)
 
@@ -47793,7 +47793,7 @@
 - разумению  · n=1  · rigveda
 - намерениями  · n=1  · rigveda
 - СОВЕРШЕНЬЕ ЖЕРТВЫ  · n=1  · ramanuja_gitabhashya
-- ритуал в виде джьётиштомы  · n=1  · ramanuja_gitabhashya
+- ритуал в виде джьетиштомы  · n=1  · ramanuja_gitabhashya
 - обряд жертвоприношения  · n=1  · bhagavadgita-smirnov
 - особая ведическая жертва  · n=1  · bhagavadgita-smirnov
 - достигшим совершенства  · n=1  · mahabharata-ashvamedhikaparva
@@ -48579,7 +48579,7 @@
 - путем усердной практики  · n=1  · hatha-yoga-pradipika
 - движения  · n=1  · yoga-sutry_zagumennov
 - приемы  · n=1  · yotat-up
-- приёмы  · n=1  · yotat-up
+- приемы  · n=1  · yotat-up
 - делах  · n=1  · pr-up
 - Действие  · n=1  · pratyabhijna-hridaya_kshemaraja
 - появиться  · n=1  · buddhacharita
@@ -58924,7 +58924,7 @@
 
 ### `kvanu` — kva nu  (n=1)
 
-- в чём  · n=1  · mahabharata-ashvamedhikaparva
+- в чем  · n=1  · mahabharata-ashvamedhikaparva
 
 ### `kvanunAma` — kva nu nāma  (n=1)
 
@@ -59207,7 +59207,7 @@
 
 ### `kzArAmbuDeH` — kṣārāmbudheḥ  (n=1)
 
-- солёным морским волнам  · n=1  · shatakatrayam
+- соленым морским волнам  · n=1  · shatakatrayam
 
 ### `kzArAmbuDi` — kṣārāmbudhi  (n=1)
 
@@ -63434,7 +63434,7 @@
 ### `kzezi` — kṣeṣi  (n=2)
 
 - живешь  · n=1  · rigveda
-- живёш  · n=1  · rigveda
+- живеш  · n=1  · rigveda
 
 ### `kzezwa` — kṣeṣṭa  (n=1)
 
