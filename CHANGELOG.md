@@ -1,12 +1,21 @@
 # Changelog
 
-_Created: 01-07-2026 · Last updated: 01-07-2026_
+_Created: 01-07-2026 · Last updated: 12-07-2026_
 
 All notable changes to this project are documented here. Format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); versioning is
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [1.1.0] — 2026-07-12
+
+### Added
+- Course CTA footer on the live glossary page ([H716](https://github.com/gasyoun/Uprava/blob/main/handoffs/H716-Fable_SanskritKaraoke_free-funnel-cta-audit_11.07.26.md)
+  free-funnel audit): «Смотреть актуальные курсы санскрита →» → `samskrte.ru/online` with
+  `utm_source=glossary&utm_medium=cta&utm_campaign=sanskritrussian`, custdev-proven hint
+  «Можно в записи и в своём темпе», secondary «Задать вопрос в Telegram» → `t.me/rusamskrtam`.
+  Audit table lives in [SanskritKaraoke docs/FREE_FUNNEL_CTA_AUDIT_07_2026.md](https://github.com/gasyoun/SanskritKaraoke/blob/main/docs/FREE_FUNNEL_CTA_AUDIT_07_2026.md).
 
 ## [1.0.1] — 2026-07-01
 
