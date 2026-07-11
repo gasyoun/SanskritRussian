@@ -1,11 +1,11 @@
 # Sanskrit → Russian glossary (surface · lemma · root)
 
-_Created: 01-07-2026 · Last updated: 01-07-2026_
+_Created: 01-07-2026 · Last updated: 11-07-2026_
 
-**🔎 Live searchable glossary:** <https://gasyoun.github.io/SanskritRussian/>
+**🔎 Live searchable glossary:** [gasyoun.github.io/SanskritRussian](https://gasyoun.github.io/SanskritRussian/)
 — type an SLP1 root/word (`gam`, `BU`) or a Russian word and browse the ranked translations.
 
-**See also:** [USE_CASES.md](USE_CASES.md) · [INTERLINKS.md](INTERLINKS.md) (upstream/downstream repos) · [CHANGELOG.md](CHANGELOG.md)
+**See also:** [USE_CASES.md](https://github.com/gasyoun/SanskritRussian/blob/main/USE_CASES.md) · [INTERLINKS.md](https://github.com/gasyoun/SanskritRussian/blob/main/INTERLINKS.md) (upstream/downstream repos) · [CHANGELOG.md](https://github.com/gasyoun/SanskritRussian/blob/main/CHANGELOG.md)
 
 A full inventory of **how every Sanskrit word is rendered into Russian** in the aligned
 corpus, at three granularities:
@@ -37,8 +37,10 @@ The four `gamemahi` lines you started from are one surface entry inside this rol
 Published (tracked + served on GitHub Pages) and regenerable via the scripts. The one
 exception is the 140 MB raw `surface_glossary.jsonl`, which exceeds GitHub's 100 MB file
 limit — it ships as `surface_glossary.jsonl.gz` **and** as a per-initial-letter split under
-[`surface/<X>.jsonl`](surface/) (26 parts, max ~22 MB; `cat surface/*.jsonl` reconstructs the
-whole). [`index.html`](index.html) is the searchable front-end over the root/lemma TSVs.
+[`surface/`](https://github.com/gasyoun/SanskritRussian/tree/main/surface) (26 parts, max
+~22 MB; `cat surface/*.jsonl` reconstructs the whole).
+[`index.html`](https://github.com/gasyoun/SanskritRussian/blob/main/index.html) is the
+searchable front-end over the root/lemma TSVs.
 
 Bucket filenames are **case-folded to upper** (`a` and `A` share one file): SLP1 is
 case-significant but Windows' filesystem is case-insensitive, so separate `a`/`A` files would
@@ -46,16 +48,16 @@ collide and truncate. The phonemic distinction is preserved inside each record's
 
 | File | What |
 |---|---|
-| `surface_glossary.tsv` + `surface/<X>.jsonl` (+ `.jsonl.gz`) | **Layer 1** — 190,838 forms → Ru with counts, registers, works, kinds |
-| `md/surface/<X>.md` | human-readable surface glossary, one file per initial SLP1 letter |
-| `lemma_glossary.jsonl` / `.tsv` + `md/lemma/` | **Layer 2** — 40,370 lemmas → Ru (nouns' stem, verbs' lemma) |
-| `root_glossary.jsonl` / `.tsv` + `md/root/` | **Layer 3** — 2,021 verb roots → Ru (aggregated over lemmas & forms) |
-| `dcs_form2lemma.tsv` | DCS map: 408,660 `form → lemma` pairs (SLP1) |
-| `dcs_lemma2root.tsv` | DCS map: `verb-lemma → root` (via DCS root inventory, longest-suffix) |
-| `vidyut_form2lemma.tsv` | Vidyut fallback: 28,567 DCS-missed forms → lemma/pos |
-| `surface_dcs_misses.tsv` | forms DCS could not lemmatize (stable **input to the Vidyut pass**) |
-| `surface_unresolved.tsv` | forms **no tier** resolved (DCS+Vidyut+marker) — the typology input |
-| `ambiguity_homographs.tsv` | forms whose top DCS lemmas span different POS / are close in count |
+| [`surface_glossary.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/surface_glossary.tsv) + [`surface/<X>.jsonl`](https://github.com/gasyoun/SanskritRussian/tree/main/surface) (+ `.jsonl.gz`) | **Layer 1** — 190,838 forms → Ru with counts, registers, works, kinds |
+| [`md/surface/`](https://github.com/gasyoun/SanskritRussian/tree/main/md/surface) | human-readable surface glossary, one file per initial SLP1 letter |
+| [`lemma_glossary.jsonl`](https://github.com/gasyoun/SanskritRussian/blob/main/lemma_glossary.jsonl) / [`.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/lemma_glossary.tsv) + [`md/lemma/`](https://github.com/gasyoun/SanskritRussian/tree/main/md/lemma) | **Layer 2** — 40,370 lemmas → Ru (nouns' stem, verbs' lemma) |
+| [`root_glossary.jsonl`](https://github.com/gasyoun/SanskritRussian/blob/main/root_glossary.jsonl) / [`.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/root_glossary.tsv) + [`md/root/`](https://github.com/gasyoun/SanskritRussian/tree/main/md/root) | **Layer 3** — 2,021 verb roots → Ru (aggregated over lemmas & forms) |
+| [`dcs_form2lemma.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/dcs_form2lemma.tsv) | DCS map: 408,660 `form → lemma` pairs (SLP1) |
+| [`dcs_lemma2root.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/dcs_lemma2root.tsv) | DCS map: `verb-lemma → root` (via DCS root inventory, longest-suffix) |
+| [`vidyut_form2lemma.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/vidyut_form2lemma.tsv) | Vidyut fallback: 28,567 DCS-missed forms → lemma/pos |
+| [`surface_dcs_misses.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/surface_dcs_misses.tsv) | forms DCS could not lemmatize (stable **input to the Vidyut pass**) |
+| [`surface_unresolved.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/surface_unresolved.tsv) | forms **no tier** resolved (DCS+Vidyut+marker) — the typology input |
+| [`ambiguity_homographs.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/ambiguity_homographs.tsv) | forms whose top DCS lemmas span different POS / are close in count |
 
 Every rollup record carries a `source` field (`dcs` vs `vidyut`) so provenance is auditable.
 
