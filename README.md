@@ -1,11 +1,23 @@
 # Sanskrit → Russian glossary (surface · lemma · root)
 
-_Created: 01-07-2026 · Last updated: 11-07-2026_
+_Created: 01-07-2026 · Last updated: 20-07-2026_
 
 **🔎 Live searchable glossary:** [gasyoun.github.io/SanskritRussian](https://gasyoun.github.io/SanskritRussian/)
 — type an SLP1 root/word (`gam`, `BU`) or a Russian word and browse the ranked translations.
 
 **See also:** [USE_CASES.md](https://github.com/gasyoun/SanskritRussian/blob/main/USE_CASES.md) · [INTERLINKS.md](https://github.com/gasyoun/SanskritRussian/blob/main/INTERLINKS.md) (upstream/downstream repos) · [CHANGELOG.md](https://github.com/gasyoun/SanskritRussian/blob/main/CHANGELOG.md)
+
+> ### ⚠️ Coverage ≠ accuracy
+>
+> The headline **87.1 %** is a **resolution rate** — the share of corpus *tokens* for which
+> the pipeline could attach *some* lemma/root and roll up a Russian gloss. It is **not** a
+> measure of whether that gloss is *correct*. The accuracy ceiling is lower: the upstream
+> Sanskrit↔Russian word alignment this layer is built on is measured at **84.4 % pair
+> precision**, and that error is then compounded by an **as-yet-unvalidated lemmatization
+> join** (a ≥2-char longest-suffix root rule, a Vidyut "most-entries-then-shortest" tiebreak,
+> and marker recovery). A **measured per-tier precision figure** (DCS / Vidyut / marker,
+> stratified by frequency) is coming in **wave 2** — until then, treat every gloss as a
+> *candidate*, strongest for high-frequency forms and weakest in the rare long tail.
 
 A full inventory of **how every Sanskrit word is rendered into Russian** in the aligned
 corpus, at three granularities:
@@ -27,8 +39,8 @@ kept (each entry records the split).
 `root_glossary` for **√gam** aggregates **678 surface forms** across **44 verb lemmas**
 (`gam, āgam, saṃāgam, abhigam, adhigam, upagam, anugam, …`), **7,116 occurrences**, ranked:
 
-> пришел (195) · отправился (176) · ушел (140) · пришли (100) · достигает (99) · явился (92)
-> · ступай (79) · пошел (77) · отправились (77) · идет (73) · удалился (73) · направился (64) …
+> пришел (196) · отправился (177) · ушел (141) · пришли (100) · достигает (99) · явился (92)
+> · ступай (79) · пошел (77) · отправились (77) · идет (73) · удалился (73) · направился (66) …
 
 The four `gamemahi` lines you started from are one surface entry inside this rollup.
 

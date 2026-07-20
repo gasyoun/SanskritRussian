@@ -1,12 +1,32 @@
 # Changelog
 
-_Created: 01-07-2026 · Last updated: 12-07-2026_
+_Created: 01-07-2026 · Last updated: 20-07-2026_
 
 All notable changes to this project are documented here. Format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); versioning is
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [1.1.1] — 2026-07-20
+
+### Added
+- **Coverage ≠ accuracy caveat** on the README and the live [`index.html`](https://github.com/gasyoun/SanskritRussian/blob/main/index.html):
+  the 87.1 % headline is a *resolution* rate, not a correctness rate; the accuracy ceiling is the
+  84.4 % upstream pair precision, compounded by an as-yet-unvalidated lemmatization join; a
+  measured per-tier precision figure is coming in wave 2 (H1349 W1.5).
+- **[README.meta.md](https://github.com/gasyoun/SanskritRussian/blob/main/README.meta.md)** companion
+  metadoc: purpose, provenance, load-bearing limitations, ranked improvement backlog.
+
+### Changed
+- README is now the **canonical** method/coverage/typology/accuracy doc (D11); the pipeline
+  `glossary/README.md` in SanskritLexicography shrank to a build runbook pointing here.
+- `√gam` showcase numbers reconciled to the current-data regen across README / USE_CASES /
+  SAMPLE (пришел 196 · отправился 177 · ушел 141 …; direction unchanged) (H1349 W1.4).
+
+### Note
+- Published data (`.tsv`/`.jsonl`) is **unchanged** — the H1349 wave-1 pipeline fixes are not yet
+  republished (republish is human-gated, D8). A later republish drops the root count 2,021 → ~1,853.
 
 ## [1.1.0] — 2026-07-12
 
