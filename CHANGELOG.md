@@ -1,12 +1,17 @@
 # Changelog
 
-_Created: 01-07-2026 · Last updated: 20-07-2026_
+_Created: 01-07-2026 · Last updated: 04-08-2026_
 
 All notable changes to this project are documented here. Format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); versioning is
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [1.2.0] — 2026-08-04
+
+### Added
+- **[ROOT_GLOSS_REGISTER_POLICY.md](https://github.com/gasyoun/SanskritRussian/blob/main/ROOT_GLOSS_REGISTER_POLICY.md)** (+ metadoc) — the register standard for authored Russian citation glosses of verb roots (H1860): dictionary-neutral infinitives, explicit person/aspect/voice rule, 18 worked examples from `root_glossary.tsv`, and a measured inconsistency census (top-1 infinitive share 5.8 %; 678/1,205 roots mix ≥2 register classes). Linked from the README; governs curated glosses only — the generated rollup data is untouched.
 
 ## [1.1.1] — 2026-07-20
 
