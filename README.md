@@ -44,6 +44,11 @@ kept (each entry records the split).
 
 The four `gamemahi` lines you started from are one surface entry inside this rollup.
 
+That ranked list is **corpus data**, quoted as-is (finite narrative forms and all). The
+authored *citation gloss* of √gam is written in the dictionary-neutral register instead —
+«идти / пойти; отправляться» — per
+[ROOT_GLOSS_REGISTER_POLICY.md](https://github.com/gasyoun/SanskritRussian/blob/main/ROOT_GLOSS_REGISTER_POLICY.md) §§2–4.
+
 ## Files
 
 Published (tracked + served on GitHub Pages) and regenerable via the scripts. The one

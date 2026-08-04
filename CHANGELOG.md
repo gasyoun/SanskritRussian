@@ -8,6 +8,17 @@ All notable changes to this project are documented here. Format follows
 
 ## [Unreleased]
 
+## [1.2.1] — 2026-08-04
+
+### Changed
+- **Curated root-gloss surfaces converted to the citation register** (H2290, the sweep
+  H1860 deferred): [SAMPLE_root_glossary.md](https://github.com/gasyoun/SanskritRussian/blob/main/SAMPLE_root_glossary.md)
+  now carries an authored dictionary-neutral **Citation gloss** line per showcased root (7
+  roots) plus a data-framing note; the [README](https://github.com/gasyoun/SanskritRussian/blob/main/README.md)
+  `√gam` example and [USE_CASES.md](https://github.com/gasyoun/SanskritRussian/blob/main/USE_CASES.md)
+  §1 now distinguish quoted corpus data from the authored citation gloss. Corpus rollup
+  data untouched; `index.html` had no headline glosses (verified).
+
 ## [1.2.0] — 2026-08-04
 
 ### Added
@@ -78,7 +89,8 @@ Initial public release — the three-layer Sanskrit→Russian glossary, data + l
 - Windows case-insensitive-filesystem collision in per-letter bucketing (was losing 23,007 of
   190,838 records); bucket names are now case-folded to upper. Split verified lossless.
 
-[Unreleased]: https://github.com/gasyoun/SanskritRussian/compare/v1.0.1...HEAD
+[Unreleased]: https://github.com/gasyoun/SanskritRussian/compare/v1.2.1...HEAD
+[1.2.1]: https://github.com/gasyoun/SanskritRussian/compare/v1.2.0...v1.2.1
 [1.0.1]: https://github.com/gasyoun/SanskritRussian/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/gasyoun/SanskritRussian/releases/tag/v1.0.0
 
