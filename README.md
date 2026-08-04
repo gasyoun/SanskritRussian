@@ -1,11 +1,11 @@
 # Sanskrit → Russian glossary (surface · lemma · root)
 
-_Created: 01-07-2026 · Last updated: 20-07-2026_
+_Created: 01-07-2026 · Last updated: 04-08-2026_
 
 **🔎 Live searchable glossary:** [gasyoun.github.io/SanskritRussian](https://gasyoun.github.io/SanskritRussian/)
 — type an SLP1 root/word (`gam`, `BU`) or a Russian word and browse the ranked translations.
 
-**See also:** [USE_CASES.md](https://github.com/gasyoun/SanskritRussian/blob/main/USE_CASES.md) · [INTERLINKS.md](https://github.com/gasyoun/SanskritRussian/blob/main/INTERLINKS.md) (upstream/downstream repos) · [CHANGELOG.md](https://github.com/gasyoun/SanskritRussian/blob/main/CHANGELOG.md)
+**See also:** [USE_CASES.md](https://github.com/gasyoun/SanskritRussian/blob/main/USE_CASES.md) · [INTERLINKS.md](https://github.com/gasyoun/SanskritRussian/blob/main/INTERLINKS.md) (upstream/downstream repos) · [ROOT_GLOSS_REGISTER_POLICY.md](https://github.com/gasyoun/SanskritRussian/blob/main/ROOT_GLOSS_REGISTER_POLICY.md) (register standard for authored root glosses) · [CHANGELOG.md](https://github.com/gasyoun/SanskritRussian/blob/main/CHANGELOG.md)
 
 > ### ⚠️ Coverage ≠ accuracy
 >
