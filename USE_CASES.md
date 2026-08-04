@@ -1,6 +1,6 @@
 # Use cases — Sanskrit → Russian glossary
 
-_Created: 01-07-2026 · Last updated: 01-07-2026_
+_Created: 01-07-2026 · Last updated: 04-08-2026_
 
 What the three-layer glossary ([root](https://github.com/gasyoun/SanskritRussian/blob/main/root_glossary.tsv)
 · [lemma](https://github.com/gasyoun/SanskritRussian/blob/main/lemma_glossary.tsv) ·
@@ -11,8 +11,11 @@ Everything below is answerable from the committed data or the
 ## 1. Bilingual lexicography — draft a Sa→Ru dictionary entry
 Look up a root and get its **full ranked set of Russian equivalents** across every attested
 form and prefixed verb. `√gam` → пришел (196) · отправился (177) · ушел (141) · достигает (99)
-· явился (92) … (678 forms, 44 lemmas, 7,116 occurrences). The frequency ranking gives the
-lead gloss and the long tail in one view — the skeleton of a dictionary sense list.
+· явился (92) … (678 forms, 44 lemmas, 7,116 occurrences — corpus data, quoted as-is). The
+frequency ranking gives the sense inventory and the long tail in one view — the raw material
+of a dictionary sense list. The entry's *citation gloss* itself is authored separately in the
+dictionary-neutral register («идти / пойти; отправляться»), per
+[ROOT_GLOSS_REGISTER_POLICY.md](https://github.com/gasyoun/SanskritRussian/blob/main/ROOT_GLOSS_REGISTER_POLICY.md) §§2–4.
 
 ## 2. Reverse lookup — Russian word → its Sanskrit sources
 On the [live page](https://gasyoun.github.io/SanskritRussian/) toggle **"search Russian"** and
