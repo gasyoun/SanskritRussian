@@ -1,6 +1,6 @@
 # Sanskrit → Russian glossary (surface · lemma · root)
 
-_Created: 01-07-2026 · Last updated: 04-08-2026_
+_Created: 01-07-2026 · Last updated: 02-09-2026_
 
 **🔎 Live searchable glossary:** [gasyoun.github.io/SanskritRussian](https://gasyoun.github.io/SanskritRussian/)
 — type an SLP1 root/word (`gam`, `BU`) or a Russian word and browse the ranked translations.
@@ -75,8 +75,26 @@ collide and truncate. The phonemic distinction is preserved inside each record's
 | [`surface_dcs_misses.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/surface_dcs_misses.tsv) | forms DCS could not lemmatize (stable **input to the Vidyut pass**) |
 | [`surface_unresolved.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/surface_unresolved.tsv) | forms **no tier** resolved (DCS+Vidyut+marker) — the typology input |
 | [`ambiguity_homographs.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/ambiguity_homographs.tsv) | forms whose top DCS lemmas span different POS / are close in count |
+| [`vidyut_ambiguity.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/vidyut_ambiguity.tsv) | Vidyut-tier mirror of `ambiguity_homographs.tsv` — alt-lemma trails for DCS-missed forms (H3877; see note below) |
+| [`lemma_provenance.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/lemma_provenance.tsv) / [`root_provenance.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/root_provenance.tsv) | per-lemma/root `source` (dcs/vidyut/marker) and top-3 `registers` breakdown, derived from the `.jsonl` — small sidecars so `index.html` can show provenance without loading the full JSONL (H3877) |
+| [`lemma_ambiguity.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/lemma_ambiguity.tsv) | per-lemma count + sample of contested forms, aggregated from `ambiguity_homographs.tsv` + `vidyut_ambiguity.tsv` — drives the UI's "contested form" indicator (H3877) |
 
 Every rollup record carries a `source` field (`dcs` vs `vidyut`) so provenance is auditable.
+
+**`vidyut_ambiguity.tsv` provenance (H3877, 02-09-2026).** `build_vidyut_fallback.py` in the
+sibling pipeline was already designed to emit this file (mirroring
+`ambiguity_homographs.tsv`'s schema) but it had never actually been generated/published here —
+only its sibling `vidyut_form2lemma.tsv` had shipped. Regenerating from the currently-installed
+`vidyut` package's kosha data reproduced the published `vidyut_form2lemma.tsv`'s row count
+(28,567) exactly but **not** identical per-row primary-lemma picks — evidence of `vidyut`
+kosha-data version drift since the original publish. To avoid introducing a second, disagreeing
+lemmatization surface, the shipped `vidyut_ambiguity.tsv` is **reconciled**: of 5,952
+newly-generated alt-lemma rows, only the 3,682 (61.9 %) whose primary `(lemma, pos)` pick agrees
+with the already-published, trusted `vidyut_form2lemma.tsv` are kept. The published primary-lemma
+baseline is never altered — only alt-lemma trail data consistent with it is newly exposed. See
+[`scripts/build_ui_support_data.py`](https://github.com/gasyoun/SanskritRussian/blob/main/scripts/build_ui_support_data.py)
+and [`scripts/reconcile_vidyut_ambiguity.py`](https://github.com/gasyoun/SanskritRussian/blob/main/scripts/reconcile_vidyut_ambiguity.py).
+Data-contract tests: `python scripts/test_ui_support_data.py`.
 
 ## Method
 
