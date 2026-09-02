@@ -38,7 +38,9 @@
     Three layers · SLP1 keys. Method &amp; typology: <a href="README.md">README</a> ·
     Data: <a href="root_glossary.tsv">root.tsv</a> · <a href="lemma_glossary.tsv">lemma.tsv</a> ·
     <a href="surface_glossary.tsv">surface.tsv</a> · <a href="surface_glossary.jsonl.gz">surface.jsonl.gz</a> ·
-    <a href="https://github.com/gasyoun/SanskritRussian/tree/main/surface">surface JSONL per letter</a></div>
+    <a href="https://github.com/gasyoun/SanskritRussian/tree/main/surface">surface JSONL per letter</a> ·
+    <a href="ambiguity_homographs.tsv">ambiguity_homographs.tsv</a> ·
+    <a href="vidyut_ambiguity.tsv">vidyut_ambiguity.tsv</a></div>
   <div class="sub" style="margin-top:.5em;padding:.5em .7em;border-left:3px solid #c98a00;background:rgba(201,138,0,.08)">
     ⚠️ <b>Coverage ≠ accuracy.</b> The 87.1&nbsp;% headline is a <i>resolution</i> rate (a gloss was
     attached), not a correctness rate. The upstream alignment is measured at 84.4&nbsp;% pair precision,
@@ -81,12 +83,46 @@ function parseTSV(text){
   for(const e of order){e.blob=(e.key+' '+e.iast+' '+e.tr.map(t=>t.ru).join(' ')).toLowerCase();}
   return order;
 }
+// provenance sidecar: key \t source \t registers  (e.g. "dcs:928" / "rigveda:775,atharvaveda:117")
+function parseProvenance(text){
+  const rows=text.split('\n'); const map=new Map();
+  for(let i=1;i<rows.length;i++){
+    const r=rows[i]; if(!r)continue;
+    const c=r.split('\t'); if(c.length<1)continue;
+    map.set(c[0],{source:c[1]||'',registers:c[2]||''});
+  }
+  return map;
+}
+// lemma_ambiguity sidecar: lemma_slp1 \t n_ambiguous_forms \t sample
+function parseAmbiguity(text){
+  const rows=text.split('\n'); const map=new Map();
+  for(let i=1;i<rows.length;i++){
+    const r=rows[i]; if(!r)continue;
+    const c=r.split('\t'); if(c.length<2)continue;
+    map.set(c[0],{n:+c[1]||0,sample:c[2]||''});
+  }
+  return map;
+}
+async function fetchText(url){
+  try{const res=await fetch(url); if(!res.ok)return ''; return await res.text();}
+  catch(e){return '';}
+}
 async function load(l){
   if(cache[l]){data=cache[l];return;}
   status.textContent='Loading '+l+'s…'; out.innerHTML='';
-  const res=await fetch(l+'_glossary.tsv');
-  const txt=await res.text();
-  cache[l]=parseTSV(txt); data=cache[l];
+  const [txt,provTxt,ambTxt]=await Promise.all([
+    fetchText(l+'_glossary.tsv'),
+    fetchText(l+'_provenance.tsv'),
+    l==='lemma'?fetchText('lemma_ambiguity.tsv'):Promise.resolve('')
+  ]);
+  const rows=parseTSV(txt);
+  const prov=parseProvenance(provTxt);
+  const amb=parseAmbiguity(ambTxt);
+  for(const e of rows){
+    const p=prov.get(e.key); e.source=p?p.source:''; e.registers=p?p.registers:'';
+    const a=amb.get(e.key); e.ambN=a?a.n:0; e.ambSample=a?a.sample:'';
+  }
+  cache[l]=rows; data=cache[l];
 }
 function render(){
   const term=q.value.trim().toLowerCase();
@@ -103,8 +139,14 @@ function render(){
     const card=document.createElement('div');card.className='card';
     const pre=layer==='root'?'√':'';
     let trs=e.tr; if(useRu&&term)trs=e.tr.filter(t=>t.ru.toLowerCase().includes(term)).concat(e.tr.filter(t=>!t.ru.toLowerCase().includes(term)));
+    const provBits=[];
+    if(e.source)provBits.push('src '+e.source);
+    if(e.registers)provBits.push('reg '+e.registers);
+    const provHtml=provBits.length?'<div class="meta" style="margin:4px 0 0;display:block">'+esc(provBits.join(' · '))+'</div>':'';
+    const ambHtml=e.ambN?'<div class="meta" style="margin:4px 0 0;display:block;color:#a4650a">⚠ '+e.ambN+' contested form'+(e.ambN>1?'s':'')+(e.ambSample?' — '+esc(e.ambSample):'')+'</div>':'';
     card.innerHTML='<span class="key">'+pre+e.key+'</span><span class="iast">'+pre+e.iast+'</span>'+
       '<span class="meta">n='+e.n_total.toLocaleString()+' · '+e.n_forms+' forms'+(e.upos?' · '+e.upos:'')+'</span>'+
+      provHtml+ambHtml+
       '<div class="tr">'+trs.slice(0,80).map(t=>'<span class="chip">'+esc(t.ru)+'<b>'+t.n+'</b></span>').join('')+'</div>';
     frag.appendChild(card);
   });

@@ -1,12 +1,31 @@
 # Changelog
 
-_Created: 01-07-2026 · Last updated: 04-08-2026_
+_Created: 01-07-2026 · Last updated: 02-09-2026_
 
 All notable changes to this project are documented here. Format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); versioning is
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [1.3.0] — 2026-09-02
+
+### Added
+- **Provenance + homograph UI (H3877).** `index.html` now fetches and displays each
+  lemma/root card's `source` (dcs/vidyut/marker) and top-3 `registers` breakdown, and flags
+  lemmas with contested alternate lemmas (⚠ contested form indicator, sourced from both the
+  DCS-tier `ambiguity_homographs.tsv` and the newly-published Vidyut-tier
+  `vidyut_ambiguity.tsv`) instead of silently showing only the dominant lemma. New small,
+  bounded sidecar files: [`lemma_provenance.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/lemma_provenance.tsv),
+  [`root_provenance.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/root_provenance.tsv),
+  [`lemma_ambiguity.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/lemma_ambiguity.tsv),
+  [`vidyut_ambiguity.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/vidyut_ambiguity.tsv)
+  (mirrors `ambiguity_homographs.tsv`'s schema for the Vidyut tier; designed in the sibling
+  pipeline's `build_vidyut_fallback.py` but never previously generated/published — see
+  [README](https://github.com/gasyoun/SanskritRussian/blob/main/README.md#files) for the
+  reconciliation-against-baseline note). Generators + data-contract tests added under
+  [`scripts/`](https://github.com/gasyoun/SanskritRussian/tree/main/scripts). No existing
+  glossary `.tsv`/`.jsonl` file touched.
 
 ## [1.2.1] — 2026-08-04
 
