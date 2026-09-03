@@ -1,6 +1,6 @@
 # Sanskrit → Russian glossary (surface · lemma · root)
 
-_Created: 01-07-2026 · Last updated: 02-09-2026_
+_Created: 01-07-2026 · Last updated: 03-09-2026_
 
 **🔎 Live searchable glossary:** [gasyoun.github.io/SanskritRussian](https://gasyoun.github.io/SanskritRussian/)
 — type an SLP1 root/word (`gam`, `BU`) or a Russian word and browse the ranked translations.
@@ -112,6 +112,12 @@ The corpus stores **only surface forms** — no lemma. Roots/lemmas are attached
 3. **Morpheme-marker recovery.** Forms both lexica miss but that carry a corpus boundary
    mark (`A+gam` = ā+√gam) are split on `[+-]`: the joined string is retried as a form, else
    the rightmost element is taken when it is a known root/lemma (`source='marker'`).
+3b. **Marker head-form recovery** (`source='marker-head'`, added 03-09-2026, **in the pipeline;
+   reaches the published files at the next republish** — see the note below the typology).
+   Same split, but for the very common case where the rightmost element is itself *inflected*
+   (`A-brahma-BuvanAt` → `BuvanAt`, an ablative of `Buvana`): it is lemmatized through the DCS
+   form→lemma map. Nothing is segmented — the corpus's own marks supply the decomposition.
+   Guarded to DCS form keys and to heads of ≥3 characters, both bounds set by measurement.
 4. **Unresolved** forms are kept in Layer 1 and characterised below.
 
 Join keys strip a leading avagraha/apostrophe on both sides (`'gacchat` == `gacchat`).
@@ -140,6 +146,19 @@ tail** — DCS/Vidyut resolve nearly every common form.
 | proper name | 3,094 | 8,945 | `ABIrya` (Абхиры), `ABar` | names/vocatives outside the lexica (Ru gloss capitalised) |
 | morpheme-marker residual | 1,389 | 2,312 | `A-brahma-BuvanAt` | has `+`/`-` marks but rightmost element is itself inflected, not a bare root |
 | short form / particle | 195 | 2,113 | `ABf`, `Ahf` | too short / clitic |
+
+> **Pending at the next republish (measured 03-09-2026, H3876).** The marker-residual row is
+> largely closed in the pipeline: lemmatizing the rightmost element through the DCS form→lemma
+> map recovers **1,018 of the 1,389 forms / 1,783 of the 2,312 tokens**, dropping the row to
+> **371 / 529** and lifting token coverage **87.11 % → 87.28 %** (resolved forms 111,996 →
+> 113,014, 58.7 % → 59.2 %; +17 lemma and +3 root entries, none lost). Measured lemma precision
+> 25/25 on the canonical tier × frequency sample; 27 of 40,387 lemma entries change their
+> dominant Russian rendering, 23 of those being ties between two one-occurrence glosses. The
+> tables above still describe the **currently published** files, which are unchanged — republish
+> is human-gated (**D8**) and will carry this together with the pending root count 2,021 →
+> 1,853. Method, guards and the honest weak point (a compound's Russian attaches to its head
+> lemma) are in
+> [REPORT_H3876_saru_marker_head_recovery_03-09-2026.md](https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/docs/REPORT_H3876_saru_marker_head_recovery_03-09-2026.md).
 
 **Join-side edge cases** (handled, not part of the 78,842):
 
