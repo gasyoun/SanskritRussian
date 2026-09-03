@@ -7,7 +7,9 @@ All notable changes to this project are documented here. Format follows
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+<!-- entries land in changelog_queue/ -- appended via tools/changelog_queue_consume.py, consumed by cut_release.py at release-cut (H3355); direct bullets here are hook-blocked -->
 
+## [1.3.1] - 2026-09-03
 ### Changed
 - **Marker-residual recovery measured and documented (H3876, 03-09-2026).** The pipeline in the
   sibling repo now recovers **1,018 of the 1,389 marker-residual forms / 1,783 of the 2,312
