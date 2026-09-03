@@ -1,12 +1,33 @@
 # Changelog
 
-_Created: 01-07-2026 · Last updated: 02-09-2026_
+_Created: 01-07-2026 · Last updated: 03-09-2026_
 
 All notable changes to this project are documented here. Format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); versioning is
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+### Changed
+- **Marker-residual recovery measured and documented (H3876, 03-09-2026).** The pipeline in the
+  sibling repo now recovers **1,018 of the 1,389 marker-residual forms / 1,783 of the 2,312
+  tokens** by lemmatizing a compound's rightmost element through the DCS form→lemma map
+  (`source='marker-head'` — a separate tier tag, because this is the layer's weakest evidence
+  and must stay filterable). `A-brahma-BuvanAt` was unresolved only because `BuvanAt` is an
+  *ablative of* `Buvana`, in neither the bare-root nor the bare-lemma inventory but a DCS form
+  key all along; nothing is segmented, so the wave-3 `vidyut.cheda` NO-GO stands. **Data here is
+  unchanged** — republish stays fenced behind the human D8 gate, and the README now carries a
+  pending-republish note with the numbers it will land: coverage 87.11 % → **87.28 %**, resolved
+  forms 111,996 → 113,014, typology row 1,389/2,312 → **371/529**, roots 1,853 → 1,856.
+  Lemma precision 25/25 on the canonical tier × frequency sample (single-judge; the 3-judge
+  panel run is still owed) against the wave-2 `marker` baseline of 93.3 %; 27 of 40,387 lemma
+  entries change their dominant Russian rendering, 23 of those ties between two one-occurrence
+  glosses. Honest weak point: a compound's Russian attaches to its head lemma, so a bahuvrīhi
+  (`vigata-BIr` "бесстрашный" → `BI` "страх") is mis-attributed — the wave-2 panel's systematic
+  lemma defect #3, extended, not solved. `README.meta.md` backlog reconciled against what
+  actually shipped. Report:
+  [REPORT_H3876_saru_marker_head_recovery_03-09-2026.md](https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/docs/REPORT_H3876_saru_marker_head_recovery_03-09-2026.md).
+  Opus 5 (`claude-opus-5`).
 
 ## [1.3.0] — 2026-09-02
 

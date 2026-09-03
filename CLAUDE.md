@@ -61,8 +61,11 @@ the Vidyut fallback. Output files then get copied/published into this repo.
 - **Homograph attribution**: a form's Russian distribution is attributed to
   its highest-count DCS lemma; alternates are logged (not double-counted) in
   `ambiguity_homographs.tsv`.
-- **Every rollup record carries a `source` field** (`dcs`/`vidyut`/`marker`)
-  for provenance — don't strip it when re-deriving data from these files.
+- **Every rollup record carries a `source` field** (`dcs`/`vidyut`/`marker`, plus
+  `marker-head` from the next republish onward — H3876's inflected-compound-head tier,
+  the layer's weakest evidence and deliberately kept filterable) for provenance — don't
+  strip it when re-deriving data from these files, and don't fold `marker-head` into
+  `marker`.
 - **Join-key normalization**: leading avagraha/apostrophe is stripped on both
   sides before joining (`'gacchat` == `gacchat`); a few corpus forms keep an
   internal space (e.g. `vācas pati`) and key on the spaced string.
