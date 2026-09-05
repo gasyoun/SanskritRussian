@@ -6,7 +6,7 @@ _Created: 04-08-2026 · Last updated: 04-08-2026_
 Sanskrit verb root (dhātu) in this repo and in gloss batches authored upstream in
 [SanskritLexicography/RussianTranslation](https://github.com/gasyoun/SanskritLexicography/tree/master/RussianTranslation).
 Before this policy each batch re-decided register locally, so the corpus mixes
-dictionary-neutral and pedagogical voices — measured in [§6](#6--measured-inconsistency-in-the-committed-data).
+dictionary-neutral and pedagogical voices — measured in [§6](#6-measured-inconsistency-in-the-committed-data).
 
 ---
 
