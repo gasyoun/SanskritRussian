@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Lemma glossary (Sa→Ru) — `E`
 
 242 entries.
@@ -2112,3 +2114,4 @@
 - желающие  · n=1
 - нуждающемуся  · n=1
 
+_Dr. Mārcis Gasūns_

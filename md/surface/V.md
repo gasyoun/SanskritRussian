@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Surface glossary — SLP1 `V`
 
 17037 forms. Format: `form` (sa) — total n → ru (n) · registers.
@@ -99333,3 +99335,4 @@
 - проведя  · n=1  · ramayana-ayodhyakanda
 - проведи  · n=1  · ramayana-aranyakanda
 
+_Dr. Mārcis Gasūns_

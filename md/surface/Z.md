@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Surface glossary — SLP1 `Z`
 
 313 forms. Format: `form` (sa) — total n → ru (n) · registers.
@@ -1482,3 +1484,4 @@
 - восторжествуют  · n=1  · rigveda
 - они  · n=1  · rigveda
 
+_Dr. Mārcis Gasūns_

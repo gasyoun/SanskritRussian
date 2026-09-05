@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Lemma glossary (Sa→Ru) — `Q`
 
 7 entries.
@@ -41,3 +43,4 @@
 - дундубху  · n=1
 - змея из породы дундубха  · n=1
 
+_Dr. Mārcis Gasūns_

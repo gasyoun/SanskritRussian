@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Surface glossary — SLP1 `B`
 
 7797 forms. Format: `form` (sa) — total n → ru (n) · registers.
@@ -48140,3 +48142,4 @@
 
 - туман  · n=2  · rigveda
 
+_Dr. Mārcis Gasūns_

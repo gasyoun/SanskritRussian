@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Surface glossary — SLP1 `N`
 
 9367 forms. Format: `form` (sa) — total n → ru (n) · registers.
@@ -51717,3 +51719,4 @@
 
 - Предложив  · n=1  · manavadharmashastra
 
+_Dr. Mārcis Gasūns_

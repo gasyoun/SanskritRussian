@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Lemma glossary (Sa→Ru) — `R`
 
 854 entries.
@@ -8607,3 +8609,4 @@
 
 - Рушадгу  · n=1
 
+_Dr. Mārcis Gasūns_

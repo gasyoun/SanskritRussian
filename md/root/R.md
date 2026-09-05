@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `R`
 
 79 entries.
@@ -1939,3 +1941,4 @@
 - гневом объятый  · n=1
 - Разгневавшись  · n=1
 
+_Dr. Mārcis Gasūns_

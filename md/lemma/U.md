@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Lemma glossary (Sa→Ru) — `U`
 
 1332 entries.
@@ -12993,3 +12995,4 @@
 - верблюжатину  · n=1
 - верблюд  · n=1
 
+_Dr. Mārcis Gasūns_

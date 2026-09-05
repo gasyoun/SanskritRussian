@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `T`
 
 82 entries.
@@ -1721,3 +1723,4 @@
 - брошенная  · n=3
 - покинута  · n=3
 
+_Dr. Mārcis Gasūns_

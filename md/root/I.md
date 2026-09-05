@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `I`
 
 31 entries.
@@ -883,3 +885,4 @@
 - стремящийся (к этому)  · n=1
 - нацеливается  · n=1
 
+_Dr. Mārcis Gasūns_

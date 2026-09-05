@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `E`
 
 8 entries.
@@ -166,3 +168,4 @@
 - стремиться  · n=1
 - надо искать  · n=1
 
+_Dr. Mārcis Gasūns_

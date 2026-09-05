@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `M`
 
 108 entries.
@@ -2381,3 +2383,4 @@
 - приникла  · n=1
 - Прогони  · n=1
 
+_Dr. Mārcis Gasūns_

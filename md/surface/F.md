@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Surface glossary — SLP1 `F`
 
 701 forms. Format: `form` (sa) — total n → ru (n) · registers.
@@ -3922,3 +3924,4 @@
 
 - наставления риши  · n=1  · nyaya-bhashya
 
+_Dr. Mārcis Gasūns_

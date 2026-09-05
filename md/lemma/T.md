@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Lemma glossary (Sa→Ru) — `T`
 
 1158 entries.
@@ -11399,3 +11401,4 @@
 
 - желает покинуть  · n=1
 
+_Dr. Mārcis Gasūns_

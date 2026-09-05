@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Lemma glossary (Sa→Ru) — `K`
 
 2334 entries.
@@ -21891,3 +21893,4 @@
 - может  · n=1
 - ждетъ  · n=1
 
+_Dr. Mārcis Gasūns_

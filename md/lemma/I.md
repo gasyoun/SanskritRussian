@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Lemma glossary (Sa→Ru) — `I`
 
 317 entries.
@@ -3566,3 +3568,4 @@
 - обряды ишти  · n=1
 - жертвоприношения предкам  · n=1
 
+_Dr. Mārcis Gasūns_

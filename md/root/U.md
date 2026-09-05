@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `U`
 
 68 entries.
@@ -909,3 +911,4 @@
 - при зажигании  · n=1
 - ранним утром  · n=1
 
+_Dr. Mārcis Gasūns_

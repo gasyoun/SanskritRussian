@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `C`
 
 70 entries.
@@ -1467,3 +1469,4 @@
 - миновало  · n=1
 - летящие  · n=1
 
+_Dr. Mārcis Gasūns_

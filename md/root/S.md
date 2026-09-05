@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `S`
 
 327 entries.
@@ -6542,3 +6544,4 @@
 - заставлю течь  · n=1
 - дрожит  · n=1
 
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `B`
 
 78 entries.
@@ -2022,3 +2024,4 @@
 - внял  · n=2
 - разгадал  · n=2
 
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `F`
 
 11 entries.
@@ -259,3 +261,4 @@
 - набиты  · n=1
 - Пусть смоют  · n=1
 
+_Dr. Mārcis Gasūns_

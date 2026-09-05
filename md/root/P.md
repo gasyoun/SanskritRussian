@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `P`
 
 184 entries.
@@ -3452,3 +3454,4 @@
 - наполняет  · n=1
 - получив помощь  · n=1
 
+_Dr. Mārcis Gasūns_

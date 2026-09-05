@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Lemma glossary (Sa→Ru) — `H`
 
 652 entries.
@@ -5859,3 +5861,4 @@
 
 - накануне  · n=1
 
+_Dr. Mārcis Gasūns_

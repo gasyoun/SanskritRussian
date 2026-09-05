@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `N`
 
 80 entries.
@@ -1614,3 +1616,4 @@
 - назначали  · n=1
 - Определили  · n=1
 
+_Dr. Mārcis Gasūns_

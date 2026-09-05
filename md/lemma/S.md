@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Lemma glossary (Sa→Ru) — `S`
 
 7199 entries.
@@ -66275,3 +66277,4 @@
 - на мягком ложе  · n=1
 - удобно лежащий  · n=1
 
+_Dr. Mārcis Gasūns_

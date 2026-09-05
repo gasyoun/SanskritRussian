@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Surface glossary — SLP1 `U`
 
 5636 forms. Format: `form` (sa) — total n → ru (n) · registers.
@@ -32576,3 +32578,4 @@
 
 - трава  · n=1  · ramayana-ayodhyakanda
 
+_Dr. Mārcis Gasūns_

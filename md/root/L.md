@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `L`
 
 52 entries.
@@ -1018,3 +1020,4 @@
 - отнял  · n=1
 - похитят  · n=1
 
+_Dr. Mārcis Gasūns_

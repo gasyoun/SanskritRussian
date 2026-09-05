@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Surface glossary — SLP1 `E`
 
 1086 forms. Format: `form` (sa) — total n → ru (n) · registers.
@@ -7343,3 +7345,4 @@
 - придетъ  · n=1  · bhagavadgita-1909
 - может  · n=1  · amaru-shataka
 
+_Dr. Mārcis Gasūns_

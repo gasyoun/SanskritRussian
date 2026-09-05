@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Surface glossary — SLP1 `I`
 
 1832 forms. Format: `form` (sa) — total n → ru (n) · registers.
@@ -11706,3 +11708,4 @@
 - посылает  · n=1  · rigveda
 - подымает  · n=1  · rigveda
 
+_Dr. Mārcis Gasūns_

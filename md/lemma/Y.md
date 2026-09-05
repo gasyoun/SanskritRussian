@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Lemma glossary (Sa→Ru) — `Y`
 
 694 entries.
@@ -7571,3 +7573,4 @@
 
 - насланное вами  · n=1
 
+_Dr. Mārcis Gasūns_

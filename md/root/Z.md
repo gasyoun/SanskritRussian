@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `Z`
 
 1 entries.
@@ -8,3 +10,4 @@
 - плюнув  · n=1
 - плюнул  · n=1
 
+_Dr. Mārcis Gasūns_

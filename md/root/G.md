@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `G`
 
 58 entries.
@@ -1417,3 +1419,4 @@
 - наградит  · n=1
 - заглушил  · n=1
 
+_Dr. Mārcis Gasūns_

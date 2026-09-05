@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Surface glossary — SLP1 `Q`
 
 17 forms. Format: `form` (sa) — total n → ru (n) · registers.
@@ -78,3 +80,4 @@
 
 - Дундугаури  · n=1  · mahabharata-aranyakaparva
 
+_Dr. Mārcis Gasūns_

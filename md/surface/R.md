@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Surface glossary — SLP1 `R`
 
 4721 forms. Format: `form` (sa) — total n → ru (n) · registers.
@@ -26260,3 +26262,4 @@
 
 - с колесницей  · n=1  · rigveda
 
+_Dr. Mārcis Gasūns_

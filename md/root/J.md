@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `J`
 
 65 entries.
@@ -1455,3 +1457,4 @@
 
 - Излучающих свет  · n=2
 
+_Dr. Mārcis Gasūns_

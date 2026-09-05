@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Surface glossary — SLP1 `O`
 
 207 forms. Format: `form` (sa) — total n → ru (n) · registers.
@@ -1175,3 +1177,4 @@
 - оштракарников  · n=1  · mahabharata-sabhaparva
 - Оштракарники  · n=1  · mahabharata-sabhaparva
 
+_Dr. Mārcis Gasūns_

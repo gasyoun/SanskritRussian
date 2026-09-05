@@ -1,3 +1,5 @@
+_Created: 01-07-2026 · Last updated: 05-09-2026_
+
 # Root glossary (Sa→Ru) — `Y`
 
 38 entries.
@@ -980,3 +982,4 @@
 - желает сражаться  · n=1
 - хочет бороться  · n=1
 
+_Dr. Mārcis Gasūns_
