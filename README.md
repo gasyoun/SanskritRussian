@@ -96,6 +96,18 @@ baseline is never altered — only alt-lemma trail data consistent with it is ne
 and [`scripts/reconcile_vidyut_ambiguity.py`](https://github.com/gasyoun/SanskritRussian/blob/main/scripts/reconcile_vidyut_ambiguity.py).
 Data-contract tests: `python scripts/test_ui_support_data.py`.
 
+### Semantic fields vs the MW sense tree (H6061, 07-10-2026)
+
+[`analysis/semantic_fields_vs_mw.md`](https://github.com/gasyoun/SanskritRussian/blob/main/analysis/semantic_fields_vs_mw.md)
+joins the RU lemma glossary (Layer 2) against the kosha WordSem 3-layer gold
+(H1453: WN synset → MW numbered sense → semdom) on the SLP1 lemma key:
+per-field coverage/richness table, low_coverage/thin_ru gap flags,
+the RU-richer untagged census (80.7% of RU lemmas carry no field tag), and
+[`analysis/ru_wsd_bridge.tsv`](https://github.com/gasyoun/SanskritRussian/blob/main/analysis/ru_wsd_bridge.tsv)
+— 2,761 multi-field lemmas with their RU translation distributions, the join
+input for WSD on Russian translations (B11). Deterministic rerun:
+`python scripts/build_semantic_fields_vs_mw.py` (see the report header).
+
 ## Method
 
 The corpus stores **only surface forms** — no lemma. Roots/lemmas are attached by a

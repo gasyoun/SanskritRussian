@@ -1,0 +1,103 @@
+{
+ "attested_join_coverage_pct": 65.05,
+ "attested_matched_lemmas": 6229,
+ "attested_tagged_lemmas": 9575,
+ "bridge_rows": 2761,
+ "coverage_q1_pct_major": 55.08,
+ "distinct_q1_major": 9.0,
+ "fields_ge20_lemmas": 25,
+ "join_coverage_pct": 46.26,
+ "kosha_tagged_lemmas": 16815,
+ "matched_lemmas": 7779,
+ "mono_distinct_median": 4.0,
+ "mono_entropy_median": 1.918,
+ "mono_field_lemmas": 5018,
+ "multi_distinct_median": 14.0,
+ "multi_entropy_median": 3.252,
+ "multi_field_lemmas": 2761,
+ "n_fields_total": 26,
+ "ru_lemmas": 40370,
+ "ru_untagged_lemmas": 32591,
+ "ru_untagged_top20_tokens": [
+  {
+   "lemma": "mad",
+   "n": 13078
+  },
+  {
+   "lemma": "tvad",
+   "n": 10391
+  },
+  {
+   "lemma": "kf",
+   "n": 7972
+  },
+  {
+   "lemma": "idam",
+   "n": 6979
+  },
+  {
+   "lemma": "yad",
+   "n": 6887
+  },
+  {
+   "lemma": "ca",
+   "n": 5107
+  },
+  {
+   "lemma": "vac",
+   "n": 4377
+  },
+  {
+   "lemma": "gam",
+   "n": 4257
+  },
+  {
+   "lemma": "etad",
+   "n": 3381
+  },
+  {
+   "lemma": "han",
+   "n": 3311
+  },
+  {
+   "lemma": "Sru",
+   "n": 3202
+  },
+  {
+   "lemma": "brU",
+   "n": 2852
+  },
+  {
+   "lemma": "api",
+   "n": 2546
+  },
+  {
+   "lemma": "tatas",
+   "n": 2513
+  },
+  {
+   "lemma": "mahat",
+   "n": 2452
+  },
+  {
+   "lemma": "para",
+   "n": 2250
+  },
+  {
+   "lemma": "iva",
+   "n": 2026
+  },
+  {
+   "lemma": "sTA",
+   "n": 2009
+  },
+  {
+   "lemma": "anya",
+   "n": 1987
+  },
+  {
+   "lemma": "taTA",
+   "n": 1883
+  }
+ ]
+}
