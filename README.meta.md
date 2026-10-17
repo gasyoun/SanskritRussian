@@ -22,7 +22,7 @@ agent maintaining the layer. Data lives in this repo; the pipeline lives in Sans
 ## Provenance
 
 - Layer built by the pipeline described in the [PLAN](https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/docs/PLAN_RussianTranslation_saru-gloss-quality_2026H2.md)
-  (handoff [H1349](https://github.com/gasyoun/Uprava/blob/main/handoffs/H1349-Opus_RussianTranslation_saru-gloss-quality-uplift_19.07.26.md)).
+  (handoff [H1349](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H1349-Opus_RussianTranslation_saru-gloss-quality-uplift_19.07.26.md)).
 - Doc consolidation + the coverage≠accuracy caveat: H1349 wave 1, 20-07-2026, Opus 4.8 (`claude-opus-4-8`).
 
 ## Load-bearing facts / limitations
