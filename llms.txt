@@ -1,0 +1,13 @@
+# Sanskrit → Russian glossary (root · lemma · form)
+
+> Machine-readable Sanskrit–Russian glossary layers: roots, lemmas and surface forms (with ambiguity/vidyut cross-checks), served as TSV/JSONL downloads.
+
+## Files
+
+- [Home / README](https://gasyoun.github.io/SanskritRussian/) · [README.md](https://gasyoun.github.io/SanskritRussian/README.md)
+- [Root glossary](https://gasyoun.github.io/SanskritRussian/root_glossary.tsv)
+- [Lemma glossary](https://gasyoun.github.io/SanskritRussian/lemma_glossary.tsv)
+- [Surface glossary (TSV)](https://gasyoun.github.io/SanskritRussian/surface_glossary.tsv) · [gzipped JSONL](https://gasyoun.github.io/SanskritRussian/surface_glossary.jsonl.gz)
+- [Vidyut ambiguity](https://gasyoun.github.io/SanskritRussian/vidyut_ambiguity.tsv) · [Ambiguity homographs](https://gasyoun.github.io/SanskritRussian/ambiguity_homographs.tsv)
+
+Source: https://github.com/gasyoun/SanskritRussian
